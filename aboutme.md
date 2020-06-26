@@ -6,7 +6,7 @@ cover-img: /assets/img/NIMBUS_banner2.jpg
 
 ### Who Is Jake?
 
-Sake Sanenson is a undergraduate at Swarthmore College currently completing his senior year. At Swarthmore he spends most of his time studying Computer Science and Linguistics. (Think of the interests as an XOR Venn diagram).
+Jake Chanenson is a undergraduate at Swarthmore College currently completing his senior year. At Swarthmore he spends most of his time studying Computer Science and Linguistics. (Think of the interests as an XOR Venn diagram).
 
 <img src="/assets/img/Venn_xor.png" width="150" height="100" alt="picture of XOR diagrams">
 
