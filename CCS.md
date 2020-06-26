@@ -5,7 +5,7 @@ bigimg:
 	- "/assets/img/Venn_xor.png" : "beep bob boop"
 ---
 
-# Culture Computation and Society Reading Group
+I have updated this page 6/26 3:05 am
 
 
 
