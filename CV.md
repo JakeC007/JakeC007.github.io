@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+cover-img: /assets/img/NIMBUS_banner3.jpg
 ---
 
 At the time of writing this I am still an undergraduate student at Swarthmore College. Therefore, it may be more appropriate (and informative!) to view my LinkedIn and ORCiD profiles respectively. By late 2021 I expect to have my CV posted here -- I appreciate your understanding. 
