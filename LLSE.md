@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Lib/Lab Summer Edition
-cover-img: 
-/assets/img/Venn_xor.png : "test" 
 ---
 
 Since 2015 the Swarthmore College Libraries annually run [a digital scholarship program entitled the "Lib/Lab Fellows."](http://ds.swarthmore.edu/fellows/) Slightly adapted from their [website](http://ds.swarthmore.edu/fellows/), the Lib/Lab Fellows:
