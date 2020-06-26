@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-cover-img: /assets/img/NIMBUS-uav.jpg
+cover-img: /assets/img/NIMBUS_uav.jpg
 css: /assets/css/image_p.css
 ---
 
