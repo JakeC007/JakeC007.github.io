@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Who Is Jake?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Jake Chanenson is a undergraduate at Swarthmore College currently completing his senior year. At Swarthmore he spends most of his time studying Computer Science and Linguistics. (Think of the interest as an XOR Venn diagram).
 
-What else do you need?
+> ![picture of XOR diagram]("/assets/img/Venn_xor.svg") 
 
-### my history
+In a more general sense, Jake is interested in Human Computer Interaction, Tech Policy & Digital Rights, and CS Education.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Current Whereabouts 
+
+Currently, Jake is working at McGill University's Responsible Autonomy & Intelligent System Ethics (RAISE) Lab. He is investigating ethical risk in A/IS applications.  
