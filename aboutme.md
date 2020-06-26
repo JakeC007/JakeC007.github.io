@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About Me
-cover-img: "\assets\img\NIMBUS.jpg" 
+cover-img: 
+	- \assets\img\NIMBUS.jpg
+	- \assets\img\JC_Profile.jpeg
 ---
 
 ### Who Is Jake?
