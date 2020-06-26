@@ -1,9 +1,7 @@
 ---
 layout: page
 title: About Me
-cover-img: /assets/img/Venn_xor.png
-#	- "/assets/img/NIMBUS.jpg"
-#	- "/assets/img/JC_Profile.jpeg"
+cover-img: /assets/img/NIMBUS.jpg
 ---
 
 ### Who Is Jake?
