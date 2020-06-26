@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Lib/Lab Summer Edition
+cover-img: 
+/assets/img/Venn_xor.png : "test" 
 ---
 
 Since 2015 the Swarthmore College Libraries annually run [a digital scholarship program entitled the "Lib/Lab Fellows."](http://ds.swarthmore.edu/fellows/) Slightly adapted from their [website](http://ds.swarthmore.edu/fellows/), the Lib/Lab Fellows:
@@ -26,7 +28,7 @@ If you'd like to see what sorts of texts we discussed, the syllabus can be found
 
 Note: The syllabus listed below is built on the [2019 Lib/Lab Fellows Syllabus](https://swat-ds.github.io/liblab/) created by Nabil Kashyap and Roberto Vargas. Feel free to check out that syllabus [here](https://swat-ds.github.io/liblab/).  
 
-### Week 1: Back to school!
+### Week 1: Back to basics
 
 * [Madrigal, Alexis C. “The Mechanics and Meaning”. *The Atlantic*.](https://www.theatlantic.com/technology/archive/2012/06/the-mechanics-and-meaning-of-that-ol-dial-up-modem-sound/257816/)
 * [The Programing Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
