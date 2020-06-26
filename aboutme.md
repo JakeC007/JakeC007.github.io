@@ -7,7 +7,9 @@ title: About Me
 
 Jake Chanenson is a undergraduate at Swarthmore College currently completing his senior year. At Swarthmore he spends most of his time studying Computer Science and Linguistics. (Think of the interest as an XOR Venn diagram).
 
-> ![picture of XOR diagram]("/assets/img/Venn_xor.svg") 
+> ![picture of XOR diagram]("/assets/img/Venn_xor.png") 
+
+![picture of XOR diagram]("/assets/img/Venn_xor.png") 
 
 In a more general sense, Jake is interested in Human Computer Interaction, Tech Policy & Digital Rights, and CS Education.
 

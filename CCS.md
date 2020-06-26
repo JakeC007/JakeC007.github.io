@@ -1,5 +1,10 @@
-# Culture Computation and Society
+---
+layout: page
+title: Culture Computation and Society Reading Group
+---
 
-### What Is It?
+# Culture Computation and Society Reading Group
 
-### An Abridged Readling List
+
+
+### An Abridged Reading List

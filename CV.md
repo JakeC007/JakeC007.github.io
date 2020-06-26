@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-At the time of writing this I am still an undergraduate student at Swarthmore College. Therefore, it may be more appropriate (and informative!) to view my LinkedIn and ORCiD profiles respectively. By late 2021 I expect to have my CV posted here. Until then, I appreciate your understanding. 
+At the time of writing this I am still an undergraduate student at Swarthmore College. Therefore, it may be more appropriate (and informative!) to view my LinkedIn and ORCiD profiles respectively. By late 2021 I expect to have my CV posted here -- I appreciate your understanding. 
 
 
 
