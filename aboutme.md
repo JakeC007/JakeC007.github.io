@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-cover-img: /assets/img/NIMBUS_banner2.jpg
+cover-img: /assets/img/NIMBUS_banner.jpg
 ---
 
 ### Who Is Jake?
