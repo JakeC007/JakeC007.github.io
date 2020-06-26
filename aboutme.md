@@ -25,4 +25,4 @@ Currently, Jake is working at McGill University's Responsible Autonomy & Intelli
 
 
 
-<img src="\assets\img\NIMBUS.jpg" width="900" height="600" alt="Pictured, Jake (L) and Nina (R) posing with a DJI F450 Flamewheel UAV">
+<img src="/assets/img/NIMBUS.jpg" width="900" height="600" alt="Pictured, Jake (L) and Nina (R) posing with a DJI F450 Flamewheel UAV">
