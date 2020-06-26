@@ -4,7 +4,7 @@
 title: Jake Chanenson
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: "A place where I collect my projects and scribblings.\nIn other words, welcome to my personal website!"
 
 # Your name to show in the footer
 author: G. Jake Chanenson
@@ -18,7 +18,6 @@ navbar-links:
   Reading Groups:
     - CCS: "CCS" 
     - Lib/Lab SE: "LLSE"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
