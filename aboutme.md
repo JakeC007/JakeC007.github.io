@@ -7,13 +7,15 @@ css: /assets/css/image_p.css
 
 ### Who Is Jake?
 
-Jake Chanenson is a undergraduate at Swarthmore College currently completing his senior year. At Swarthmore he spends most of his time studying Computer Science and Linguistics. (Think of the interests as an XOR Venn diagram).
+Jake Chanenson is a undergraduate student at Swarthmore College currently completing his senior year. At Swarthmore, he spends most of his time studying Computer Science and Linguistics. (Think of the interests as an XOR Venn diagram).
 
 <img src="/assets/img/Venn_xor.png" width="150" height="100" alt="picture of XOR diagrams" class="center">
 
-​																								Fig 1. An XOR diagram
 
-In a more general sense, Jake is interested in Tech Policy & Digital Rights, Human Computer Interaction, and CS Education.
+
+In a more general sense, Jake is interested in tech policy & digital rights, human computer interaction, and CS education. He feels incredibly fortunate to have participated in REU experiences over the past two summers that have afforded the opportunities to explore some of these interests. Through those experiences, Jake has been able to explore Human Computer Interaction through the modalities of virtual realty and unmanned aerial vehicles. He may have had a bit too much fun along the way.
+
+<img src="/assets/img/NIMBUS.jpg" width="400" height="300" title="Pictured, Jake (L) and Nina (R) posing with a DJI F450 Flamewheel" alt="Jake and Nina posing with a DJI F450 Flamewheel" class="center">
 
 ### Current Whereabouts 
 
@@ -21,8 +23,5 @@ Currently, Jake is working at McGill University's Responsible Autonomy & Intelli
 
 
 
-Previously
 
 
-
-<img src="/assets/img/NIMBUS.jpg" width="900" height="600" alt="Pictured, Jake (L) and Nina (R) posing with a DJI F450 Flamewheel UAV">
