@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-cover-img: /assets/img/NIMBUS_banner2.jpg
+cover-img: /assets/img/NIMBUS-uav.jpg
 css: /assets/css/image_p.css
 ---
 
@@ -9,7 +9,7 @@ css: /assets/css/image_p.css
 
 Jake Chanenson is a undergraduate at Swarthmore College currently completing his senior year. At Swarthmore he spends most of his time studying Computer Science and Linguistics. (Think of the interests as an XOR Venn diagram).
 
-<img src="/assets/img/Venn_xor.png" width="100" height="100" alt="picture of XOR diagrams" class="center">
+<img src="/assets/img/Venn_xor.png" width="150" height="100" alt="picture of XOR diagrams" class="center">
 
 ​																								Fig 1. An XOR diagram
 
