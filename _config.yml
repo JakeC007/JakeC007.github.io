@@ -1,18 +1,22 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Jake Chanenson
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: G. Jake Chanenson
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
+  CV:
+  Reading Groups:
+    - CCS: 
+    - Lib/Lab SE:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -38,10 +42,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "gchanen1@swarthmore.edu"
+  #facebook: deanattali
+  github: JakeC007
+  #twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -183,9 +187,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
+      readtime: true # add estimated reading time on all blog posts
   -
     scope:
       path: "" # all files
