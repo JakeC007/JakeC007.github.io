@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Culture Computation and Society Reading Group
-cover-img: \assets\img\Venn_xor.png : "beep bob boop"
+cover-img: 
+	- \assets\img\Venn_xor.png
 ---
 
 I have updated this page 6/26 5:21 pm
