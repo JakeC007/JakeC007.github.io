@@ -13,13 +13,11 @@ author: G. Jake Chanenson
 
 navbar-links:
   About Me: "aboutme"
-  CV:
+  CV: "CV"
+  Projects: "https://github.com/JakeC007"
   Reading Groups:
-    - CCS: 
-    - Lib/Lab SE:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - CCS: "CCS" 
+    - Lib/Lab SE: "LLSE"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
