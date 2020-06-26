@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-cover-img: /assets/img/NIMBUS_uav.jpg
+cover-img: /assets/img/MXR_lever.jpg #/assets/img/NIMBUS_uav.jpg
 css: /assets/css/image_p.css
 ---
 
@@ -20,6 +20,8 @@ In a more general sense, Jake is interested in Tech Policy & Digital Rights, Hum
 Currently, Jake is working at McGill University's Responsible Autonomy & Intelligent System Ethics (RAISE) Lab. He is investigating ethical risk in A/IS applications.  
 
 
+
+Previously
 
 
 
