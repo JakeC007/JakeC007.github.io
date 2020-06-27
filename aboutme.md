@@ -21,9 +21,3 @@ In a more general sense, Jake is interested in tech policy & digital rights, hum
 ### Current Whereabouts 
 
 Currently, Jake is working at McGill University's Responsible Autonomy & Intelligent System Ethics (RAISE) Lab. He is investigating ethical risk in A/IS applications and learning a lot about tech policy & digital rights.  
-
-
-
-
-
-### An Abridged Reading List
