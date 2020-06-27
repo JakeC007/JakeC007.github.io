@@ -16,7 +16,7 @@ body {
 p {margin-bottom: 1.15rem;}
 
 /* change font for all headings excluding title to keep it in line with the rest of the site*/
-h2, h3, h4, h5 {
+h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
   font-family: 'Bai Jamjuree', sans-serif;
   font-weight: 400;
