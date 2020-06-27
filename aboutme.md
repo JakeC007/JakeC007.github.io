@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: "About\nMe"
 cover-img: /assets/img/getty.jpg
 ---
 
