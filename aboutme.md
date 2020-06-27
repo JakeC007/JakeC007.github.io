@@ -13,7 +13,7 @@ Jake Chanenson is a undergraduate student at Swarthmore College currently comple
 
 
 
-In a more general sense, Jake is interested in tech policy & digital rights, human computer interaction (HCI), and CS education. During the summer months off from school, he has done NSF funded HCI research in virtual realty and unmanned aerial systems.  He may have had a bit too much fun along the way.
+In a more general sense, Jake is interested in tech policy & digital rights, human computer interaction (HCI), and CS education. During the summer months, Jake has participated in NSF funded HCI research in both virtual realty (2018 REU) and unmanned aerial systems (2019 REU) . It is possible that Jake has a little too much fun with the subject matter.
 
 <img src="/assets/img/NIMBUS.jpg" width="760" height="570" title="Pictured, Jake (L) and Nina (R) posing with a DJI F450 Flamewheel" alt="Jake and Nina posing with a DJI F450 Flamewheel">
 
