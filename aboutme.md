@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About\nMe"
+ccs: /assets/css/image_p.css
 cover-img: /assets/img/getty.jpg
 ---
 
