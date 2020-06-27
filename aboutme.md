@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-cover-img: /assets/img/MXR_lever.jpg #/assets/img/NIMBUS_uav.jpg
 css: /assets/css/image_p.css
+cover-img: /assets/img/getty.jpg
 ---
 
 ### Who Is Jake?
