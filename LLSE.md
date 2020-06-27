@@ -24,7 +24,7 @@ If you'd like to see what sorts of texts we discussed, the syllabus can be found
 
 ## Syllabus
 
-Note: The syllabus listed below is built on the [2019 Lib/Lab Fellows Syllabus](https://swat-ds.github.io/liblab/) created by Nabil Kashyap and Roberto Vargas. Feel free to check out that syllabus [here](https://swat-ds.github.io/liblab/).  
+Note: The syllabus listed below is built on the [2019 Lib/Lab Fellows Syllabus](https://swat-ds.github.io/liblab/) created by Nabil Kashyap and Roberto Vargas. Feel free to check out their syllabus.  
 
 ### Week 1: Back to basics
 
