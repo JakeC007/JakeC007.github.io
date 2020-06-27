@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About Me
-css: /assets/css/image_p.css
+title: Culture Computation and Society Reading Group
 cover-img: /assets/img/getty.jpg
 ---
 
@@ -27,3 +26,4 @@ Currently, Jake is working at McGill University's Responsible Autonomy & Intelli
 
 
 
+### An Abridged Reading List

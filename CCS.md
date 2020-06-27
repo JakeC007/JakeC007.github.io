@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Culture Computation and Society Reading Group
-#cover-img: /assets/img/getty.jpg
-cover-img: /assets/img/MXR_lever.jpg #/assets/img/NIMBUS_uav.jpg
+cover-img: /assets/img/getty.jpg
 ---
 
 ### Who Is Jake?
