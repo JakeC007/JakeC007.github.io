@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Culture Computation and Society Reading Group
+title: About Me
 cover-img: /assets/img/getty.jpg
 ---
 
