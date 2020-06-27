@@ -15,16 +15,14 @@ body {
 
 p {margin-bottom: 1.15rem;}
 
-h1, h2, h3, h4, h5 {
+/* change font for all headings excluding title to keep it in line with the rest of the site*/
+h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
+  font-family: 'Bai Jamjuree', sans-serif;
   font-weight: 400;
   line-height: 1.15;
   color: #0b6623; /* Contrast ratio of 7.14. Passes WCAG AA & AAA */
 }
-
-
-/* change font for all headings excluding title to keep it in line with the rest of the site*/
-h2, h3, h4, h5 {font-family: 'Bai Jamjuree', sans-serif;} 
 
 h1 {
   margin-top: 0;
