@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5 {
   font-family: 'Bai Jamjuree', sans-serif;
   font-weight: 400;
   line-height: 1.15;
-  color: #0b6623;
+  color: #0b6623; /* Contrast ratio of 7.14. Passes WCAG AA & AAA */
 }
 
 h1 {
