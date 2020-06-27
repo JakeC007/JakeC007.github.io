@@ -15,9 +15,11 @@ navbar-links:
   About Me: "aboutme"
   CV: "CV"
   Projects: "https://github.com/JakeC007"
+  About: "about"
   Reading Groups:
     - CCS: "CCS" 
     - Lib/Lab SE: "LLSE"
+  
 
 # --- Logo --- #
 
