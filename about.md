@@ -12,7 +12,3 @@ css: /assets/css/blue_blockquote.css
 * [Type Scale](http://type-scale.com/)
 * [Beautifuljekyll](https://beautifuljekyll.com/)
 * [The A11Y Machine](https://github.com/liip/TheA11yMachine)
-
-
-
-> Damn, this!!
