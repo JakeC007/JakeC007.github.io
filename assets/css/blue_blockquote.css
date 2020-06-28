@@ -7,13 +7,14 @@ layout: null
 
 blockquote {
   position: relative;
-  padding-left: 1em;
+  padding-left: .25em;
   border-left: 5px solid #035096;
   font-family: 'Roboto', serif;
-  font-size: 2.4em;
+  font-size: 2.0em;
   line-height: 1.5em;
   font-weight: 100;
-  margin-bottom: 3em;
+  margin-left: .5em;
+  margin-bottom: .5em;
 }
 blockquote:before {
   content: '\201C';
@@ -29,10 +30,10 @@ blockquote:after {
 blockquote p {
   display: inline;
 }
-/*
+
 .container {
   width: 80em;
   margin: 2em auto;
 }
-*/
+
 
