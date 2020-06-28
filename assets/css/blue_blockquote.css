@@ -2,8 +2,8 @@
 layout: null
 ---
 
-@import url(https://fonts.googleapis.com/css?family=Sanchez:400italic,400),
-        url(https://fonts.googleapis.com/css?family=Roboto:100);
+@import url('https://fonts.googleapis.com/css?family=Sanchez:400italic,400'),
+        url('https://fonts.googleapis.com/css?family=Roboto:100');
 
 blockquote {
   position: relative;
