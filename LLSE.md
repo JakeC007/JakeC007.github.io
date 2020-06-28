@@ -46,7 +46,6 @@ Note: The syllabus listed below is built on the [2019 Lib/Lab Fellows Syllabus](
 * Blum, Andrew. *Tubes: A journey to the center of the Internet*. (2013).
 * [Doctorow, Cory. "What the Internet Is For." Locus Magazine (2018).](https://locusmag.com/2018/11/cory-doctorow-what-the-internet-is-for/) 
 * [TeleGeography's Submarine Cable Map](https://www.submarinecablemap.com/)
-* 
 
 ### Week 4: Does data dream of visualizations? 
 
@@ -55,6 +54,7 @@ Note: The syllabus listed below is built on the [2019 Lib/Lab Fellows Syllabus](
 * [Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 * [D’Ignazio, Catherine and Klein, Lauren. “On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints.” (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
 * [Szafir, Danielle. "The Good, the Bad, and the Biased: Five Ways Visualizations Can Mislead (and How to Fix Them)." (ACM, 2018)](https://cmci.colorado.edu/visualab/papers/p26-szafir.pdf)"
+* [Seeing Data: Taking Time With Visualisations](http://seeingdata.org/sections/intro/)
 
 ### Week 5
 
