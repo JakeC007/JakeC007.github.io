@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lib/Lab Summer Edition
-css: [/assets/css/green_BaiJamjuree.css, /assets/css/simple_blockquote.css]
+css: [/assets/css/green_BaiJamjuree.css]
 ---
 
 Since 2015 the Swarthmore College Libraries annually run [a digital scholarship program entitled the "Lib/Lab Fellows."](http://ds.swarthmore.edu/fellows/) Slightly adapted from their [website](http://ds.swarthmore.edu/fellows/), the Lib/Lab Fellows:
