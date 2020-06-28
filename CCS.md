@@ -7,6 +7,8 @@ css: /assets/css/blue_blockquote.css
 
 # What is the Culture, Computation, and Society Reading Group?
 
+
+
 > Computers are impacting all of our lives - let’s talk about it
 
 The culture, computation, and society reading group was a student-led seminar that I co-organized and co-led with Adriana K. from 2019-2021 at Swarthmore College. Comprised of students, staff, and faculty from across the sciences, social sciences, and humanities, we felt very strongly that the reading group should actively seek out and include individuals who aren't the stereotypical STEM major. To quote one of our publicity emails "This seminar is open to EVERYONE. Not just CS majors, not just CS students, but anyone who uses a computer (that’s you!)."    
