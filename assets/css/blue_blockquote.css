@@ -21,6 +21,7 @@ blockquote {
   line-height: $base-line-height;
   font-weight: 100;
   margin-bottom: 3em;
+  font-size: 62.5%;
 }
 blockquote:before {
   content: '\201C';
@@ -37,12 +38,9 @@ blockquote p {
   display: inline;
 }
 
-body {
-  color: hsl(200, 40, 40);
-  font-size: 62.5%;
-}
-
+/*
 .container {
   width: 80em;
   margin: 2em auto;
 }
+*/
