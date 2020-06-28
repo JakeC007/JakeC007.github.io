@@ -13,8 +13,8 @@ blockquote {
   line-height: 1.25em;
   font-weight: 100;
   margin-left: .5em;
-  margin-bottom: .35em;
-  color: #2D556C;
+  margin-bottom: .25em;
+  color: #2D556C; /* ratio of 7.99; WCAG AAA compliant*/
 }
 blockquote:before {
   content: '\201C';
