@@ -11,9 +11,9 @@ blockquote {
   font-family: 'Roboto', sans-serif;
   font-size: 1.5em;
   line-height: 1.25em;
-  font-weight: 700;
+  font-weight: 100;
   margin-left: .5em;
-  margin-bottom: .5em;
+  margin-bottom: .35em;
   color: #2D556C;
 }
 blockquote:before {
