@@ -23,6 +23,7 @@ blockquote {
   font-weight: 100;
   margin-bottom: 3em;
   font-size: 62.5%;
+  color: #D4E4ED;
 }
 blockquote:before {
   content: '\201C';
