@@ -2,7 +2,7 @@
 layout: page
 title: Culture, Computation, and Society Reading Group
 cover-img: /assets/img/bookshelf.jpeg
-css: /assets/css/blue_blockquote.css 
+css: /assets/css/simple_blockquote.css 
 ---
 
 ## What is the Culture, Computation, and Society Reading Group?
@@ -21,8 +21,3 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 
 
 
-> This is a test. Why isn't this blue?
-
-
-
-### An Abridged Reading List
