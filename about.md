@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About This Website
-css: blue_blockquote.css
+css: /assets/css/blue_blockquote.css
 ---
 
 
