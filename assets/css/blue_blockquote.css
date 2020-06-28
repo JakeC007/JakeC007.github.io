@@ -14,7 +14,6 @@ blockquote {
   line-height: 1.5em;
   font-weight: 100;
   margin-bottom: 3em;
-  font-size: 62.5%;
 }
 blockquote:before {
   content: '\201C';
