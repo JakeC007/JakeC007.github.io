@@ -5,7 +5,7 @@ cover-img: /assets/img/bookshelf.jpeg
 css: /assets/css/blue_blockquote.css 
 ---
 
-## What is the Culture, Computation, and Society Reading Group?
+# What is the Culture, Computation, and Society Reading Group?
 
 > Computers are impacting all of our lives - let’s talk about it
 
