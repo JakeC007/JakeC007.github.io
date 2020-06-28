@@ -1,0 +1,121 @@
+---
+layout: null
+---
+/*
+relevant HTML 
+ 
+<div class="container">
+  
+  <blockquote class="brooks">
+      Tragedy is when I cut my finger. Comedy is when you walk into an open sewer and die.
+  </blockquote>
+  
+  <blockquote class="ludwig">
+    I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves.
+  </blockquote>
+  
+  <blockquote class="groucho">
+    I don't have a photograph. I'd give you my footprints, but they're upstairs in my socks.
+    <footer>Groucho Marx</footer>
+  </blockquote>
+  
+</div>
+*/
+@import "compass/css3";
+
+/* Some vars */
+$background-color: hsl(50, 5, 97);
+$black: hsl(200, 40, 10);
+$white: $background-color;
+$base-font-size: 2.4em;
+$base-line-height: 1.5em;
+
+.brooks {
+  position: relative;
+  font-family: 'Sanchez', serif;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-style: italic;
+  &:before {
+      content: '\201C';
+      position: absolute;
+      top: 0.25em;
+      left: -0.15em;
+      color: darken($white, 7%);
+      font-size: 6em;
+      z-index: -1;
+   }
+}
+
+.ludwig {
+  position: relative;
+  padding-left: 1em;
+  border-left: 0.2em solid lighten($black, 40%);
+  font-family: 'Roboto', serif;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: 100;
+  &:before, &:after {
+      content: '\201C';
+      font-family: 'Sanchez';
+      color: lighten($black, 40%);
+   }
+   &:after {
+      content: '\201D';
+   }
+}
+
+.groucho {
+  position: relative;
+  font-family: 'Sanchez', serif;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  
+  footer {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.6em;
+    font-weight: 700;
+    color: darken($white, 15%);
+    float: right;
+    
+    &:before {
+      content: '\2015';  
+    }
+  }
+  &:after {
+      content: '\201D';
+      position: absolute;
+      top: 0.28em;
+      right: 0;
+      font-size: 6em;
+      font-style: italic;
+      color: darken($white, 7%);
+      z-index: -1;
+   }
+}
+
+
+/* Some generic stuff. Don't worry about it */
+
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700),
+        url(https://fonts.googleapis.com/css?family=Sanchez:400italic,400),
+        url(https://fonts.googleapis.com/css?family=Roboto:100);
+
+html {
+  background: hsl(50, 5, 97);
+  font-size: 16px;
+}
+
+body {
+  color: hsl(200, 40, 40);
+  font-size: 62.5%;
+}
+
+.container {
+  width: 80em;
+  margin: 2em auto;
+}
+
+blockquote {
+  margin-bottom: 3em;
+}
