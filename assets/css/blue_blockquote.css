@@ -4,8 +4,6 @@ layout: null
 
 @import url(https://fonts.googleapis.com/css?family=Sanchez:400italic,400),
         url(https://fonts.googleapis.com/css?family=Roboto:100);
-/* Some vars */
-
 
 blockquote {
   position: relative;
@@ -17,7 +15,6 @@ blockquote {
   font-weight: 100;
   margin-bottom: 3em;
   font-size: 62.5%;
-  color: #D4E4ED;
 }
 blockquote:before {
   content: '\201C';
