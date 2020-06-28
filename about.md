@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About This Website
-css: three_styles_blockquote.css
+css: blue_blockquote.css
 ---
 
 
@@ -18,19 +18,4 @@ css: three_styles_blockquote.css
 
 
 
-<div class="container">
-  <blockquote class="brooks">
-      We pursue intersections between culture and computation, the qualitative and the quantitative, the humanistic and the digital through reading, talking, and coding
-  </blockquote>
-
-  <blockquote class="ludwig">
-    We pursue intersections between culture and computation, the qualitative and the quantitative, the humanistic and the digital through reading, talking, and coding
-  </blockquote>
-
-  <blockquote class="groucho">
-    We pursue intersections between culture and computation, the qualitative and the quantitative, the humanistic and the digital through reading, talking, and coding
-    <footer>Keaton K.</footer>
-  </blockquote>
-
-</div>
-
+> We pursue intersections between culture and computation, the qualitative and the quantitative, the humanistic and the digital through reading, talking, and coding
