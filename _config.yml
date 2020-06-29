@@ -12,15 +12,16 @@ author: G. Jake Chanenson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   CV: "CV"
   Science Outreach: "scienceoutreach" 
   Projects: "https://github.com/JakeC007"
   Reading Groups:
     - CCS: "CCS" 
     - Lib/Lab SE: "LLSE"
-  Blog:"/blog/index.html"
-  About: "about"
+  Blog:"blog"
+  About: 
+    - Me: "aboutme"
+    - This Website: "about"
   
 
 # --- Logo --- #
