@@ -14,6 +14,7 @@ author: G. Jake Chanenson
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
+  Science Outreach: "scienceoutreach" 
   Projects: "https://github.com/JakeC007"
   Reading Groups:
     - CCS: "CCS" 
