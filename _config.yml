@@ -19,6 +19,7 @@ navbar-links:
   Reading Groups:
     - CCS: "CCS" 
     - Lib/Lab SE: "LLSE"
+  Blog:"/blog/index.html"
   About: "about"
   
 
