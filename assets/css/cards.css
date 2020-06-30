@@ -38,7 +38,7 @@
 }
 .card-image {
   grid-area: image;
-  background:url("/assets/img/getty.jpg");
+  background:url("/assets/img/JC_Profile_square.jpeg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -70,7 +70,7 @@
 
 /* ------------------------- CARD 2 ------------------------- */ 
 .card-image.card2 {
-  background: url("/assets/img/NIMBUS_uav.jpg");
+  background: url("http://s.gr-assets.com/assets/icons/goodreads_icon_50x50-823139ec9dc84278d3863007486ae0ac.png");
   background-size: cover;
 }
 .card-text.card2 .category {
