@@ -68,6 +68,25 @@
   box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
 }
 
+/* ------------------------- CARD 2 ------------------------- */ 
+.card-image.card2 {
+  background: url("/assets/img/NIMBUS_uav.jpg");
+  background-size: cover;
+}
+.card-text.card2 .category {
+  color: rgb(255, 77, 7);
+}
+
+/* ------------------------- CARD 3 ------------------------- */ 
+/*card3*/
+.card-image.card3 {
+  background: url("/assets/img/bookshelf.jpeg");
+  background-size: cover;
+}
+.card-text.card3 .category {
+  color: rgb(0, 189, 63);
+}
+
 
 /*create special invisible links to make cards link to projects
  *Usage: <a href="URL" class="invisible" target="_blank"> text-goes-here </a>
