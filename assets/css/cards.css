@@ -71,7 +71,7 @@
 
 /*create special invisible links to make cards link to projects
  *Usage: <a href="URL" class="invisible" target="_blank"> text-goes-here </a>
- 
+
 a.invisible:link {
   text-decoration: none !important;
   color: inherit;
@@ -88,8 +88,8 @@ a.invisible:hover {
   text-decoration: none !important;
   color: #006699;
 }
-*/
 
+ */
 a {
   text-decoration: none !important;
   color: inherit;
