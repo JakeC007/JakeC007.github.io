@@ -61,16 +61,13 @@
 .card-text .category {
   color: rgb(255, 7, 110);
   font-size:15px;
+}
 	
-
 .card:hover {
    transform: scale(1.15);
   box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
 }
 
-img {
-  border-radius: 5px 5px 0 0;
-}
 
 /*create special invisible links to make cards link to projects
  *Usage: <a href="URL" class="invisible" target="_blank"> text-goes-here </a>
