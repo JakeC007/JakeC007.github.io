@@ -54,7 +54,7 @@
   font-size:15px;
   font-weight: 300;
 }
-.card-text h2 {
+.card-text h3 {
   margin-top:0px;
   font-size:28px;
 }
@@ -90,11 +90,25 @@ a.invisible:hover {
 }
 
  */
-a {
+ 
+/*
+* This is very ugly but for some reason gh-pages won't accept the invisible class for links.
+* EVERY hyper link will only change color when hovered on 
+*/
+a:link {
+  text-decoration: none !important;
+  color: inherit;
+}
+a:visited {
+  text-decoration: none !important;
+  color: inherit;
+}
+a:active {
   text-decoration: none !important;
   color: inherit;
 }
 a:hover {
+  text-decoration: none !important;
   color: #006699;
 }
 	
