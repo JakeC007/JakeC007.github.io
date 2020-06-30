@@ -17,17 +17,17 @@ To try and improve computer science literacy, I have presented computer science 
   * GOFAI
   * Machine Learning
 * Cybersecurity and Systems
+  * External Devices and Storage
   * Malware
   * Operating Systems
-  * External Devices and Storage
 * Natural Language Processing
   * Automatic Speech Recognition
-  * Text Categorization
   * Chatbots
+  * Text Categorization
 * Misc. Internet related topics
-  * The "Cloud"
-  * Internet Infrastructure 
   * Bitcoin & The Blockchain
+  * Internet Infrastructure 
+  * The "Cloud"
 * 3D printing
 
 
