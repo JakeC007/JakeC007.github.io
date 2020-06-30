@@ -76,3 +76,10 @@
 img {
   border-radius: 5px 5px 0 0;
 }
+
+/* This makes hyperlinks invisable */
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
