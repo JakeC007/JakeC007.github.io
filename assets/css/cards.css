@@ -77,9 +77,23 @@ img {
   border-radius: 5px 5px 0 0;
 }
 
-/* This makes hyperlinks invisable */
-a {
+/*create special invisible links to make cards link to projects
+ *Usage: <a href="URL" class="invisible" target="_blank"> text-goes-here </a>
+ */
+a.invisible:link {
   text-decoration: none !important;
-  color: inherit !important;
+  color: inherit;
+}
+a.invisible:visited {
+  text-decoration: none !important;
+  color: inherit;
+}
+a.invisible:active {
+  text-decoration: none !important;
+  color: inherit;
+}
+a.invisible:hover {
+  text-decoration: none !important;
+  color: #006699;
 }
 
