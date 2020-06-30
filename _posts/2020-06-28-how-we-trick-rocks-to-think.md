@@ -18,6 +18,7 @@ not to oversimplify: first you have to flatten the rock and put lightning inside
   <span class="author"><i>@daisyowl, 3/4/17</i></span>
 </blockquote>
 
+
 I would go even further and add:
 
 <blockquote>
@@ -25,7 +26,7 @@ a word of caution: if the rock thinks too hard it will become hot enough to boil
   <span class="author"><i>@Me, 6/17/20</i></span>
 </blockquote>
 
- 
+
 
 There are a lot of thinking rocks in use today. You use a thinking rock to write a text, browse the internet, and play music. Most people you know probably have at least one or two thinking rocks in their possession. A cursory count puts the number of these rocks thinking on a daily basis north of a billion! With so many thinking rocks around, perhaps you’ve idly wondered how exactly a flattened rock stuffed chockfull of lightning gets made. If so, you're in luck! Today we're going to explore how the thinking rocks that power your computer are created.
 
