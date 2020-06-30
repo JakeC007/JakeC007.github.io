@@ -22,8 +22,8 @@
 .card {
   display: grid;
   grid-template-columns: 300px;
-  grid-template-rows: 210px 210px 40px;
-  grid-template-areas: "image" "text" "stats";
+  grid-template-rows: 210px 210px;
+  grid-template-areas: "image" "text";
 
   border-radius: 18px;
   background: white;
@@ -58,14 +58,9 @@
   margin-top:0px;
   font-size:28px;
 }
-
-.card-stats {
-  grid-area: stats; 
-  display: block;
-  border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px;
-  background: rgb(255, 7, 110);
-}
+.card-text .category {
+  color: rgb(255, 7, 110);
+  font-size:15px;
 	
 
 .card:hover {
