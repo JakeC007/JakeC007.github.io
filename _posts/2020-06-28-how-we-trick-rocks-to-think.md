@@ -9,16 +9,18 @@ tags: [cpu, tech explained, systems]
 There is an excellent tuple of tweets by @daisyowl that go something like this:
 > a CPU is literally a rock that we tricked into thinking
 
-\- (@daisyowl, 3/4/17)
+-(@daisyowl, 3/4/17)
+
 > not to oversimplify: first you have to flatten the rock and put lightning inside it 
 
--(@daisyowl, 3/4/17) 
+ -(@daisyowl, 3/4/17) 
 
- 
+
 
 I would go even further and add:
 
 > a word of caution: if the rock thinks too hard it will become hot enough to boil water 
+
 -(@Me, 6/17/20)
 
 
