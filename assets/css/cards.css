@@ -92,5 +92,10 @@ a.invisible:hover {
  */
 a {
   text-decoration: none !important;
+  color: inherit;
 }
+a:hover {
+  color: #006699;
+}
+	
 
