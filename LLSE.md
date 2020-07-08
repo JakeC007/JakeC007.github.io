@@ -31,48 +31,63 @@ Note: The syllabus listed below is built on the [2019 Lib/Lab Fellows Syllabus](
 
 * [Madrigal, Alexis C. “The Mechanics and Meaning”. *The Atlantic*.](https://www.theatlantic.com/technology/archive/2012/06/the-mechanics-and-meaning-of-that-ol-dial-up-modem-sound/257816/)
 * [The Programing Historian: Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
-* [What is "the Shell"?](http://linuxcommand.org/lc3_lts0010.php)
 * [The Programing Historian: Introduction to Jupyter Notebooks](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+* [What is "the Shell"?](http://linuxcommand.org/lc3_lts0010.php)
 
 ### Week 2: Power, race, and technology
 
-* [Winner, Langdon. “Do Artifacts Have Politics?” from *The Whale and the Reactor* (1986). pp. 121-128.](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 * [Biss, Eula. “Time and Distance Overcome” from *Notes from No Man’s Land* (2009).](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=6414&context=iowareview)
 * [Simonite, Tom. "The Best Algorithms Still Struggle to Recognize Black Faces." *Wired*.](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/)
+* [Winner, Langdon. “Do Artifacts Have Politics?” from *The Whale and the Reactor* (1986). pp. 121-128.](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 
 ### Week 3: "It's not a big truck. It's a series of tubes." -  Sen. Stevens
 
-* [Star, Susan Leigh. “The Ethnography of Infrastructure.” *American Behavioral Scientist* 43, no. 3 (November 1, 1999): 377–91.](https://www.zotero.org/groups/2224126/liblab/items/J7SKFFFS/file)
 * Blum, Andrew. *Tubes: A journey to the center of the Internet*. (2013).
 * [Doctorow, Cory. "What the Internet Is For." Locus Magazine (2018).](https://locusmag.com/2018/11/cory-doctorow-what-the-internet-is-for/) 
+* Star, Susan Leigh. “The Ethnography of Infrastructure.” *American Behavioral Scientist* 43, no. 3 (November 1, 1999): 377–91.
 * [TeleGeography's Submarine Cable Map](https://www.submarinecablemap.com/)
 
 ### Week 4: Does data dream of visualizations? 
 
-* [Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2015): 238–50.](https://www.zotero.org/groups/2224126/liblab/items/VAE35BCK/file)
 * [Daniels, Matt. “The Language of Hip Hop.” *The Pudding* (2017).](https://pudding.cool/2017/02/vocabulary/)
-* [Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 * [D’Ignazio, Catherine and Klein, Lauren. “On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints.” (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/8tjbs2x5)
+* Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” *A New Companion to Digital Humanities*, edited by Susan Schreibman et al. (2015): 238–50.
+* [Osman, Jenna. from *Motion Studies*. PEN Poetry Series. November 25, 2015.](https://pen.org/from-motion-studies/)
 * [Szafir, Danielle. "The Good, the Bad, and the Biased: Five Ways Visualizations Can Mislead (and How to Fix Them)." (ACM, 2018)](https://cmci.colorado.edu/visualab/papers/p26-szafir.pdf)"
 * [Seeing Data: Taking Time With Visualisations](http://seeingdata.org/sections/intro/)
 
-### Week 5
+### Week 5: Hey, Hey, Listen! (The Attention Economy)
 
-* [Tufekci, Zeynep. “It’s the (Democracy-Poisoning) Golden Age of Free Speech.” *Wired*, January 16, 2018.](https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/).
-* [———. “‘Not This One’: Social Movements, the Attention Economy, and Microcelebrity Networked Activism.” *American Behavioral Scientist* 57, no. 7 (July 2013): 848–70](https://www.zotero.org/groups/2224126/liblab/items/SVR9CWXC/file).
+* Alter, Adam. *Irresistible: The Rise Of Addictive Technology And The Business Of Keeping Us Hooked.* (2017). Chapters 4-9.
+* [Brignull, Harry. "Types of Dark Patterns." *Dark Patterns*](https://www.darkpatterns.org/types-of-dark-pattern)
+* [Haynes, Trevor. "Dopamine, Smartphones & You: A battle for your time." *Science In The News.*](http://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/)
+* [Tufekci, Zeynep. “It’s the (Democracy-Poisoning) Golden Age of Free Speech.” *Wired.*](https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/)
+* Tufekci, Zeynep. “‘Not This One’: Social Movements, the Attention Economy, and Microcelebrity Networked Activism.” *American Behavioral Scientist* 57, no. 7 (July 2013): 848–70.
 
-### Week 6
+### Week 6: Is the cloud someone else's computer?
 
-* [Tung-Hui, Hu. “Introduction.” In *A Prehistory of the Cloud* (2015).](https://www.zotero.org/groups/2224126/liblab/items/F5FXBWLS/file)
-* [Simon, Johnny. “These Beautiful Photos Reveal the Internet Is Hiding in Plain Sight.” *Quartz*. October 5, 2016.](https://qz.com/770849/these-beautiful-photos-reveal-the-internet-is-hiding-in-plain-sight/)
-* [Greer, Dave. Professional site of artist mentioned in the *Quartz* article.](https://davegreer.cc/INTERNET)
+* [Branscombe, Mary. "Stop saying the cloud is just someone else's computer - because it's not." *ZDNet.*](https://www.zdnet.com/article/stop-saying-the-cloud-is-just-someone-elses-computer-because-its-not/)
 * [Donnelly, Timothy. “The Cloud Corporation.” *Poetry Foundation*.](https://www.poetryfoundation.org/poems/54305/the-cloud-corporation)
+* [Simon, Johnny. “These Beautiful Photos Reveal the Internet Is Hiding in Plain Sight.” *Quartz*.](https://qz.com/770849/these-beautiful-photos-reveal-the-internet-is-hiding-in-plain-sight/)
+  * [Greer, Dave. Professional site of artist mentioned in the *Quartz* article.](https://davegreer.cc/INTERNET)
+* Tung-Hui, Hu. “Introduction.” In *A Prehistory of the Cloud* (2015).
 
-### Week 7
+### Week 7: Performing Identity in Digital Environments
 
-* dddd
+* [Abendroth, Emily. *Exclosures 1-8*. Albion Books 4.3. From Eclipse Archive.](http://eclipsearchive.org/projects/EXCLOSURES/Exclosures.pdf)
+* [D’Ignazio, Catherine and Klein, Lauren. “What Gets Counted.” (chapter draft) In *Data Feminism* (MIT, 2020).](https://bookbook.pubpub.org/pub/rykaknh1)
+* [databasic.io](https://databasic.io/en/)
+  * *Explore this page thinking about who is responsible, who is it for, and how it compares to other related interfaces keeping in mind the reading for this week*
+* [Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575.](https://philpapers.org/archive/HARSKT.pdf)
+* 
 
-### Week 8
+### Week 8: Privacy and Surveillance 
 
-* dddd
+* Brunton, Fin & Nissenbaum, Helen. “Why is Obfuscation Necessary.” In *Obfuscation: A User’s Guide for Privacy and Protest*”
+* Cyril, Malkia. “Watching the Black Body” In *McSweeney’s 54:0134-0146*
+* [Cox, Joseph. "I Gave a Bounty Hunter $300. Then He Located Our Phone" *Motherboard*](https://www.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile)
+* [Doctorow, Cory. "The case for ... cities that aren't dystopian surveillance states." *The Guardian.*](https://www.theguardian.com/cities/2020/jan/17/the-case-for-cities-where-youre-the-sensor-not-the-thing-being-sensed)
+* [The New Organs](https://neworgans.net/) 
+  * Explore the webpage and watch the 10 minute video
+* [Zuboff, Shoshana. "You Are Now Remotely Controlled." *The New York Times.*](https://www.nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html)
 
