@@ -1,3 +1,9 @@
+---
+layout: post
+title: Make `diff` More Effective With Kompare
+tags: [linux, ubuntu, linux tips, tech tips, linux tools]
+---
+
 # Make `diff` More Effective With Kompare
 
 The diff tool is a powerful utility when trying to compare two files. In my own uses of the diff tool I have sometimes wished for something a bity more human friendly. Luckily that's where Kompare comes in. It's a GUI that compares two files--same as diff!
