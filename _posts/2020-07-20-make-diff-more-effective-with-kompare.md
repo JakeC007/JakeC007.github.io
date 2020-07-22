@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make `diff` More Effective With Kompare
+title: Make diff More Effective With Kompare
 tags: [linux, ubuntu, linux tips, tech tips, linux tools]
 ---
 
@@ -10,7 +10,7 @@ The diff tool is a powerful utility when trying to compare two files. In my own 
 
 In using Kompare I've found that the compare button is sometimes greyed out. 
 
-![](/assets/img/kompare_grey.png)
+![](https://jakec007.github.io/assets/img/kompare_grey.PNG)
 
 Luckily I've found an easy fix to this problem. 
 
@@ -24,4 +24,4 @@ Note in the picture below there is now a "file:/" before the file path. All you 
 
 
 
-![](/assets/img/kompare_full.png)
+![](https://jakec007.github.io/assets/img/kompare_full.PNG)
