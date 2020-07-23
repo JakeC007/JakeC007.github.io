@@ -37,6 +37,7 @@ Note: The syllabus listed below is built on the [2019 Lib/Lab Fellows Syllabus](
 ### Week 2: Power, race, and technology
 
 * [Biss, Eula. "Time and Distance Overcome" from *Notes from No Man’s Land* (2009).](https://ir.uiowa.edu/cgi/viewcontent.cgi?article=6414&context=iowareview)
+* [Powels, Julia. "The Seductive Diversion of 'Solving' Bias in Artificial Intelligence." *OneZero.*](https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53)
 * [Simonite, Tom. "The Best Algorithms Still Struggle to Recognize Black Faces." *Wired*.](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/)
 * [Winner, Langdon. "Do Artifacts Have Politics?" from *The Whale and the Reactor* (1986). pp. 121-128.](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 
