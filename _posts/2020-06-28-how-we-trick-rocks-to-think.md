@@ -88,7 +88,7 @@ Upon reflection, perhaps a CPU isn't merely thinking rock but a very clever pile
 
 "around two billion (or more) transistors..." : High end laptop & desktop CPUs have [around 2 billion transistors](https://en.wikichip.org/wiki/intel/microarchitectures/skylake_(client)#Dual-core). Apple's A13 bionic is reported to have [8.5 billion transistors](https://en.wikichip.org/wiki/apple/ax/a13) and is used in the iPhone 11 series and the iPhone SE2.  Note: do not conflate a higher transistor count with better performance. Mobile devices typically have a System on a Chip (SoC) design which integrates most or all the components of a computer onto the same chip as the CPU. Most of the transistors on an SoC, like the A13 bionic, transistors are used for things other than the CPU. 
 
-"A tower of paper that is 31.07 miles high...": assuming that the thickness of a thin piece of paper is .05 mm, $$5x10^5 m * 1x10^9 = 50,000 m$$. 50,000 m converted to miles is 31.07 miles. 
+"A tower of paper that is 31.07 miles high...": assuming that the thickness of a thin piece of paper is .05 mm, $$5x10^{-5} m * 1x10^9 = 50,000 m$$. 50,000 m converted to miles is 31.07 miles. 
 
 "That’s halfway to space...': The [Kármán line](https://en.wikipedia.org/wiki/Kármán_line)–which defines the edge of space—is at an altitude of 100 km. 
 
