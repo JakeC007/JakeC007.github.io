@@ -91,8 +91,6 @@ The test is scored out of a sum of 340 points. You can earn up to 170 points in 
 
 
 
-
-
 ## How To Prepare For The GRE 
 
 There is no "right" way to prepare to the GRE. Friends of mine took a mock practice test once walked into the test and crushed it. Other people I know spent months studying to get the scores they wanted. What I can tell you is what worked for me and what resources I know that are out there.
@@ -123,7 +121,7 @@ You can totally prepare for this test for free. All three services listed above 
 
 ### General Resource Sites
 
-* [r/GRE](r/GRE)
+* [r/GRE](https://www.reddit.com/r/GRE/)
   * A good place to go to get questions answered about the experience and ask for solutions to specific test prep questions. Be warned, there are posters on the site who showboat. (e.g. I got a V: 168 Q: 169 what do I need to do to get better). 
 * [GregMat](https://www.gregmat.com/)
   * Lots of free and useful videos on his website 
@@ -139,7 +137,9 @@ You can totally prepare for this test for free. All three services listed above 
 * [GRE Vocab Capacity](https://www.avayeshahir.com/uploads/classCategoryFiles/GRE_Vocab_Capacity_2017_Edition.pdf) 
 * [Magoosh's Complete Guide To the GRE](https://gre.magoosh.com/gre-ebook?utm_source=greblog&utm_medium=blog&utm_campaign=greebook&utm_term=button)
 
+
+
 ### Closing Thoughts 
 
-Regardless of how you learn make sure that you spend time sitting down with sample questions with a blank sheet in front of you. Following along with a solution isn't the same as doing it yourself. Lastly, be sure to take both Power Prep Tests. The GRE is a test of endurance as well as knowledge. The two Power Prep Tests are the only way to prepare for that. 
+Regardless of how you learn make sure that you spend time sitting down with sample questions and a blank sheet in front of you. Following along with a solution isn't the same as doing it yourself. Lastly, be sure to take both Power Prep Tests. The GRE is a test of endurance as well as knowledge. The two Power Prep Tests are the only way to prepare for that. 
 
