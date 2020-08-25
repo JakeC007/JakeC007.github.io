@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insights in Recent Hugo Data
-subtitle: How the Hugo award XXXX
+subtitle: How Hugo awards data from 2009-2019 shows discrimination against women
 gh-repo: JakeC007/hugo_stats
 gh-badge: [star, fork, follow]
 tags: [projects, repo]
@@ -29,21 +29,16 @@ For a class stats project I examined Hugo Award nominations over the past 11 yea
 
 ## Results 
 
-![Stacked bar chart that shows how many times an author has been nominated.](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Nominations_by_author.png)
+![Stacked bar chart that shows how many times an author has been nominated.](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Nominations_by_author.png?raw=true)
 
-![Stacked bar chart that shows the pronoun breakdown of each year's Best Novel nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novel_BarChart.png)
+![Stacked bar chart that shows the pronoun breakdown of each year's Best Novel nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novel_BarChart.png?raw=true)
 
-![Stacked bar chart that shows the pronoun breakdown of each year's Best Novella nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novella_BarChart.png)
+![Stacked bar chart that shows the pronoun breakdown of each year's Best Novella nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novella_BarChart.png?raw=true)
 
 
 
-![Stacked bar chart that shows the pronoun breakdown of each year's Best Novelette nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novelette_BarChart.png)
+![Stacked bar chart that shows the pronoun breakdown of each year's Best Novelette nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novelette_BarChart.png?raw=true)
 
-<img src="https://github.com/JakeC007/hugo_stats/blob/master/imgs/Nominations%20by%20author.png" alt="Italian Trulli">
-
-testsssss
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 ### Some Overall Stats Relating To The Nominations Per Author Image
 - Best Novel Nominations
