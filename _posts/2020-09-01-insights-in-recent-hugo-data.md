@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Insights in Recent Hugo Data
 subtitle: How the Hugo award XXXX
 gh-repo: JakeC007/hugo_stats
