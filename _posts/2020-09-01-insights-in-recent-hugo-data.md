@@ -43,6 +43,8 @@ For a class stats project I examined Hugo Award nominations over the past 11 yea
 
 <img src="https://github.com/JakeC007/hugo_stats/blob/master/imgs/Nominations%20by%20author.png" alt="Italian Trulli">
 
+test
+
 ### Some Overall Stats Relating To The Nominations Per Author Image
 - Best Novel Nominations
     - There are 24 unique authors that use she/her pronouns
