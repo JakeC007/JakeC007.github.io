@@ -80,7 +80,7 @@ Upon reflection, perhaps a CPU isn't merely thinking rock but a very clever pile
 
 "switches -- called transistors...": A transistor is an electronically controlled switch that we can turn on or off by applying or removing voltage to the gate. There are two main types of transistors: nMOS devices which allow current when the gate is on, and pMOS devices which allow current when the gate is off. 
 
-"Modern thinking rocks have fancy tricks...": For example, the recursive subtract-and-count method for division is rather slow. There are [faster ways that CPUs do division](https://en.wikipedia.org/wiki/Division_algorithm#Fast_division_methods) such as the Goldschmidt method where $Q = \frac{N}{D}$ . The CPU uses binary multiplication to multiply $N$ and $D$ via a fraction $F$ so that $D$ approaches 1. As $D$ approaches 1, $N$ approaches $Q$.   
+"Modern thinking rocks have fancy tricks...": For example, the recursive subtract-and-count method for division is rather slow. There are [faster ways that CPUs do division](https://en.wikipedia.org/wiki/Division_algorithm#Fast_division_methods) such as the Goldschmidt method where $$Q = \frac{N}{D}$$ . The CPU uses binary multiplication to multiply $$N$$ and $$D$$ via a fraction $$F$$ so that $$D$$ approaches 1. As $$D$$ approaches 1, $$N$$ approaches $$Q$$.   
 
 ##### A short aside on size and the thinking rock
 
@@ -88,17 +88,17 @@ Upon reflection, perhaps a CPU isn't merely thinking rock but a very clever pile
 
 "around two billion (or more) transistors..." : High end laptop & desktop CPUs have [around 2 billion transistors](https://en.wikichip.org/wiki/intel/microarchitectures/skylake_(client)#Dual-core). Apple's A13 bionic is reported to have [8.5 billion transistors](https://en.wikichip.org/wiki/apple/ax/a13) and is used in the iPhone 11 series and the iPhone SE2.  Note: do not conflate a higher transistor count with better performance. Mobile devices typically have a System on a Chip (SoC) design which integrates most or all the components of a computer onto the same chip as the CPU. Most of the transistors on an SoC, like the A13 bionic, transistors are used for things other than the CPU. 
 
-"A tower of paper that is 31.07 miles high...": assuming that the thickness of a thin piece of paper is .05 mm, $5x10^5 m * 1x10^9 = 50,000 m$. 50,000 m converted to miles is 31.07 miles. 
+"A tower of paper that is 31.07 miles high...": assuming that the thickness of a thin piece of paper is .05 mm, $$5x10^5 m * 1x10^9 = 50,000 m$$. 50,000 m converted to miles is 31.07 miles. 
 
 "That’s halfway to space...': The [Kármán line](https://en.wikipedia.org/wiki/Kármán_line)–which defines the edge of space—is at an altitude of 100 km. 
 
-"Over 4 times as high as the upper ceiling on a commercial airplane...": [“commercial aircraft typically fly between 5.9 to 7.2 miles.”](https://time.com/5309905/how-high-do-planes-fly/#:~:text=Commercial aircraft typically fly between,that can present safety issues.)  The paper stack has a height of 31.07 miles. Thus, $31.07/7.2 = 4.32$. 
+"Over 4 times as high as the upper ceiling on a commercial airplane...": [“commercial aircraft typically fly between 5.9 to 7.2 miles.”](https://time.com/5309905/how-high-do-planes-fly/#:~:text=Commercial aircraft typically fly between,that can present safety issues.)  The paper stack has a height of 31.07 miles. Thus, $$31.07/7.2 = 4.32$$. 
 
-"5 and half Mt. Everests...": [Mt. Everest is 8,848 meters tall](https://en.wikipedia.org/wiki/Mount_Everest). The paper stack has a height of 50,000 meters. Thus, $50,000/ 8,848 = 5.65$.
+"5 and half Mt. Everests...": [Mt. Everest is 8,848 meters tall](https://en.wikipedia.org/wiki/Mount_Everest). The paper stack has a height of 50,000 meters. Thus, $$50,000/ 8,848 = 5.65$$.
 
-"112 Empire State Buildings...": To the tip, The Empire State Building is 443.2 meters tall. $50,000/443.2 = 112.82$. If we were just judging by roof height it would be over 131 Empire State Buildings stacked on top of each other.
+"112 Empire State Buildings...": To the tip, The Empire State Building is 443.2 meters tall. $$50,000/443.2 = 112.82$$. If we were just judging by roof height it would be over 131 Empire State Buildings stacked on top of each other.
 
-"largest transistor dimension was the length of 400 silicon atoms...": [the transistor gate width is ~80 nm](https://www.intel.com/content/www/us/en/silicon-innovations/intel-14nm-technology.html). The [diameter of silicon atom is .2nm](https://en.wikipedia.org/wiki/Silicon). $8/.2 = 400$.  
+"largest transistor dimension was the length of 400 silicon atoms...": [the transistor gate width is ~80 nm](https://www.intel.com/content/www/us/en/silicon-innovations/intel-14nm-technology.html). The [diameter of silicon atom is .2nm](https://en.wikipedia.org/wiki/Silicon). $$8/.2 = 400$$.  
 
 "cannot be seen by optical microscope...": The wavelength of light at the lower end of the visible light spectrum is ~380 nm. The transistors are smaller than that. Thus, they cannot be seen by human eyes. Instead, one must use more advanced techniques such as a Scanning Electron Microscope.
 
