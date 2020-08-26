@@ -46,13 +46,7 @@ Right, so how did I go about doing this? Well....
 |---|---|
 | ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novelette nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novelette_BarChart.png?raw=true)  | ![Stacked bar chart that shows how many times an author has been nominated.](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Nominations_by_author.png?raw=true)  |
 
-
-
-
-
-
-
-### Some Overall Stats Relating To The Nominations Per Author Image
+### Some Stats
 
 - Best Novel Nominations
     - There are 24 unique authors that use she/her pronouns
@@ -70,3 +64,21 @@ Right, so how did I go about doing this? Well....
     1. Seanan McGuire (7)
     2. Mira Grant (6)
     3. Aliette de Bodard (5)
+
+
+
+### Analysis 
+
+* On the surface, things are looking up for authors that use she/her pronouns 
+  * Both Best Novel and Best Novelette have a strong positive correlation for authors who use she/her pronouns
+    * Best Novel takes this correlation to its natural conclusion in 2020 where all of the authors use she/her pronouns 
+  * Best Novella has a weak correlation for authors who use she/her pronouns
+  * In both Best Novella and Best Novelette categories there is what seem to be a strange blip in the 2015 data. This is a result of a malicious scheme by a group of [internet misogynists](https://en.wikipedia.org/wiki/Sad_Puppies) to stuff the ballet box because they felt that too many people that didn't have he/him pronouns were being nominated. 
+
+- People with she/her pronouns were nominated multiple times far more than both he/him and they/them pronouns
+
+- - This tells us that they keep drawing from the same authors that use she/her pronouns 
+  - In other words authors that use she/her pronouns need to be exceptional to receive a nomination, while those with he/him pronouns don't need to be nearly as exceptional to be nominated 
+  - I don't have the exact number anymore, but a rough estimate puts ~66 nominations of she/her pronouns come from just 18 authors. That's about a third of all of the entries over the last 11 years coming from just 18 people! So while overall representation has improved for authors that use she/her pronouns, the spread of authors is dismally low. 
+
+- Representation for people who don't use she/her or he/him pronouns is abysmal at just 3 out of 118 nominated authors over the past 11 years
