@@ -40,11 +40,9 @@ Right, so how did I go about doing this? Well....
 
 ## Results 
 
-| ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novel nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novel_BarChart.png?raw=true)  | 
-![Stacked bar chart that shows the pronoun breakdown of each year's Best Novella nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novella_BarChart.png?raw=true)
-  |
+| ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novel nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novel_BarChart.png?raw=true) | ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novella nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novella_BarChart.png?raw=true)|
 |---|---|
-| ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novelette nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novelette_BarChart.png?raw=true)  | ![Stacked bar chart that shows how many times an author has been nominated.](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Nominations_by_author.png?raw=true)  |
+| ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novelette nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novelette_BarChart.png?raw=true)  | ![Stacked bar chart that shows how many times an author has been nominated.](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Nominations_by_author.png?raw=true)|
 
 ### Some Stats
 
@@ -77,7 +75,7 @@ Right, so how did I go about doing this? Well....
 
 - People with she/her pronouns were nominated multiple times far more than both he/him and they/them pronouns
 
-- - This tells us that they keep drawing from the same authors that use she/her pronouns 
+  - This tells us that they keep drawing from the same authors that use she/her pronouns 
   - In other words authors that use she/her pronouns need to be exceptional to receive a nomination, while those with he/him pronouns don't need to be nearly as exceptional to be nominated 
   - I don't have the exact number anymore, but a rough estimate puts ~66 nominations of she/her pronouns come from just 18 authors. That's about a third of all of the entries over the last 11 years coming from just 18 people! So while overall representation has improved for authors that use she/her pronouns, the spread of authors is dismally low. 
 
