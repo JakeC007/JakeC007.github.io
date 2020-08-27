@@ -13,7 +13,7 @@ tags: [projects, repo]
 
 For a class stats project I examined Hugo Award nominations over the past 11 years. What I found probably won't surprise you, but I thought it was interesting so I figured I'd share. Skip to the [results](#results) section if you want to get to the answers right away. 
 
-I was curious to know what the gender break down was of Hugo Award nominations over the past ten or so years. **You cannot infer someone's gender** so I did the next best thing and analyzed the pronouns breakdown of the authors who were nominated for a Hugo Award over the past ten years or so. I didn't use the pronoun data to extrapolate anything about gender because, again, **you cannot infer someone's gender.**
+I was curious to know what the gender break down was of Hugo Award nominations over the past ten or so years. **You cannot infer someone's gender**; so, I did the next best thing and analyzed the pronouns breakdown of the authors who were nominated for a Hugo Award over the past eleven years. I ended up with eleven years of data because the 2020 nominations were released during my collection of the 2009-2019 data. As such, I figured more data is better and added the 2020 nominations. I didn't use the pronoun data I collected to extrapolate anything about gender because, again, **you cannot infer someone's gender.**
 
 
 
@@ -21,9 +21,9 @@ I was curious to know what the gender break down was of Hugo Award nominations o
 
 Right, so how did I go about doing this? Well...
 
-- My data source was [the hugo awards website](http://www.thehugoawards.org/hugo-history/)
+- My data source was [the Hugo Awards website](http://www.thehugoawards.org/hugo-history/)
   - I pulled every nominated author from each relevant category into a spreadsheet 
-  - To ascertain an author's pronouns, I looked through an author's twitter, Wikipedia page, or website. 
+  - To ascertain an author's pronouns, I looked through an author's twitter, Wikipedia page, or website
   - Nominations with multiple authors were excluded because it would violate my assumption of one set of pronouns per nomination. **As such, my data is missing a few data points**
   - I only looked at the following categories because finding an author's pronouns is labor intensive so I had to limit the scope of the project 
     - Best Novel
