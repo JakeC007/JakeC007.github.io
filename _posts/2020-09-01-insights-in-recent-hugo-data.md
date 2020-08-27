@@ -76,6 +76,6 @@ Right, so how did I go about doing this? Well...
 
   * This tells us that they keep drawing from the same pool of authors that use she/her pronouns 
   * **In other words authors that use she/her pronouns need to be exceptional to receive a nomination, while those with he/him pronouns don't need to be nearly as exceptional to be nominated** 
-  * I don't have the exact number anymore, but a rough estimate puts ~66 nominations of she/her pronouns come from just 18 authors. That's about a third of all of the entries over the last 11 years coming from just 18 people! So while overall representation has improved for authors that use she/her pronouns, the spread of authors is dismally low. 
+  * I don't have the exact number anymore, but a rough estimate puts ~66 nominations of authors with she/her pronouns come from just 18 authors. That's about a third of all of the entries over the last 11 years coming from just 18 people! So while overall representation has improved for authors that use she/her pronouns, the spread of authors is dismally low. 
 
 - Representation for people who don't use *she/her* or *he/him* pronouns is abysmal at just 3 out of 118 nominated authors over the past 11 years
