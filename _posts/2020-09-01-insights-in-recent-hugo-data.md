@@ -30,15 +30,16 @@ Right, so how did I go about doing this? Well...
     - Best Novella
     - Best Novelette
   - Each category yielded ~66 observational units.
-- I used Python to do some minimal data processing and R for data viz
+- I used Python to do some minimal data processing and R for data visualization
+- The GitHub repo with my dataset, code, and images is linked at the top of the post. It can also be found [here](https://github.com/JakeC007/hugo_stats)!
 
 
 
 ### Disclaimers
-- The data entry was done by hand, as such it is possible that there is an error in the data set
+- The data entry was done by hand; as such, it is possible that there is an error in the data set
 - I pruned nominations with multiple authors from my data set because it would violate my assumption of one set of pronouns per nomination
-- I want to make it very clear that **I am glad that the Hugo Awards have recently been more conscious about gender equity.** 
-- **The data that I collected is wildly skewed.** The number of people nominated that use *she/her* pronouns shown in this sample is by no means representative of the 60+ year Hugo dataset as a whole. 
+- I want to make it very clear that **I am glad that the Hugo Awards have recently been more conscious about gender equity**
+- **The data that I collected is wildly skewed.** The number of people nominated that use *she/her* pronouns shown in this sample is by no means representative of the 60+ year Hugo dataset as a whole 
 
 
 
@@ -47,6 +48,8 @@ Right, so how did I go about doing this? Well...
 | ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novel nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novel_BarChart.png?raw=true) | ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novella nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novella_BarChart.png?raw=true)|
 |---|---|
 | ![Stacked bar chart that shows the pronoun breakdown of each year's Best Novelette nominations](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Best_Novelette_BarChart.png?raw=true)  | ![Stacked bar chart that shows how many times an author has been nominated.](https://github.com/JakeC007/hugo_stats/blob/master/imgs/Nominations_by_author.png?raw=true)|
+
+
 
 ### Some Stats
 
@@ -77,8 +80,8 @@ Right, so how did I go about doing this? Well...
   * Best Novella has a weak positive correlation for authors who use *she/her* pronouns
   * In both the Best Novella and Best Novelette categories, there is a strange blip in the 2015 data. This is a result of a malicious scheme by a group of [internet misogynists](https://en.wikipedia.org/wiki/Sad_Puppies) to stuff the ballot box because they felt that too many people that didn't have *he/him* pronouns were getting nominations. 
 
-* The breakdown of nominations per author is very informative. Authors who use *she/her* pronouns had multiple nominations at a rate that far outstripped authors of he/him and they/them pronouns
+* The breakdown of nominations per author is very informative. Authors who use *she/her* pronouns had multiple nominations at a rate that far outstripped authors of *he/him* and *they/them* pronouns
   * This tells us that they keep drawing from the same pool of authors that use she/her pronouns 
   * **In other words, authors that use *she/her* pronouns need to be exceptional to receive a nomination, while those with *he/him* pronouns don't need to raise to the same standard** 
-  * I don't have the exact number anymore, but just 18 authors that use *she/her* pronouns are responsible for ~66 nominated works. That's about a third of the nominations over the last 11 years coming from just 18 people! So while overall representation has improved for authors that use *she/her* pronouns, the spread of authors is dismally low.
+  * I don't have the exact number anymore, but just 18 authors that use *she/her* pronouns are responsible for ~66 nominated works. That's about a third of the nominations over the last 11 years coming from just 18 people! So while overall representation has improved for authors who use *she/her* pronouns, the spread of authors is dismally low.
 - Representation for people who don't use *she/her* or *he/him* pronouns is abysmal at just 3 out of 118 nominated authors over the past 11 years
