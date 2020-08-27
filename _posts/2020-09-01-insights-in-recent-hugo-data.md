@@ -72,9 +72,9 @@ Right, so how did I go about doing this? Well...
     * Best Novel takes this correlation to its natural conclusion in 2020 where all of the authors use *she/her* pronouns 
   * Best Novella has a weak correlation for authors who use she/her pronouns
   * In both Best Novella and Best Novelette categories there is what seem to be a strange blip in the 2015 data. This is a result of a malicious scheme by a group of [internet misogynists](https://en.wikipedia.org/wiki/Sad_Puppies) to stuff the ballet box because they felt that too many people that didn't have he/him pronouns were being nominated. 
-* The breakdown of nominations per author is very informative. Authors who use *she/her* pronouns had multiple nominations XXXXXXXX times far more than people with both he/him and they/them pronoun
+* The breakdown of nominations per author is very informative. Authors who use *she/her* pronouns had multiple nominations at a rate that far outstripped authors of he/him and they/them pronouns
 
-  * This tells us that they keep drawing from the same authors that use she/her pronouns 
+  * This tells us that they keep drawing from the same pool of authors that use she/her pronouns 
   * **In other words authors that use she/her pronouns need to be exceptional to receive a nomination, while those with he/him pronouns don't need to be nearly as exceptional to be nominated** 
   * I don't have the exact number anymore, but a rough estimate puts ~66 nominations of she/her pronouns come from just 18 authors. That's about a third of all of the entries over the last 11 years coming from just 18 people! So while overall representation has improved for authors that use she/her pronouns, the spread of authors is dismally low. 
 
