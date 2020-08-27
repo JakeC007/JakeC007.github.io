@@ -9,9 +9,11 @@ tags: [projects, repo]
 
 
 
+***This is a Draft 
+
 For a class stats project I examined Hugo Award nominations over the past 11 years. What I found probably won't surprise you, but I thought it was interesting so I figured I'd share. Skip to the [results](#results) section if you want to get to the answers right away. 
 
-I was curious to know what the gender break down was of Hugo award nominations over the past ten or so years. **You cannot infer someone's gender** so I did the next best thing and analyzed the pronouns breakdown of the authors who were nominated for a Hugo award over the past ten years or so. I didn't use the pronoun data to extrapolate anything about gender because, again, **you cannot infer someone's gender.**
+I was curious to know what the gender break down was of Hugo Award nominations over the past ten or so years. **You cannot infer someone's gender** so I did the next best thing and analyzed the pronouns breakdown of the authors who were nominated for a Hugo Award over the past ten years or so. I didn't use the pronoun data to extrapolate anything about gender because, again, **you cannot infer someone's gender.**
 
 
 
