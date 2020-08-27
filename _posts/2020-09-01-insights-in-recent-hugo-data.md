@@ -11,9 +11,9 @@ tags: [projects, repo]
 
 ***This is a Draft. See its unedited, ungrammatical, glory 
 
-For a class statistics project, I choose to work with data from the Hugo Awards. Looking at the nominations data, I was curious to know the gender breakdown over the past ten or so years. This proved to be impossible because **you cannot infer someone's gender**; so, I did the next best thing and analyzed the breakdown of a nominated author's pronouns. I ended up with eleven years of data because the 2020 nominations were released during my collection of the 2009-2019 data. I figured more data is better and added the 2020 nominations to my data set. I didn't use the pronoun data I collected to extrapolate anything about gender because, again, **you cannot infer someone's gender.**
+For a class statistics project, I choose to work with data from the Hugo Awards. Looking at the nominations data, I was curious to know the gender breakdown over the past ten or so years. This proved to be impossible because **you cannot infer someone's gender**; so, I did the next best thing and analyzed the breakdown of a nominated author's pronouns. I ended up with eleven years of data because the 2020 nominations were released during my collection of the 2009-2019 data. As such, I figured more data is better and added the 2020 nominations to my data set. I didn't use the pronoun data I collected to extrapolate anything about gender because, again, **you cannot infer someone's gender.**
 
-What I found probably won't surprise you, but I thought it was interesting so I figured I'd share. Skip to the [results](#results) section if you want to get to the answers right away. 
+What I found probably won't surprise you, but how I got to my conclusions might. Skip to the [results](#results) section if you want to get to the answers right away. 
 
 
 
@@ -29,7 +29,7 @@ Right, so how did I go about doing this? Well...
     - Best Novel
     - Best Novella
     - Best Novelette
-  - Each category yielded ~66 observational units.
+  - Each category yielded ~63 observational units.
 - I used Python to do some minimal data processing and R for data visualization
 - The GitHub repo with my dataset, code, and images is linked at the top of the post. It can also be found [here](https://github.com/JakeC007/hugo_stats)!
 
@@ -53,15 +53,15 @@ Right, so how did I go about doing this? Well...
 
 ### Some Stats
 
-- Best Novel Nominations
+- Best Novel Nominations (63 nominations)
     - There are 24 unique authors that use *she/her* pronouns
     - There are 23 unique authors that use *he/him* pronouns
     - There are 0 unique authors that use *they/them* pronouns
-- Best Novella Nominations
+- Best Novella Nominations (63 nominations)
     - There are 21 unique authors that use *she/her* pronouns
     - There are 23 unique authors that use *he/him* pronouns
     - There are 2 unique authors that use *they/them* pronouns
-- Best Novelette Nominations
+- Best Novelette Nominations (65)
     - There are 28 unique authors that use *she/her* pronouns
     - There are 26 unique authors that use *he/him* pronouns
     - There is 1 unique author that use *they/them* pronouns
