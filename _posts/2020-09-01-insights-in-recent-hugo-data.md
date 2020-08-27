@@ -9,7 +9,7 @@ tags: [projects, repo]
 
 
 
-***This is a Draft 
+***This is a Draft. See its unedited, ungrammatical glory 
 
 For a class stats project I examined Hugo Award nominations over the past 11 years. What I found probably won't surprise you, but I thought it was interesting so I figured I'd share. Skip to the [results](#results) section if you want to get to the answers right away. 
 
@@ -74,11 +74,11 @@ Right, so how did I go about doing this? Well...
 * On the surface, there looks to be a large improvement in representation for authors that use *she/her* pronouns 
   * Both Best Novel and Best Novelette have a strong positive correlation for authors who use *she/her* pronouns
     * Best Novel takes this correlation to its natural conclusion in 2020 where all of the authors use *she/her* pronouns 
-  * Best Novella has a weak correlation for authors who use she/her pronouns
-  * In both Best Novella and Best Novelette categories there is what seem to be a strange blip in the 2015 data. This is a result of a malicious scheme by a group of [internet misogynists](https://en.wikipedia.org/wiki/Sad_Puppies) to stuff the ballet box because they felt that too many people that didn't have he/him pronouns were being nominated. 
+  * Best Novella has a weak positive correlation for authors who use *she/her* pronouns
+  * In both the Best Novella and Best Novelette categories, there is a strange blip in the 2015 data. This is a result of a malicious scheme by a group of [internet misogynists](https://en.wikipedia.org/wiki/Sad_Puppies) to stuff the ballot box because they felt that too many people that didn't have *he/him* pronouns were getting nominations. 
 
 * The breakdown of nominations per author is very informative. Authors who use *she/her* pronouns had multiple nominations at a rate that far outstripped authors of he/him and they/them pronouns
   * This tells us that they keep drawing from the same pool of authors that use she/her pronouns 
-  * **In other words authors that use *she/her* pronouns need to be exceptional to receive a nomination, while those with *he/him* pronouns don't need to raise to the same standard** 
+  * **In other words, authors that use *she/her* pronouns need to be exceptional to receive a nomination, while those with *he/him* pronouns don't need to raise to the same standard** 
   * I don't have the exact number anymore, but just 18 authors that use *she/her* pronouns are responsible for ~66 nominated works. That's about a third of the nominations over the last 11 years coming from just 18 people! So while overall representation has improved for authors that use *she/her* pronouns, the spread of authors is dismally low.
 - Representation for people who don't use *she/her* or *he/him* pronouns is abysmal at just 3 out of 118 nominated authors over the past 11 years
