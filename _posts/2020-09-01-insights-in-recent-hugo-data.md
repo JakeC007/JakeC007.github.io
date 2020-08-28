@@ -83,3 +83,11 @@ Right, so how did I go about doing this? Well...
   * **In other words, authors that use *she/her* pronouns need to be exceptional to receive a nomination, while those with *he/him* pronouns don't need to rise to the same standard** 
   * Just 19 authors that use *she/her* pronouns are responsible for 67 nominated works. That's about a third of the nominations over the last 11 years coming from just 19 people! So while overall representation has improved for authors who use *she/her* pronouns, the spread of authors is dismally low.
 - Representation for people who don't use *she/her* or *he/him* pronouns is abysmal at just 3 out of 118 nominated authors
+
+
+
+## Final Thoughts and Takeaways
+
+On [his blog post about my project](https://pluralistic.net/2020/08/27/cult-chalk/#sf-gender), Cory Doctorow explained the final takeaway far better than I could have: "a small number of prodigiously talented women dominate the she/her category – meaning the median male author has a much higher chance at a nomination than the median woman author."
+
+This project was far more limited in scope than I wanted because there is no computer algorithm to determine a person's gender. If there was, I could totally do an analysis on all published Hugo Awards data with a simple web scraper and this magical yet-to-be-designed algorithm. There is a really excellent R package that shows the deep flaws in trying to use math/stats/CS to infer someone's gender. It's called [genderendr](https://github.com/dapperstats/gendrendr) and I highly recommend checking it out.   
