@@ -9,9 +9,7 @@ tags: [projects, repo]
 
 
 
-***This is a Draft. See its unedited, ungrammatical, glory 
-
-For a class statistics project, I choose to work with data from the Hugo Awards. Looking at the nominations data, I was curious to know the gender breakdown over the past ten or so years. This proved to be impossible because **you cannot infer someone's gender**; so, I did the next best thing and analyzed the breakdown of a nominated author's pronouns. I ended up with eleven years of data because the 2020 nominations were released during my collection of the 2009-2019 data. As such, I figured more data is better and added the 2020 nominations to my data set. I didn't use the pronoun data I collected to extrapolate anything about gender because, again, **you cannot infer someone's gender.**
+For a class statistics project, I choose to work with data from the Hugo Awards. Looking at the nominations data, I was curious to know the gender breakdown over the past ten or so years. This proved to be impossible because **you cannot infer someone's gender from their name**; so, I did the next best thing and analyzed the breakdown of a nominated author's pronouns. I ended up with eleven years of data because the 2020 nominations were released during my collection of the 2009-2019 data. As such, I figured more data is better and added the 2020 nominations to my data set. 
 
 What I found probably won't surprise you, but how I got to my conclusions might. Skip to the [results](#results) section if you want to get to the answers right away. 
 
