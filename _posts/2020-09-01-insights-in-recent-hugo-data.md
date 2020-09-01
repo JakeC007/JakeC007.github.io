@@ -38,6 +38,8 @@ Right, so how did I go about doing this? Well...
 - I pruned nominations with multiple authors from my data set because it would violate my assumption of one set of pronouns per nomination
 - I want to make it very clear that **I am glad that the Hugo Awards have recently been more conscious about gender equity**
 - **The data that I collected is wildly skewed.** The number of people nominated that use *she/her* pronouns shown in this sample is by no means representative of the 60+ year Hugo dataset as a whole 
+  - I also didn't collect data on the short stories category because I had a finite number of human-hours to work on this project
+- I didn't check for pen names. Big thanks to XXX for point this out.
 
 
 
@@ -65,7 +67,7 @@ Right, so how did I go about doing this? Well...
     - There is 1 unique author that uses *they/them* pronouns
 - The three authors with the most nominations are
     1. Seanan McGuire (7)
-    2. Mira Grant (6)
+    2. ~~Mira Grant (6)~~ 8/29/20 UPDATE: [Turns out Mira Grant is a pen name for Seanan McGuire](https://en.wikipedia.org/wiki/Seanan_McGuire). Shout out to islemaster for catching this! 
     3. Aliette de Bodard (5)
 
 
