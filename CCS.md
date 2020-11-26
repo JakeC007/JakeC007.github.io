@@ -30,7 +30,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * *Black Software*, by Charlton D. McIlwain (subtitle: The Internet & Racial Justice, from the AfroNet to Black Lives Matter)
 * [Big Data’s Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899), by Baracos and Selbst 
 * [Critical Race Theory for HCI](https://www.alexandrato.com/papers/Critical_Race_Theory_for_HCI.pdf), by Ogbonnaya-Ogburu et al
-* *Design Justice*, by Sasha Costanza-Chock (subtitle: Community-Led Practices to Build the Worlds We Need)
+* [*Design Justice*](https://design-justice.pubpub.org/), by Sasha Costanza-Chock (subtitle: Community-Led Practices to Build the Worlds We Need)
 * [Intersectionality: Race, Surveillance, and Tech and Its History](https://archive.org/details/asl-intersectionality) with Cory Doctorow, Malkia Devich-Cyril (Media Justice) and Meredith Whittaker (AI Now)
   * Alt: [Copy hosted on YouTube](https://youtu.be/bdc4qqk3lQ0)
 * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), by ProPublica
@@ -44,7 +44,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 
 * [DRM Broke Its Promise](https://locusmag.com/2019/09/cory-doctorow-drm-broke-its-promise/), by Cory Doctorow. Locus Magazine
 * [IP](https://locusmag.com/2020/09/cory-doctorow-ip), by Cory Doctorow. Locus Magazine
-* [We Are Tenants on Our Own Devices,](https://www.wired.com/story/right-to-repair-tenants-on-our-own-devices/) by Zeynep Tufekci. Wired Magazine 
+* [We Are Tenants on Our Own Devices](https://www.wired.com/story/right-to-repair-tenants-on-our-own-devices/), by Zeynep Tufekci. Wired Magazine 
 
 #### Big Data and AI
 
@@ -87,10 +87,10 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * [Data Voids](https://datasociety.net/wp-content/uploads/2018/05/Data_Society_Data_Voids_Final_3.pdf), by Golbiewski and Boyd. The Data and Society Institute (subtitle: Where Missing Data Can Easily Be Exploited) 
 * [Do Artifacts Have Politics?](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf), by Langdon Winner
 * [Friend and Foe: The Platform Press at the Heart of Journalism](https://www.cjr.org/tow_center_reports/the-platform-press-at-the-heart-of-journalism.php#introduction), by Rashidian et al. Columbia Journalism Review
-* [Machinelearners,](https://github.com/datapractice/machinelearners/blob/master/book.pdf?fbclid=IwAR08HITBTmrSKzqKH7sPQx4y9NwRGjOI3F85kg11y8Zem83f2gdd2zs82Vo) by Adrian Mackenzie
+* [Machinelearners](https://github.com/datapractice/machinelearners/blob/master/book.pdf?fbclid=IwAR08HITBTmrSKzqKH7sPQx4y9NwRGjOI3F85kg11y8Zem83f2gdd2zs82Vo), by Adrian Mackenzie
 * [(Mis)gendering](https://ironholds.org/resources/papers/uncertain_archives.pdf), by Os Keyes
 * *Obfuscation: A User's Guide*, by Finn Brunton and Helen Nussbaum
-* [*Plain Text,* by Dennis Tenen (subtitle: The Poetics of Computation) ](https://monoskop.org/media/text/tenen_2017_plain_text/)
+* *[Plain Text](https://monoskop.org/media/text/tenen_2017_plain_text/),* by Dennis Tenen (subtitle: The Poetics of Computation) 
 * [*Twitter and Tear Gas*](https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf), by Zeynep Tufekci (subtitle: The Power and Fragility of Networked Protest) 
 
 
