@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Trick Rocks to Think
-subtitle: A layperson’s guide
+subtitle: A Layperson’s Guide
 css: /assets/css/blockquote_no_quote.css
 tags: [cpu, tech explained, systems]
 ---
