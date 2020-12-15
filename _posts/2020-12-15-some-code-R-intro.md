@@ -34,6 +34,7 @@ fuzzy.cats
 .sleepy_cats
 ```
 
+
 ### The Assignment Operator 
 
 The assignment operator `<-` stores the data to the right of the arrow into the variable sitting on the left. For example: 
@@ -107,6 +108,7 @@ L2 <- c("cow", "sheep", "horse") # a list of just chrs
 L3 <- c(11.0, 1.2, 77.039, 96.030) # a list of just dbls
 ```
 
+
 #### How Lists are Different in R as Compared to Other Languages You Have Used
 
 <u>**Indexing starts at 1 in R.**</u> Thus if you wanted to index to `1.2` in `L3` you would write `L3[2]` **not** `L3[1]`
@@ -146,12 +148,16 @@ mtcars$mpg
 
 I modified the output to keep it short, but as you can see the code above returns the contents of the variable `mpg`. 
 
+
  ### Quick Summary Of The Section So Far
+
 
 | Dimensions | **Homogenous** | **Heterogeneous** |
 | ---------- | -------------- | ----------------- |
 | 1D         | atomic vector  | list              |
 | 2D+        | matrix         | data frame        |
+
+
 
 ### Factors
 
@@ -326,6 +332,8 @@ library("ggplot2")
 
 
 
+
+
 ## Common Mistakes With Data Types
 
 Consider the code below to plot a graph. (Don't worry if the code doesn't mean anything to you. Your professor will go over how to plot graphs in class)
@@ -347,6 +355,8 @@ ggplot(mtcars, aes(x=wt, y=mpg)) +
   geom_point(shape=18, color="blue")+
   geom_smooth(method=lm, se=FALSE, linetype="dashed")
 ```
+
+
 
 
 

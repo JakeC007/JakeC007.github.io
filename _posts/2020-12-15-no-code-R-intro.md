@@ -32,6 +32,7 @@ Indeed, comments can tell you useful things about the code you wrote to keep tra
 num_cats #this keeps track of how many cats I saw today
 ```
 
+
 ### Variables
 
 The best way to think about a variable is as a special type of box to hold your data. Every variable is a contiguous combination of letters and numbers (i.e. no space in between each character). 
@@ -167,6 +168,7 @@ L2 <- c("cow", "sheep", "horse") # a list of just chrs
 L3 <- c(11.0, 1.2, 77.039, 96.030) # a list of just dbls
 ```
 
+
 ### Data Frames
 
 A data frame is the data type you will deal with the most within R. It is the object that will store any data that you read into R. Think of a data frame as a table. Each column in the table is a different variable and each row in the table is an observational unit. 
@@ -197,6 +199,7 @@ I modified the output to keep it short, but as you can see the code above return
 | ---------- | -------------- | ----------------- |
 | 1D         | atomic vector  | list              |
 | 2D+        | matrix         | data frame        |
+
 
 ### Factors
 
@@ -357,6 +360,7 @@ library("ggplot2")
 
 
 
+
 ## Common Mistakes With Data Types
 
 Consider the code below to plot a graph. (Don't worry if the code doesn't mean anything to you. Your professor will go over how to plot graphs in class)
@@ -378,6 +382,7 @@ ggplot(mtcars, aes(x=wt, y=mpg)) +
   geom_point(shape=18, color="blue")+
   geom_smooth(method=lm, se=FALSE, linetype="dashed")
 ```
+
 
 
 

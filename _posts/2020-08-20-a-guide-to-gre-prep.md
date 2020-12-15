@@ -2,7 +2,7 @@
 layout: post
 title: A Guide To GRE Prep
 subtitle: From someone who just finished the process
-tags: [grad school]
+tags: [grad school application process]
 ---
 
 *Disclaimer*: I don't like the GRE. Much like the SAT and ACT, I think that its pedagogical value is dubious at best. What it really measures is how much time, energy, and money you can put into preparing for the exam. That all being said, it is still a reality for many when applying to various grad programs. When I set out to prepare for the exam guidance was hard to find so I wanted to write this for someone who was in my shoes four months ago. 
