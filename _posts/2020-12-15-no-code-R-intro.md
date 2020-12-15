@@ -7,7 +7,7 @@ tags: [R, how-to]
 
 ## Introduction
 
-This post is a light adaptation of a document that I wrote for my statistical methods II course. For many students this course was their first introduction to programming. Not surprisingly, a sizable portion of the questions I observed at office hours were CS questions, not stat questions. As such, I wrote a "no code introduction" to R with the hopes that it may help future students. If you have a little bit of a CS background (i.e. you know what strings and for-loops are) I have also written a brief introduction to R LINK HERE for those that have a bit of a CS background. 
+This post is a light adaptation of a document that I wrote for my statistical methods II course. For many students this course was their first introduction to programming. Not surprisingly, a sizable portion of the questions I observed at office hours were CS questions, not stat questions. As such, I wrote a "no code introduction" to R with the hopes that it may help future students. If you have a little bit of a CS background (i.e. you know what strings and for-loops are) I have also written [a brief primer on R](https://jakec007.github.io/2020-12-15-some-code-R-intro) to help you get the hang of R. 
 
 
 

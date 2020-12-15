@@ -7,9 +7,9 @@ tags: [R, how-to]
 
 ## Introduction
 
-This post is a light adaptation of a document that I wrote for my statistical methods II course. Before entering the course sequence I had coding experience but knew nothing about R. I wrote this quick introduction so that people who have some background in CS can get up to speed with how to use R quickly.  
+This post is a light adaptation of a document that I wrote for my statistical methods II course. Before entering the course sequence I had coding experience but knew nothing about R. I wrote this quick introduction so that people who have some background in CS can get up to speed on how to use R quickly.  
 
-If you have no CS background -- which is totally okay!-- I have also written a "no code" introduction to R LINK HERE. 
+If you have no CS background -- which is totally okay!-- I have also written a ["no code" introduction to R](https://jakec007.github.io/2020-12-15-no-code-R-intro). 
 
 
 
