@@ -32,7 +32,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * [Critical Race Theory for HCI](https://www.alexandrato.com/papers/Critical_Race_Theory_for_HCI.pdf), by Ogbonnaya-Ogburu et al
 * [*Design Justice*](https://design-justice.pubpub.org/), by Sasha Costanza-Chock (subtitle: Community-Led Practices to Build the Worlds We Need)
 * [Intersectionality: Race, Surveillance, and Tech and Its History](https://archive.org/details/asl-intersectionality) with Cory Doctorow, Malkia Devich-Cyril (Media Justice) and Meredith Whittaker (AI Now)
-  * Alt: [Copy hosted on YouTube](https://youtu.be/bdc4qqk3lQ0)
+  * Alt: [copy hosted on YouTube](https://youtu.be/bdc4qqk3lQ0)
 * [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), by ProPublica
 * [The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition](https://dl.acm.org/doi/10.1145/3274357), by Os Keyes
 * *Race After Technology*, by Ruha Benjamin
@@ -50,11 +50,21 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 
 * *Algorithms of Oppression*, by Safiya Umoja Noble (subtitle: how search engines reinforce racism)
 * *Automating Inequality*, by Virginia Eubanks (subtitle: How High-Tech Tools Profile, Police, and Punish the Poor)
-* [Litigating Algorithms 2019 US Report](https://ainowinstitute.org/litigatingalgorithms-2019-us.pdf), by Richardson et al. 
+* [A critique of pure learning and what artificial neural networks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6), by Anthony Zador
+* [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355), by Strubell et al
+* How Robust Are Probabilistic Models of Higher-Level Cognition?, by Gary F. Marcus and Ernest Davis
+* [Litigating Algorithms 2019 US Report](https://ainowinstitute.org/litigatingalgorithms-2019-us.pdf), by Richardson et al 
   * Report from the AI Now Institute 
 * [To predict and serve?](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2016.00960.x), by Lum and Issac 
   * See [their presentation](https://www.fatml.org/schedule/2016/presentation/predict-and-serve) at FAT/ML 2016
 * *Weapons of Math Destruction*, by Cathy O'Neil (subtitle: how big data increases inequality and threatens democracy)
+
+#### NLP
+
+* *[GPT-3, Bloviator](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)*, by Marcus and Davis (subtitle: OpenAI’s language generator has no idea what it’s talking about)
+* [Miller’s Monkey Updated: Communicative Efficiency and the Statistics of Words in Natural Language](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302857), by Caplan et al
+* [Semantically Equivalent Adversarial Rules for Debugging NLP models](https://www.aclweb.org/anthology/P18-1079), by Ribeiro et al
+* [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](http://arxiv.org/abs/2004.09095) by Joshi et al
 
 #### Tech Addiction
 
