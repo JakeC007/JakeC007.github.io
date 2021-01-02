@@ -31,6 +31,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * *Black Software*, by Charlton D. McIlwain (subtitle: The Internet & Racial Justice, from the AfroNet to Black Lives Matter)
 * [Big Data’s Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899), by Baracos and Selbst 
 * [Critical Race Theory for HCI](https://www.alexandrato.com/papers/Critical_Race_Theory_for_HCI.pdf), by Ogbonnaya-Ogburu et al
+* [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://arxiv.org/pdf/2007.04068.pdf), by Mohamed et al
 * [*Design Justice*](https://design-justice.pubpub.org/), by Sasha Costanza-Chock (subtitle: Community-Led Practices to Build the Worlds We Need)
 * [Intersectionality: Race, Surveillance, and Tech and Its History](https://archive.org/details/asl-intersectionality) with Cory Doctorow, Malkia Devich-Cyril (Media Justice) and Meredith Whittaker (AI Now)
   * Alt: [copy hosted on YouTube](https://youtu.be/bdc4qqk3lQ0)
