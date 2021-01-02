@@ -28,6 +28,6 @@ Below I have reproduced those recommendations taken from a public notes doc post
 >
 > - United States Digital Service is an agency of the federal government that hires people on three-month to two-year terms ([https://www.usds.gov).](https://www.usds.gov)
 >
-> - White House Fellows Applications are open and due on Jan 6, 2021 (https://www.whitehouse.gov/get-involved/fellows/apply).
+> - White House Fellows Applications are open and due on Jan 6, 2021 ([https://www.whitehouse.gov/get-involved/fellows/apply](https://www.whitehouse.gov/get-involved/fellows/apply)).
 >
 > 
