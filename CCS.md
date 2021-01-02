@@ -27,6 +27,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 
 #### Race and Technology
 
+* [Abolish the #TechToPrisonPipeline](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16), by the Coalition for Critical Technology
 * *Black Software*, by Charlton D. McIlwain (subtitle: The Internet & Racial Justice, from the AfroNet to Black Lives Matter)
 * [Big Data’s Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899), by Baracos and Selbst 
 * [Critical Race Theory for HCI](https://www.alexandrato.com/papers/Critical_Race_Theory_for_HCI.pdf), by Ogbonnaya-Ogburu et al
@@ -39,6 +40,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
   * Bonus: Ruha Benjamin’s talk in the [Conversations for Change](https://www.ncwit.org/video/race-future-reimagining-default-settings-technology-and-society-ruha-benjamin-video-playback) hosted by the National Center for Women in Information Technology
 * [Watching the Black Body](https://www.eff.org/deeplinks/2019/02/watching-black-body), by Malkia Cyrill
   * This was originally published in McSweeney's "The End of Trust" edition, produced in collaboration with the EFF
+* [The Whiteness of AI](https://link.springer.com/article/10.1007/s13347-020-00415-6), by Cave and Dihal
 
 #### Digital Rights
 
@@ -55,6 +57,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * How Robust Are Probabilistic Models of Higher-Level Cognition?, by Gary F. Marcus and Ernest Davis
 * [Litigating Algorithms 2019 US Report](https://ainowinstitute.org/litigatingalgorithms-2019-us.pdf), by Richardson et al 
   * Report from the AI Now Institute 
+* [The Short Anthropological Guide to the Study of Ethical AI](https://montrealethics.ai/wp-content/uploads/2020/08/The-Short-Anthropological-Guide-to-Ethical-AI.pdf), by Alexandrine Royer
 * [To predict and serve?](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2016.00960.x), by Lum and Issac 
   * See [their presentation](https://www.fatml.org/schedule/2016/presentation/predict-and-serve) at FAT/ML 2016
 * *Weapons of Math Destruction*, by Cathy O'Neil (subtitle: how big data increases inequality and threatens democracy)
@@ -92,6 +95,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 
 #### Miscellaneous
 
+* *A Civic Technologist's Practice Guide*, by Cyd Harrell
 * [A student guide for navigating ethical issues in the tech industry](https://foundation.mozilla.org/en/initiatives/great-tech-great-responsibility/), by The Mozilla Foundation 
 * *Ethics of Invention*, by Sheila Jasanoff (subtitle: Technology and the Human Future)
 * [Data Voids](https://datasociety.net/wp-content/uploads/2018/05/Data_Society_Data_Voids_Final_3.pdf), by Golbiewski and Boyd. The Data and Society Institute (subtitle: Where Missing Data Can Easily Be Exploited) 
