@@ -72,9 +72,10 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 
 #### Tech Addiction
 
-* [A Different Kind of Streaking](https://www.wnycstudios.org/podcasts/notetoself/episodes/different-kind-streaking), by Note to Self
 * [Addicted to Your iPhone? You're Not Alone](https://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/), by Bianca Bosker. The Atlantic
 * [Dark Patterns are designed to trick you (and they’re all over the Web)](https://www.90percentofeverything.com/2010/07/08/dark-patterns-dirty-tricks-designers-use-to-make-people-do-stuff/), by Harry Brignull
+* [A Different Kind of Streaking](https://www.wnycstudios.org/podcasts/notetoself/episodes/different-kind-streaking), by Note to Self
+* [FarmVille Once Took Over Facebook. Now Everything Is FarmVille](https://www.nytimes.com/2020/12/31/technology/farmville-zynga-facebook.html), by Daniel Victor. The New York Times
 * [Have Smartphones Destroyed a Generation?](https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/?single_page=true), by Jean M. Twenge. The Atlantic
 * [When Websites Won’t Take No for an Answer](https://www.nytimes.com/2016/05/15/technology/personaltech/when-websites-wont-take-no-for-an-answer.html?_r=0), by Natasha Singer. The New York Times
 
