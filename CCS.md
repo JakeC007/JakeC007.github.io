@@ -56,12 +56,16 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * [A critique of pure learning and what artificial neural networks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6), by Anthony Zador
 * [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355), by Strubell et al
 * How Robust Are Probabilistic Models of Higher-Level Cognition?, by Gary F. Marcus and Ernest Davis
-* [Litigating Algorithms 2019 US Report](https://ainowinstitute.org/litigatingalgorithms-2019-us.pdf), by Richardson et al 
-  * Report from the AI Now Institute 
+* [Litigating Algorithms 2019 US Report](https://ainowinstitute.org/litigatingalgorithms-2019-us.pdf), by Richardson et al. AI Now Institute 
 * [The Short Anthropological Guide to the Study of Ethical AI](https://montrealethics.ai/wp-content/uploads/2020/08/The-Short-Anthropological-Guide-to-Ethical-AI.pdf), by Alexandrine Royer
 * [To predict and serve?](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2016.00960.x), by Lum and Issac 
   * See [their presentation](https://www.fatml.org/schedule/2016/presentation/predict-and-serve) at FAT/ML 2016
 * *Weapons of Math Destruction*, by Cathy O'Neil (subtitle: how big data increases inequality and threatens democracy)
+
+#### AI & AI Ethics
+
+* [The AI Liability Puzzle and a Fund-Based Work-Around](https://dl.acm.org/doi/abs/10.1145/3375627.3375806), by Erdélyi and Erdélyi
+* [Disability, Bias, and AI](https://ainowinstitute.org/disabilitybiasai-2019.pdf), by Whittaker et al. AI Now Institute
 
 #### NLP
 
