@@ -43,7 +43,7 @@ The assignment operator `<-` stores the data to the right of the arrow into the 
 Swarthmore <- 1864
 ```
 
-As you can see, you only have to follow the direction of the arrow to see what is getting stored where. 
+As you can see, you only have to follow the direction of the arrow to see what is getting stored where. As an added bonus, in RStudio the shortcut to create an assignment operator is the key combination of `ALT` + `-`.
 
 
 

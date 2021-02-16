@@ -6,6 +6,11 @@ tags: [R, how-to, code, code-ref]
 
 A collection of R functions that I found helpful. Some of these functions require the `tidyverse` package.
 
+### Getting info on variables
+
+* `str(my_varb)` - displays the content of an R object (*i.e.,* any variable)
+* `class(my_varb)` - displays the class of an R object (*i.e.,* any variable)
+
 ### Getting info on data sets 
 
 * `head(my_data)` - displays the first six lines of a data set
