@@ -3,17 +3,17 @@ layout: post
 title: Load-Balancing ssh with HAProxy
 ---
 
-One of the many things I did last (2020) summer was set up a up [HAProxy](https://cbonte.github.io/HAProxy-dconv/2.2/intro.html#1) as a load-balancer for my CS department's incoming ssh connections. I completed this project with my CS Department's wonderful Sysadmin [Jeff Knerr](https://jeffknerr.github.io/). This page is a modified mirror of Jeff's page that describes our setup.
+One of the many things I did last summer (2020) was set up a up [HAProxy](https://cbonte.github.io/HAProxy-dconv/2.2/intro.html#1) as a load-balancer for my CS department's incoming ssh connections. I completed this project in partnership with my CS Department's wonderful Sysadmin [Jeff Knerr](https://jeffknerr.github.io/). This page is a modified mirror of Jeff's page that describes our setup.
 
 
 
 ### Some Background
 
-The Swarthmore CS department maintains our own servers (*i.e.,* dns, web, email, ldap, etc) and lab computers. Spread out over the various labs on campus we manage a touch over 100 lab computers--all of which that run linux. 
+The Swarthmore CS department maintains our own servers (*i.e.,* dns, web, email, ldap, etc) and lab computers. These 100 or so lab computers are spread out over the various lab locations on campus--all of which that run linux. 
 
-To access the lab computers remotely, students ssh in. This is an especially popular feature for students who either (1) aren't on campus or (2) want to work from elsewhere on campus. The former now especially relevant as our institution had eliminated in person computer lab access as a response to the pandemic.  
+To access the lab computers remotely, students ssh in. This is an especially popular feature for students who either (1) aren't on campus or (2) want to work from elsewhere on campus. The former now especially relevant as our institution had halved the number of students on campus and eliminated in person computer lab access as a response to the pandemic.  
 
-To make this easy for students, we one name (e.g., *lab.myschool.edu*) that students could ssh to, which would load-balance the ssh connections across our various lab computers. Additionally, if any computers happen to reboot or be down, we wanted them automatically (and quickly) removed from the load-balancing rotation, and put back into the rotation when they were up again.
+To make this easy for students, we used one address (e.g., *lab.myschool.edu*) that students could ssh to, which would load-balance the ssh connections across our various lab computers. Additionally, if any computers happen to reboot or be down, we wanted them automatically (and quickly) removed from the load-balancing rotation, and put back into the rotation when they were up again.
 
 ### Our Setup
 
