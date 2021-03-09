@@ -26,7 +26,7 @@ To make this easy for students, we used one address (e.g., *lab.myschool.edu*) t
 
 For example, here’s a simplified section of our `ssh_known_hosts2` file (with fake names and IP addresses), only showing one of the key types (ed25519) for each host:
 
-```bash
+```
 lab,lab.myschool.edu,1.2.3.1 ssh-ed25519 AAAAO3Nzaer56DI1NTE5AAAAIJfPzJHRiiiwhrGposISykHMLvpcowKnjRbUxb028Klx root@hostA
 hostA,hostA.myschool.edu,1.2.3.10 ssh-ed25519 AAAAO3Nzaer56DI1NTE5AAAAIJfPzJHRiiiwhrGposISykHMLvpcowKnjRbUxb028Klx root@hostA
 hostB,hostB.myschool.edu,1.2.3.11 ssh-ed25519 AAAAO3Nzaer56DI1NTE5AAAAIJfPzJHRiiiwhrGposISykHMLvpcowKnjRbUxb028Klx root@hostA
@@ -39,7 +39,7 @@ So each lab computer (hostA, hostB, hostC) has the same `ssh_host_ed25519_key` a
 
 And here’s a simplified version of our `/etc/haproxy/haproxy.cfg` file (from a server running Debian 10 (Buster)):
 
-```bash
+```
 global
 	log /dev/log	local0
 	log /dev/log	local1 notice
@@ -120,6 +120,8 @@ Maybe. Here is a list of pros and cons that we assembled:
 | Hosts quickly and automatically taken out of the rotation if offline, added back when online | All computers need to have the same ssh host keys (not too hard if you already manage them with ansible) |
 | ssh load-sharing across 40+ computers                        |                                                              |
 | Easy to monitor (see stats example below)                    |                                                              |
+
+
 
 
 
