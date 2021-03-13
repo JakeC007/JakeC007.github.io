@@ -21,7 +21,7 @@ The GRE is composed of 7 parts:
 * An essay where you must analyze an argument (30 min)
 * Two sections of verbal questions that contain 20 questions each (30 or 35 min per section)
 * Two sections of quantitative questions that contain 20 questions each  (30 or 35 min per section)
-* An experimental section of either Verbal or quantitative (35 min)
+* An experimental section of either verbal or quantitative (35 min)
 
 All told its is somewhere between a three and four hour experience. 
 
@@ -103,19 +103,19 @@ There is no "right" way to prepare to the GRE. Friends of mine took a mock pract
 * [Vince Kotchian](https://vincekotchian.com/)
 * [Magoosh](https://magoosh.com/)
 
-I'm sure there are more out there, but these are the ones that I am familiar with. Vince [has a page on his website](https://vincekotchian.com/blog/gre/a-gre-tutors-review-of-magoosh-gre-videos) reviewing Magoosh. I think he makes valid points, but I would take it with a grain of salt because at the end of the day he is selling his own product. 
+I'm sure more exist, but these are the ones that I am familiar with. Vince [has a page on his website](https://vincekotchian.com/blog/gre/a-gre-tutors-review-of-magoosh-gre-videos) reviewing Magoosh. I think he makes valid points, but I would take it with a grain of salt because at the end of the day he is selling his own product. 
 
 
 
-I myself used Magoosh based off of a singular recommendation from another student at my school. I only saw Vince's page much much later. Overall, I think he makes good points. That being said, I'd still pay for the service again. I was mainly concerned with strengthening my quant score and I found the Magoosh content easy to follow and tailored to GRE-esk questions. Moreover, each practice question had an associated video and write up that explained how to solve the question. This was huge for me. Having a video explanation proverbially hold my hand made it a lot easier for me to understand the content and not get overwhelmed. I created over 200 math flash cards for this exam. I don't think I would've done that if it weren't for the easy to access and understand explanations. 
+I myself used Magoosh based off of a singular recommendation from another student at my school. I only saw Vince's page much much later. Overall, I think he makes good points. That being said, I'd still pay for the service again. I was mainly concerned with strengthening my quant score and I found the Magoosh content easy to follow and tailored to GRE-esk questions. Moreover, each practice question had an associated video and write up that explained how to solve the question. This was huge for me. Having a video explanation proverbially hold my hand made it a lot easier for me to understand the content and not get overwhelmed. I created over 200 math flash cards for this exam. I don't think I would've done that if it weren't for the video based explanations. 
 
 
 
-That all being said, I didn't use Magoosh at all for the verbal section because I didn't need it. So if you need test prep resources for Vocab I cannot say one way or the other. Moreover, they weren't GRE questions just GRE like questions and the two aren't the same.
+That all being said, I didn't use Magoosh at all for the verbal section because I didn't need it. So if you need test prep resources for the verbal section I don't have any helpful information. I do know that the Magoosh verbal questions are simply GRE-eske questions and in the verbal section having an approximation is not as good as the real thing.
 
 #### Free Test Prep
 
-You can totally prepare for this test for free. All three services listed above have a bunch of great public facing content. Moreover, [Vince has a great webpage on how to study for the math section.](https://vincekotchian.com/blog/gre/complete-gre-math-concept-list) Within that section, he has linked every concept to a Kahn Academy video.  A huge portion of GregMAT's content is on YouTube. His [website has a nice organization to the videos](https://www.gregmat.com/learn-about-the-gre). Additionally, the **most crucial piece of test prep is is two free GRE exams that are distributed by ETS**. Power Prep I and II. 
+You can totally prepare for this test for free. All three services listed above have a bunch of great public facing content. Moreover, [Vince has a great webpage on how to study for the math section.](https://vincekotchian.com/blog/gre/complete-gre-math-concept-list) Within that section, he has linked every concept to a Kahn Academy video.  A huge portion of GregMAT's content is on YouTube. His [website has a nice organization to the videos](https://www.gregmat.com/learn-about-the-gre). Additionally, the **most crucial piece of test prep is the two free GRE exams that are distributed by ETS**: Power Prep I and II. 
 
    
 
@@ -141,5 +141,5 @@ You can totally prepare for this test for free. All three services listed above 
 
 ### Closing Thoughts 
 
-Regardless of how you learn make sure that you spend time sitting down with sample questions and a blank sheet in front of you. Following along with a solution isn't the same as doing it yourself. Lastly, be sure to take both Power Prep Tests. The GRE is a test of endurance as well as knowledge. The two Power Prep Tests are the only way to prepare for that. 
+Regardless of how you learn, make sure that you spend time sitting down with sample questions and a blank sheet in front of you. Following along with a solution isn't the same as doing it yourself. Lastly, be sure to take both Power Prep Tests. The GRE is a test of endurance as well as knowledge. The two Power Prep Tests are the only way to prepare for that. 
 

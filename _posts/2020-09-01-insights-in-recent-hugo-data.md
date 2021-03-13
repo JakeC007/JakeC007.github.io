@@ -39,7 +39,7 @@ Right, so how did I go about doing this? Well...
 - I want to make it very clear that **I am glad that the Hugo Awards have recently been more conscious about gender equity**
 - **The data that I collected is wildly skewed.** The number of people nominated that use *she/her* pronouns shown in this sample is by no means representative of the 60+ year Hugo dataset as a whole 
   - I also didn't collect data on the short stories category because I had a finite number of human-hours to work on this project
-- I didn't check for pen names. Big thanks to XXX for point this out.
+- I didn't check for pen names. Big thanks to GitHub user islemaster for pointing this out!
 
 
 
