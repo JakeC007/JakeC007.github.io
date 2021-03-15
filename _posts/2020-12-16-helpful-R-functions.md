@@ -21,11 +21,11 @@ A collection of R functions that I found helpful. Some of these functions requir
 
 ### Manipulating data sets
 
-* `filter(my_data, condition)` - keeps the data that matches the condition
+* `filter(my_data, condition)` - keeps the data that matches the condition. Works on **rows**.
 
   * ex. Assuming you have a data set `my_data` that has a variable named `num_cats` you could filter out all rows that saw no cats with the following code `filter(my_data, num_cats>0)` 
 
-* `select(my_data, vars)` - can return a specified subset of the data or remove a set of variables from the data 
+* `select(my_data, vars)` - can return a specified subset of the data or remove a set of variables from the data. Works on **columns**. 
 
   * ex. `select(my_data, A, B, C)` - selects the variables `A`, `B`, `C` from `my_data` data set
   * ex. `select(my_data, -B)` - remove's variable `C` from `my_data` data set
