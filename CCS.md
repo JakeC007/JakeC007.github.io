@@ -66,6 +66,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 
 * [The AI Liability Puzzle and a Fund-Based Work-Around](https://dl.acm.org/doi/abs/10.1145/3375627.3375806), by Erdélyi and Erdélyi
 * [Disability, Bias, and AI](https://ainowinstitute.org/disabilitybiasai-2019.pdf), by Whittaker et al. AI Now Institute
+* [Automating Autism: Disability, Discourse, and Artificial Intelligence](https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1021&context=sociotechnicalcritique), by OS Keyes
 
 #### NLP
 
