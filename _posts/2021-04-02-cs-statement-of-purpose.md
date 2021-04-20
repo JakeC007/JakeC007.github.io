@@ -30,7 +30,7 @@ It's important for you to get across why you want a PhD. What you don't want is 
 
 Additionally, this section is where you demonstrate that you can write well for technical topics. If you can signal to a potential advisor that you don’t need extensive coaching to write a technical paper this is a big plus (*i.e.,* write in a way which shows that it won’t take much hands on work for the advisor to edit or have to teach you how to write technical material clearly for an audience). In short, you want to come across as someone who a PhD advisor can see themselves authoring papers with.
 
-## Who at school X do I want to work with?
+## Who at \$SCHOOL do I want to work with?
 
 This section is a bit of a balancing act. On the on hand, You don’t want to identify one sole professor because: 
 
