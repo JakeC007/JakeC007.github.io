@@ -16,8 +16,7 @@ As a college senior I thought it would be nice to write the guide to applying to
 
 ## Early Summer
 
-* Now is the time to start thinking about *if* you want to apply to grad school. I have written my extended thoughts on that in a previous post entitled: XXXXXXXXX TODO: WRITE AND LINK POST
-* USE "Helpful Dr. Duncan Notes from 2019"
+* Now is the time to start thinking about *if* you want to apply to grad school. I have written a few thoughts on that in a previous post entitled: Should You Consider Applying To CS Grad School?
 * If required, set a test date and start studying for the GRE. [See my post on that here.](https://jakec007.github.io/2020-08-20-a-guide-to-gre-prep/) 
 * Lastly, if you're feeling extra ambitious, start thinking about the NSF Graduate Research Fellowship program (assuming you're a US citizen). See the next section for more details.
 
