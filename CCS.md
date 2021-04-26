@@ -11,7 +11,7 @@ css: /assets/css/blue_blockquote.css
 
 > Computers are impacting all of our lives - let’s talk about it
 
-The culture, computation, and society reading group was a student-led seminar that I co-organized and co-led with Adriana K. from 2019-2021 at Swarthmore College. Comprised of students, staff, and faculty from across the sciences, social sciences, and humanities, we felt very strongly that the reading group should actively seek out and include individuals who aren't the stereotypical STEM major. To quote one of our publicity emails "This seminar is open to EVERYONE. Not just CS majors, not just CS students, but anyone who uses a computer (that’s you!)."    
+The culture, computation, and society reading group was a student-led seminar that I co-organized and co-led with Adriana Knight from 2019-2021 at Swarthmore College. Comprised of students, staff, and faculty from across the sciences, social sciences, and humanities, we felt very strongly that the reading group should actively seek out and include individuals who aren't the stereotypical STEM major. To quote one of our publicity emails "This seminar is open to EVERYONE. Not just CS majors, not just CS students, but anyone who uses a computer (that’s you!)."    
 
 
 
@@ -99,6 +99,13 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * [Can advertising support a free internet](https://www.theguardian.com/media-network/2016/nov/07/can-advertising-support-free-internet)?, by David Benady. The Guardian
 * [Let's Check The Tape,](https://www.wnycstudios.org/podcasts/notetoself/episodes/transcribed-life) by Note to Self
 * [The Internet's Original Sin](https://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/), by Ethan Zuckerman. The Atlantic 
+
+#### Data Science (Not discussed but good reading material!)
+
+* [Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results](https://journals.sagepub.com/doi/10.1177/2515245917747646), by Silberzahn et al.
+* ["On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” In *Data Feminism* ](https://bookbook.pubpub.org/pub/8tjbs2x5), by Catherine D’Ignazio and Lauren Klein
+* [Science Isn’t Broken](https://fivethirtyeight.com/features/science-isnt-broken/), by Christie Aschwanden. FiveThirtyEight
+* [The Good, the Bad, and the Biased: Five Ways Visualizations Can Mislead (and How to Fix Them),](https://cmci.colorado.edu/visualab/papers/p26-szafir.pdf) by Danielle Szafir 
 
 #### Miscellaneous
 
