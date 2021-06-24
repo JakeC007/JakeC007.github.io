@@ -30,4 +30,15 @@ Below I have reproduced those recommendations taken from a public notes doc post
 >
 > - White House Fellows Applications are open and due on Jan 6, 2021 ([https://www.whitehouse.gov/get-involved/fellows/apply](https://www.whitehouse.gov/get-involved/fellows/apply)).
 >
-> 
+
+
+
+June 2021 Update:
+
+Here are a few more PIT-eske jo boards that I have stumbled across:
+
+- [All Hands](https://codingitforward.us15.list-manage.com/track/click?u=9254473a71d61ff7556fa5215&id=cfd983dc10&e=e68ee9a4a7)
+- [Design Gigs for Good](https://codingitforward.us15.list-manage.com/track/click?u=9254473a71d61ff7556fa5215&id=88cf908ef8&e=e68ee9a4a7)
+- [Impactful](https://codingitforward.us15.list-manage.com/track/click?u=9254473a71d61ff7556fa5215&id=e32a1a7faf&e=e68ee9a4a7)
+- [Tech Jobs for Good](https://codingitforward.us15.list-manage.com/track/click?u=9254473a71d61ff7556fa5215&id=3e947a8683&e=e68ee9a4a7)
+- [80,000 Hours](https://codingitforward.us15.list-manage.com/track/click?u=9254473a71d61ff7556fa5215&id=7ae1a702df&e=e68ee9a4a7)

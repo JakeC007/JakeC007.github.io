@@ -30,6 +30,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * [Abolish the #TechToPrisonPipeline](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16), by the Coalition for Critical Technology
 * *Black Software*, by Charlton D. McIlwain (subtitle: The Internet & Racial Justice, from the AfroNet to Black Lives Matter)
 * [Big Data’s Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899), by Baracos and Selbst 
+* Making Skin Visible through Liberatory Design, by Lorna Roth in *Captivating Technology* (Race, Carceral Technoscience, and Liberatory Imagination in Everyday Life)
 * [Critical Race Theory for HCI](https://www.alexandrato.com/papers/Critical_Race_Theory_for_HCI.pdf), by Ogbonnaya-Ogburu et al
 * [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://arxiv.org/pdf/2007.04068.pdf), by Mohamed et al
 * [*Design Justice*](https://design-justice.pubpub.org/), by Sasha Costanza-Chock (subtitle: Community-Led Practices to Build the Worlds We Need)
