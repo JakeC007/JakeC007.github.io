@@ -15,7 +15,7 @@ There are pros and cons for going to grad school. If you're a student who is enr
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | - It'll never be easier to get a PhD. Your living expenses are low and you are used to being a student.<br /> | - The opportunity cost of getting a PhD is huge<br />- You can always go to grad school later in life |
 
-
+<br />
 
 ### MSc Vs PhD?
 
