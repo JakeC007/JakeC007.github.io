@@ -197,3 +197,12 @@ For a good set of questions to ask at this step check out [this pdf](https://www
 
 Make a decision and celebrate! Congratulations!! This processing is grueling and you did it!
 
+
+
+
+
+### Links
+
+Some links that I found that were useful
+
+* [Ph.D. Applications:  FAQ](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
