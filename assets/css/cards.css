@@ -40,7 +40,7 @@
 }
 .card-image {
   grid-area: image;
-  background:url("/assets/img/amd_globalfoundaries_silicon.jpg");
+  background:url("/assets/img/likert/reorder_g1.png");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
