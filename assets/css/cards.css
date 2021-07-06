@@ -40,7 +40,7 @@
 }
 .card-image {
   grid-area: image;
-  background:url("/assets/img/likert/reorder_g1.png");
+  background:url("/assets/img/home_pg/likert_card.png");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -72,7 +72,7 @@
 
 /* ------------------------- CARD 2 ------------------------- */ 
 .card-image.card2 {
-  background: url("https://github.com/JakeC007/STS-Data/blob/main/imgs/Misc/targeted_ad_understanding.png");
+  background: url("/assets/img/home_pg/noun_line_graph");
   background-size: cover;
 }
 .card-text.card2 .category {
