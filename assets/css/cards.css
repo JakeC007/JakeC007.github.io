@@ -72,7 +72,7 @@
 
 /* ------------------------- CARD 2 ------------------------- */ 
 .card-image.card2 {
-  background: url("/assets/img/goodreads_icon.png");
+  background: url("https://github.com/JakeC007/STS-Data/blob/main/imgs/Misc/targeted_ad_understanding.png");
   background-size: cover;
 }
 .card-text.card2 .category {
