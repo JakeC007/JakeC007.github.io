@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How To (CS) PhD: Pointers On The Hidden Curriculum
+title: How To (CS) PhD
+subtitle: Pointers On The Hidden Curriculum
 tags: [grad school, phd]
 ---
 
