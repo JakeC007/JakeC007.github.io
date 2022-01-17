@@ -104,9 +104,9 @@ In these numerous meetings you should be taking notes. This will allow you to re
 
 Suggested notes format:
 
-- - Agenda 
-  - Minutes 
-  - Action items
+- Agenda 
+- Minutes 
+- Action items
 
 
 
