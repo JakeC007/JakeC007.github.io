@@ -6,6 +6,8 @@ tags: [grad school application process]
 
 
 
+2022 UPDATE: Read chapter 1 of *A Field Guide To Grad School* in addition to this post.
+
 As a college senior I thought it would be nice to write the guide to applying to graduate school that I wish I had when I started this process. So without further ado I present to you "A Swattie's Guide To Applying To CS PhD Programs" or "How I Did It"
 
 ![Fictitious book entitled "How I Did It by Victor Frankenstein"](https://jakec007.github.io/assets/img/young_frankenstein_how_I_did_it.png)

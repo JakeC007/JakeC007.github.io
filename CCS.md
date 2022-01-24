@@ -121,6 +121,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * *Obfuscation: A User's Guide*, by Finn Brunton and Helen Nussbaum
 * *[Plain Text](https://monoskop.org/media/text/tenen_2017_plain_text/),* by Dennis Tenen (subtitle: The Poetics of Computation) 
 * [*Twitter and Tear Gas*](https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf), by Zeynep Tufekci (subtitle: The Power and Fragility of Networked Protest) 
+* [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/) by Jeffrey Paul
 
 
 
