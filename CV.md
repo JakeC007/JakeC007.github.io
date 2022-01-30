@@ -9,17 +9,17 @@ title: Curriculum Vitae
 
 ### Projects
 
-* CS Pedagogy Research | Swarthmore College Computer Science: Webb Lab
+* CS Pedagogy Research \| Swarthmore College Computer Science: Webb Lab
   * Investigating attitudes between current CS students and alumni regarding their ability to apply CS course work when faced with real-world technical challenges.
-* Investigating Ethical Risk | McGill University: Responsible Autonomy \& Intelligent System Ethics (RAISE) Lab
+* Investigating Ethical Risk \| McGill University: Responsible Autonomy & Intelligent System Ethics (RAISE) Lab
   * Conducted a scoping review and a thematic analysis in order to investigate ethical risk in AI ethics literature.
-  * Research funded by the Lang Center for Civic \& Social Responsibility's  Social Impact Summer Scholarship
-* Expressive Unmanned Aerial Vehicle Flight Paths | University of Nebraska–Lincoln: Nebraska Intelligent Mobile Unmanned Systems (NIMBUS) Lab
+  * Research funded by the Lang Center for Civic & Social Responsibility's  Social Impact Summer Scholarship
+* Expressive Unmanned Aerial Vehicle Flight Paths \| University of Nebraska–Lincoln: Nebraska Intelligent Mobile Unmanned Systems (NIMBUS) Lab
   * Conducted HRI research on UAV to human communication methods. Designed a study investigating expressive flight paths
   * Research funded by NSF REU
-* Deep Learning to Design Imaging Systems | Swarthmore College Engineering: Ganapati Lab
+* Deep Learning to Design Imaging Systems \| Swarthmore College Engineering: Ganapati Lab
   * Built a single image super resolution deep neural network that employed a GAN to increase accuracy.
-* Advancing Ethical Decision Making in Virtual Reality | University of Southern California Institute for Creative Technologies: Mixed Reality Lab
+* Advancing Ethical Decision Making in Virtual Reality \| University of Southern California Institute for Creative Technologies: Mixed Reality Lab
   * Developed a scalable and adaptable immersive simulation which tested a user's sense of presence and sense of agency in virtual spaces.
   * Research funded by NSF REU
 
