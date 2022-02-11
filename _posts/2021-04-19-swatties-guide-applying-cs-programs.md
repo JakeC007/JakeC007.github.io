@@ -18,7 +18,7 @@ As a college senior I thought it would be nice to write the guide to applying to
 
 ## Early Summer
 
-* Now is the time to start thinking about *if* you want to apply to grad school. I have written a few thoughts on that in a previous post entitled: Should You Consider Applying To CS Grad School?
+* Now is the time to start thinking about *if* you want to apply to grad school. I have written a few thoughts on that in a previous post entitled: Should You Consider Applying To CS Grad School? You should also check out Casey Fiesler's wonderful YouTube video [*Should You Get a PhD??? | Reasons to Apply to PhD Programs (OR NOT)*](https://youtu.be/p4QiJNPSdWs). As a professor she is more far more qualified than I am to tell you if this path is the right one for you.
 * If required, set a test date and start studying for the GRE. [See my post on that here.](https://jakec007.github.io/2020-08-20-a-guide-to-gre-prep/) 
 * Lastly, if you're feeling extra ambitious, start thinking about the NSF Graduate Research Fellowship program (assuming you're a US citizen). See the next section for more details.
 
