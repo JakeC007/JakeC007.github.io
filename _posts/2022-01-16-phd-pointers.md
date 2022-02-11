@@ -151,7 +151,7 @@ Lastly, a few tips about conferences:
 - Conferences represent an opportunity for you to network with other researchers
 
   - You get to tap into knowledge and perspective that people in your department don't have
-  - May lead to research collabs in the future 
+    - This may lead to research collabs in the future 
 
 - **Don't feel self conscious about talking**
 
@@ -164,7 +164,7 @@ Lastly, a few tips about conferences:
 - Network broadly
 
   - Top researchers may be hard to talk with without an "in" so don't just focus on talking with them. There are lots of interesting people to chat with at a conference
-  - Keep in mind that your fellow Grad students today will be in positions of power tomorrow 
+  - Keep in mind that your fellow grad students today will be in positions of power tomorrow 
   - Get people's Twitter handles and follow them
 
   
@@ -190,7 +190,7 @@ Lastly, a few tips about conferences:
   - Good Presentation
     - Watch: [How To Speak by Patrick Winston](https://youtu.be/Unzc731iCUY)
 
-In addition to all of that, I also high recommend: [How To Be A Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf) by Mark Dredze and Hanna M. Wallach
+In addition to all of that, I also highly recommend: [How To Be A Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf) by Mark Dredze and Hanna M. Wallach
 
 
 
