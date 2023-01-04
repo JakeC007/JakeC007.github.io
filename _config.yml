@@ -44,7 +44,7 @@ title-img: "/assets/img/JC_Profile.png"
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "gchanen1@swarthmore.edu"
+  email: "jchanen1@uchicago.edu"
   #facebook: deanattali
   github: JakeC007
   #twitter: daattali
@@ -63,7 +63,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: https://hci.social/@jchanen1
 
 # --- General options --- #
 
