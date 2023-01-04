@@ -34,7 +34,7 @@ title: Curriculum Vitae
 
 ### Projects
 
-* K-12 Privacy and Security Research | The University of Chicago: Amyoli Internet Research Lab
+* K-12 Privacy and Security Research \ | The University of Chicago: Amyoli Internet Research Lab
   * Lead researcher investigating how K-12 public schools in the United States keep their students' data private and secure.
 
 * CS Pedagogy Research \| Swarthmore College Computer Science: Webb Lab
