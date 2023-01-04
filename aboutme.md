@@ -11,4 +11,4 @@ Jake Chanenson is a CS PhD student at The University of Chicago working under [M
 
 
 
- 
+ Currently, Jake is investigating [privacy and security issues in K12 educational technologies.](https://www.k12inspector.org/findings) 
