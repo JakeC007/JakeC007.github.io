@@ -10,7 +10,7 @@ title: Curriculum Vitae
 ### Publications 
 
 * **J. Chanenson,** P. Ghate, P. Cowal, M. Weaver and D. M. Krum, "Advancing Ethical Decision Making in Virtual Reality," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Osaka, Japan, 2019, pp. 1008-1009, doi: 10.1109/VR.2019.8798151.
-* J. Chanenson,  B. Sloane, A. Morrill, J. Chee, N. Rajan, D. Huang, and M. Chetty, "Uncovering Privacy and Security Challenges In K-12 Schools," To appear CHI 2023. [preprint pdf]
+* **J. Chanenson**,  B. Sloane, A. Morrill, J. Chee, N. Rajan, D. Huang, and M. Chetty, "Uncovering Privacy and Security Challenges In K-12 Schools," To appear CHI 2023. [preprint pdf]
 
 ### Presentations 
 
