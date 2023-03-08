@@ -94,7 +94,7 @@ alias openai='~/.local/bin/openai'
 
 
 
-Back in the terminal, I loaded my new settings into my current terminal setting (Note: the new alias would have automatically loaded the next time I opened the terminal).
+Back in the terminal, I loaded my new settings into my current terminal. (Note: the new alias would have automatically loaded the next time I opened the terminal).
 
 
 
