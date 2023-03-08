@@ -25,7 +25,7 @@ A quick check with pip (`pip3 show openai`) indicated that the package was still
 
 ### Trying To Fix The Path
 
-I tried adding both the utils location and local bin location of openai to my terminal path 
+I tried adding both the utils location and local bin location of the openai package to my terminal path 
 
 
 
@@ -41,7 +41,7 @@ And then checking that the path was correctly modified
 
 
 
-However, this did not work for me. 
+The path was correctly modified, but I still got the same error of c*ommand not found*. 
 
 
 
@@ -69,7 +69,7 @@ And I was right!
 
 ### The Fix
 
-To fix this permanently, I needed to edit my shell's config file. Note if you aren't using Bash here is the location of other common shells:
+To fix this permanently, I needed to edit my shell's config file. Note if you aren't using Bash, below are the location of other common shells:
 
 - Zsh shell: `~/.zshrc`
 
@@ -119,14 +119,14 @@ And the output confirmed that I was good to go! Since then, I have had no issues
 If you are getting an error message in your terminal that says *openai: command not found* AND you have confirmed that 
 
 - you are in the correct venv (if applicable) 
-- openai is installed via pip3 `show openai`
+- openai is installed via `pip3 show openai`
 
 Then the following fix may work for you:
 
 1. Find where the openai program is stored 
    1. It is likely `~.\local\bin`
    2. If it isn't there try triggering a delete in pip via `pip uninstall openai`
-      1. Before you delete it will list all of the locations that openai exists. This is how you can find where the openai program exists outside of the scripts/utils folder in `~/.../Python3.X/.../openai`
+      1. Before you delete it will list all of the locations that openai exists. This is how you can quickly find where the openai program exists outside of the scripts/utils folder in `~/.../Python3.X/.../openai`
 2. Try `~/.local/bin/openai`
-3. If it works create an alias in the terminal `alias openai=~/.local/bin/openai`
-4. If that works save the alias to your shell config file see section "The Fix" for how to do that
+3. If it works, create an alias in the terminal `alias openai=~/.local/bin/openai`
+4. If that works, save the alias to your shell config file see section "The Fix" for how to do that
