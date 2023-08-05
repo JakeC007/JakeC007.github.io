@@ -62,6 +62,7 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * [To predict and serve?](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2016.00960.x), by Lum and Issac 
   * See [their presentation](https://www.fatml.org/schedule/2016/presentation/predict-and-serve) at FAT/ML 2016
 * *Weapons of Math Destruction*, by Cathy O'Neil (subtitle: how big data increases inequality and threatens democracy)
+* [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463.pdf), by Emily M. Bender and Alexander Koller
 
 #### AI & AI Ethics
 
@@ -122,6 +123,15 @@ In addition to discussions, we occasionally had a sprinkling of interactive work
 * *[Plain Text](https://monoskop.org/media/text/tenen_2017_plain_text/),* by Dennis Tenen (subtitle: The Poetics of Computation) 
 * [*Twitter and Tear Gas*](https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf), by Zeynep Tufekci (subtitle: The Power and Fragility of Networked Protest) 
 * [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/) by Jeffrey Paul
+
+
+
+## Bonus 
+
+This reading group has been over for a while now, but every now and again I see something that would have made the reading list if the group was still active. This section contains those pieces. 
+
+* [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922), by Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell
+* [OpenAI's Whisper is another case study in Colonization,](https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/) by Keoni Mahelona, Gianna Leoni, Suzanne Duncan, Miles Thompson. By Papareo
 
 
 
