@@ -9,7 +9,7 @@ title: Curriculum Vitae
 
 ### Publications 
 
-*  **J. Chanenson,** B. Sloane,  A. Morrill, J. Chee, N. Rajan, D. Huang,  and M. Chetty, "Uncovering Privacy and Security Challenges In K-12  Schools." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 592, 1–28. https://doi.org/10.1145/3544548.3580777 **Honorable Mention**
+*  **J. Chanenson,** B. Sloane,  A. Morrill, J. Chee, N. Rajan, D. Huang,  and M. Chetty, "Uncovering Privacy and Security Challenges In K-12  Schools." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 592, 1–28. [https://doi.org/10.1145/3544548.3580777]( https://doi.org/10.1145/3544548.3580777) **Honorable Mention**
 *  **J. Chanenson,** P. Ghate, P. Cowal, M. Weaver and D. M. Krum, "Advancing Ethical Decision Making in Virtual Reality," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Osaka, Japan, 2019, pp. 1008-1009, doi: 10.1109/VR.2019.8798151.
 
 ### Poster Presentations 
@@ -24,7 +24,7 @@ title: Curriculum Vitae
 
 ### Talks
 * **G. J. Chanenson**, M. Pickering, N. Apthorpe, 5th Annual Symposium on Applications of Contextual Integrity, Topic: *Annotating GKC-CI Flows With Large Language Models*, York, ON, Fall 2023.
-* M. Choksi * and **G. J. Chanenson \* **, 5th Annual Symposium on Applications of Contextual Integrity, Topic: *Annotating CI-GCK Flows With Large Language Models*, York, ON, Fall 2023.
+* M. Choksi* and **G. J. Chanenson**\*, 5th Annual Symposium on Applications of Contextual Integrity, Topic: *Annotating CI-GCK Flows With Large Language Models*, York, ON, Fall 2023.
 * **G. J. Chanenson**, B. Sloane, A. Morrill, N. Rajan, J. Chee, D. Huang, M. Chetty, 4th Annual Symposium on Applications of Contextual Integrity, Topic: *Privacy, CI, and EdTech In K-12*, New York, NY, Fall 2022.
 * **G. J. Chanenson**, A. Morrill, M. Chetty, 4th Annual Transcending Boundaries Symposium, Topic: *All That Glitters Is Not Gold: Investigating Educational Technology Use and Privacy Implications In K-12*, Chicago, IL, Spring 2022.
 * **G. J. Chanenson**, K. Webb, Swarthmore College, Topic: *Understanding Student Resiliency To Technical Challenges Inside and Outside The Classroom*, Swarthmore, PA, Spring 2021.
