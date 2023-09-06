@@ -9,26 +9,22 @@ title: Curriculum Vitae
 
 ### Publications 
 
-*  J. Chanenson, B. Sloane,  A. Morrill, J. Chee, N. Rajan, D. Huang,  and M. Chetty, "Uncovering Privacy and Security Challenges In K-12  Schools." *To appear CHI 2023.* [[preprint pdf](https://airlab.cs.uchicago.edu/files/2023/02/CHI23_Chanenson_EdTech.pdf)]
-* **J. Chanenson,** P. Ghate, P. Cowal, M. Weaver and D. M. Krum, "Advancing Ethical Decision Making in Virtual Reality," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Osaka, Japan, 2019, pp. 1008-1009, doi: 10.1109/VR.2019.8798151.
-* **J. Chanenson**,  B. Sloane, A. Morrill, J. Chee, N. Rajan, D. Huang, and M. Chetty, "Uncovering Privacy and Security Challenges In K-12 Schools," To appear CHI 2023. [preprint pdf]
+*  **J. Chanenson,** B. Sloane,  A. Morrill, J. Chee, N. Rajan, D. Huang,  and M. Chetty, "Uncovering Privacy and Security Challenges In K-12  Schools." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 592, 1–28. https://doi.org/10.1145/3544548.3580777 **Honorable Mention**
+*  **J. Chanenson,** P. Ghate, P. Cowal, M. Weaver and D. M. Krum, "Advancing Ethical Decision Making in Virtual Reality," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Osaka, Japan, 2019, pp. 1008-1009, doi: 10.1109/VR.2019.8798151.
 
-### Presentations 
+### Poster Presentations 
 
 * **G. J. Chanenson**, A. Bevins, B. Duncan. *Exploring Design Methodologies to Create Expressive Drone Flight Paths*, presented at the Eighth Northeast Robotics Colloquium, Philadelphia, PA, Fall 2019.
-  
 * **G. J. Chanenson**, A. Bevins, B. Duncan. *Exploring Design Methodologies to Create Expressive Drone Flight Paths*, presented at the Swarthmore Sigma Xi Undergraduate Poster Session, Swarthmore, PA, Fall 2019.
-  
 * **G. J. Chanenson**, A. Bevins, B. Duncan. *Exploring Design Methodologies to Create Expressive Drone Flight Paths*, presented at the University of Nebraska–Lincoln Summer Undergraduate Research Symposium Poster Session, Summer 2019.
-  
 * S. Kang, **G. J. Chanenson**, P. Ghate, P. Cowal, M. Weaver, and D. M. Krum. *Advancing Ethical Decision Making in Virtual Reality*, poster presented at the annual IEEE Conference on Virtual Reality and 3D User Interfaces Poster Session, Osaka, Japan, Spring 2019. **Honorable Mention**
-  
 * S. Kang, **G. J. Chanenson**, P. Ghate, P. Cowal, M. Weaver, and D. M. Krum. *Advancing Ethical Decision Making in Virtual Reality*, presented at the Swarthmore Sigma Xi Undergraduate Poster Session, Swarthmore, PA, Fall 2018.
-  
 * S. Kang, **G. J. Chanenson**, P. Ghate, P. Cowal, M. Weaver, and D. M. Krum. *Advancing Ethical Decision Making in Virtual Reality*, presented at the University Southern California Summer CISE Undergraduate Research Symposium Poster Session, Los Angeles, CA, Summer 2018.
 
 
 ### Talks
+* **G. J. Chanenson**, M. Pickering, N. Apthorpe, 5th Annual Symposium on Applications of Contextual Integrity, Topic: *Annotating GKC-CI Flows With Large Language Models*, York, ON, Fall 2023.
+* M. Choksi * and **G. J. Chanenson \* **, 5th Annual Symposium on Applications of Contextual Integrity, Topic: *Annotating CI-GCK Flows With Large Language Models*, York, ON, Fall 2023.
 * **G. J. Chanenson**, B. Sloane, A. Morrill, N. Rajan, J. Chee, D. Huang, M. Chetty, 4th Annual Symposium on Applications of Contextual Integrity, Topic: *Privacy, CI, and EdTech In K-12*, New York, NY, Fall 2022.
 * **G. J. Chanenson**, A. Morrill, M. Chetty, 4th Annual Transcending Boundaries Symposium, Topic: *All That Glitters Is Not Gold: Investigating Educational Technology Use and Privacy Implications In K-12*, Chicago, IL, Spring 2022.
 * **G. J. Chanenson**, K. Webb, Swarthmore College, Topic: *Understanding Student Resiliency To Technical Challenges Inside and Outside The Classroom*, Swarthmore, PA, Spring 2021.
@@ -36,9 +32,11 @@ title: Curriculum Vitae
 
 ### Projects
 
-* K-12 Privacy and Security Research \ | The University of Chicago: Amyoli Internet Research Lab
-  * Lead researcher investigating how K-12 public schools in the United States keep their students' data private and secure.
+* Contextual Integrity and Large Language Models \| The University of Chicago: Amyoli Internet Research Lab
+  * Co-lead researcher investigating if large language models can assist humans in annotating privacy polices using the CI framework
 
+* K-12 Privacy and Security Research \| The University of Chicago: Amyoli Internet Research Lab
+  * Lead researcher investigating how K-12 public schools in the United States keep their students' data private and secure.
 * CS Pedagogy Research \| Swarthmore College Computer Science: Webb Lab
   * Investigating attitudes between current CS students and alumni regarding their ability to apply CS course work when faced with real-world technical challenges.
 * Investigating Ethical Risk \| McGill University: Responsible Autonomy & Intelligent System Ethics (RAISE) Lab
@@ -57,13 +55,18 @@ title: Curriculum Vitae
 
 ## Policy 
 
-**G. J. Chanenson**, M. Chetty, C. Crum, N. Feamster, J. Holiman, A. Khanna, K. MacMillan, B. Pandey, A. Peterson, Z. Rothstein, L. Strahilevitz, J.Yasmeh, (May 2022) [Comment on Dark Patterns in Social Media for European Data Protection Board.](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf) 
+**G. J. Chanenson**, M. Chetty, C. Crum, N. Feamster, J. Holiman, A. Khanna, K. MacMillan, B. Pandey, A. Peterson, Z. Rothstein, L. Strahilevitz, J. Yasmeh, (May 2022) [Comment on Dark Patterns in Social Media for European Data Protection Board.](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf) 
 
 
 
 ## Teaching 
 
-* Instructor - College Readiness and Access, Office of Special Programs-College Prep [Winter 2022 - Present]
+* Instructor - College Readiness and Access, University of Chicago Office of Special Programs-College Prep [Winter 2022 - Present]
+  * Designed and taught a coding class in Python to 15 under-served high school students
+
+* Summer Course Instructor, University of Chicago College Readiness and Access Program  [Summer 2022, Summer 2023]
+  * Designed and taught a human-centered design summer course to 20 under-served high school students.
+
 
 
 
@@ -74,7 +77,7 @@ title: Curriculum Vitae
 * Paper reviewer
   * alt.chi 2022
   * DIS 2022 
-  * CSCW 2022 
+  * CSCW 2022, 2023 
   * CHI 2023  
 
 
@@ -88,11 +91,18 @@ title: Curriculum Vitae
 
 ## Awards 
 
+* Masters In Legal Studies Scholarship [2023]
+  * Full ride to spend one year a The University of Chicago Law School studying law 
+  * The University of Chicago Law School
+* Best Paper Honorable Mention [2023]
+  * ACM CHI Conference on Human Factors in Computing System
 * Special Recognition for Outstanding Review [2022]
   * ACM SIGCHI Conference on Designing Interactive Systems
 * Crerar Fellowship [2021]
+  * Merit-based research stipend
   * University of Chicago Computer Science Department
 * Lockwood Fellowship [2021]
+  * Merit-based research stipend
   * Swarthmore College
 * Social Impact Summer Scholarship [2020]
   * Lang Center for Civic & Social Responsibility
