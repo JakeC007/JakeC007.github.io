@@ -9,13 +9,13 @@ People have a right to know that machine learning is just a bunch of weighted va
 
 Regarding another area of computer science, the average individual doesn't need to understand the nuances of the Completely Fair Scheduler to know why installing software that affects the kernel should merit extra caution. However, a surface level understanding of hierarchical protection domains would improve a person's ability to make smart and safe decisions with their devices.
 
-## Invited Talks
+## Outreach History
 
 To try and improve computer science literacy, I run summer -- and occasionally school year -- CS courses in partnership with University of Chicago's Office of Civic Engagement. These programs are tailored for high school students, with a particular focus on schools with limited resources.
 
 
 
-Previously, I have presented computer science topics to elementary school students, middle school students, and senior citizens at various community-based events in the Greater Philadelphia Area. Topics I have previously presented on include:
+Previously, I have given invited computer science topics to elementary school students, middle school students, and senior citizens at various community-based events in the Greater Philadelphia Area. Topics I have previously presented on include:
 
 * Artificial Intelligence 
   * GOFAI
