@@ -3,6 +3,15 @@ layout: page
 title: Curriculum Vitae 
 ---
 
+# Education 
+
+- Master in Legal Studies, The University of Chicago Law School [June 2024]
+  - One year at the law school taking 1L and upper level classes as it relates to my research.
+  - Emphasis on copyright, administrative, and privacy law.
+- Computer Science Ph.D., The University of Chicago Computer Science Department [*Expected 2027*]
+
+
+
 ## Research 
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3400-925X" href="https://orcid.org/0000-0003-3400-925X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3400-925X</a></div>
@@ -72,13 +81,14 @@ title: Curriculum Vitae
 
 ## Service
 
-* I serve on the [UChicago CS's Graduate Student Ministry](https://www.cs.uchicago.edu/graduate/graduate-student-representatives/) -- the CS graduate student governing body -- as one of the ministers responsible for inclusion (DEI Minister). [Fall 2021-Present]
-* I serve on the UChicago CS Department's Equity, Diversity, and Inclusion (EDI) Committee. [Fall 2021-Present]
+* CHI 2025 Paper Chair Assistant [Winter 2024 - Present]
+* I served on the [UChicago CS's Graduate Student Ministry](https://www.cs.uchicago.edu/graduate/graduate-student-representatives/) -- the CS graduate student governing body -- as one of the ministers responsible for inclusion (DEI Minister). [Fall 2021-Spring 2023]
+* I served on the UChicago CS Department's Equity, Diversity, and Inclusion (EDI) Committee. [Fall 2021-Spring 2023]
 * Paper reviewer
   * alt.chi 2022
   * DIS 2022 
   * CSCW 2022, 2023 
-  * CHI 2023  
+  * CHI 2023, 2024  
 
 
 
