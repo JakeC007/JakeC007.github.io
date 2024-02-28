@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Education 
 
-- Master in Legal Studies, The University of Chicago Law School [June 2024]
+- Master of Legal Studies, The University of Chicago Law School [June 2024]
   - One year at the law school taking 1L and upper level classes as it relates to my research.
   - Emphasis on copyright, administrative, and privacy law.
 - Computer Science Ph.D., The University of Chicago Computer Science Department [*Expected 2027*]
