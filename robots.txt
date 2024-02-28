@@ -1,0 +1,17 @@
+# robots.txt file for https://jakec007.github.io/
+# jakec007.github.io content is made available for 
+# your personal, non-commercial use subject to the
+# Attribution-NonCommercial-ShareAlike 4.0 International license
+# To view a copy of this license, 
+# visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# OpenAI LLM
+User-agent: GPTBot
+Disallow: /
+
+# Google LLM
+User-agent: Google-Extended
+Disallow: /blog
+
+User-agent: FacebookBot
+Disallow: /
