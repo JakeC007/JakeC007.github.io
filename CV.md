@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # Education 
 
 - Master of Legal Studies, The University of Chicago Law School [June 2024]
-  - One year at the law school taking 1L and upper level classes as it relates to my research.
+  - One year in law school taking 1L and upper level classes as it relates to my research.
   - Emphasis on copyright, administrative, and privacy law.
 - Computer Science Ph.D., The University of Chicago Computer Science Department [*Expected 2027*]
 
@@ -64,7 +64,9 @@ title: Curriculum Vitae
 
 ## Policy 
 
-**G. J. Chanenson**, M. Chetty, C. Crum, N. Feamster, J. Holiman, A. Khanna, K. MacMillan, B. Pandey, A. Peterson, Z. Rothstein, L. Strahilevitz, J. Yasmeh, (May 2022) [Comment on Dark Patterns in Social Media for European Data Protection Board.](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf) 
+- **G. J. Chanenson**, M. Chetty, C. Crum, N. Feamster, J. Holiman, A. Khanna, K. MacMillan, B. Pandey, A. Peterson, Z. Rothstein, L. Strahilevitz, J. Yasmeh, (May 2022) [Comment on Dark Patterns in Social Media for European Data Protection Board.](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf) 
+
+- **G.J. Chanenson**, MZ Choksi, M. Chetty, (February 2024) [Comment on the Children's Online Privacy Protection Rule ("COPPA") for Federal Trade Commission Docket FTC-2021-0019.](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2024/02/2024-FTC-NPRM-COPPA-Comment-0f8da17e493615f1.pdf)
 
 
 
