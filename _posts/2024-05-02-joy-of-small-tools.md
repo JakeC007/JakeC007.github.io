@@ -5,7 +5,7 @@ title: The Joy Of Building Small Tools
 
 Creating small tools that perform simple tasks to enhance the lives of others can be surprisingly rewarding. 
 
-Let me tell you a short enocunter that led to the creation of my [`dta` to `csv` repository](https://github.com/JakeC007/dta-to-csv-converter).
+Let me tell you a short encounter that led to the creation of my [`dta` to `csv` repository](https://github.com/JakeC007/dta-to-csv-converter).
 
 [...]
 
@@ -17,11 +17,7 @@ So, I whipped up a quick R script to assist my colleague in manipulating the dat
 
 
 
-The creation process didn't consume much time, but it undeniably made a  significant difference for her. That's the beauty of small tools -- they  may be simple, but their impact can be profound.
-
-
-
-
+The creation process didn't consume much time, but it undeniably made a  significant difference for her. It may be that the userbase of this script is one, but, just in case there are others who don't have the time or the technical know-how to convert `.dta` files to `.csv`, I'm glad that I put this script out in the world. 
 
 
 
