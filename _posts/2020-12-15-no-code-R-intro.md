@@ -112,7 +112,7 @@ x2*2
 
 > Error in x2 * 2 : non-numeric argument to binary operator
 
-What happened here? Well, `x1*2` is the same as any regular math operation where $$x1*2 = 14.2 \text{ given that }x1 =7$$ while  `x2*2` ran into a data type mismatch. A chr is not a number so R doesn't know how to use it in a mathematical operation. Thus, R threw an error.
+What happened here? Well, `x1*2` is the same as any regular math operation where $$x1*2 = 14.2 \text{ given that }x1 =7.1$$ while  `x2*2` ran into a data type mismatch. A chr is not a number so R doesn't know how to use it in a mathematical operation. Thus, R threw an error.
 
 #### Example 2: Which witch is which?
 

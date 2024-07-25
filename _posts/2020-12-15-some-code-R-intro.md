@@ -167,7 +167,7 @@ Oftentimes your categorical variables will already be imported into the data fra
 
 ##### Advanced note on factors
 
-On the surface factors may seem to be a special type of list, or an atomic chr vector, they are neither. Factors are stored as integers with labels associated with each level. When working with categorical data R excepts a factor data object and will do unexpected things if it doesn't receive one. This is why you need to ensure that your categorical variables are stored in a factor object. 
+On the surface factors may seem to be a special type of list, or an atomic chr vector, they are neither. Factors are stored as integers with labels associated with each level. When working with categorical data R expects a factor data object and will do unexpected things if it doesn't receive one. This is why you need to ensure that your categorical variables are stored in a factor object. 
 
 
 
