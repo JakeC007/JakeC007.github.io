@@ -19,8 +19,9 @@ title: Curriculum Vitae
 
 ### Publications 
 
-*  **J. Chanenson,** B. Sloane,  A. Morrill, J. Chee, N. Rajan, D. Huang,  and M. Chetty, "Uncovering Privacy and Security Challenges In K-12  Schools." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 592, 1–28. [https://doi.org/10.1145/3544548.3580777]( https://doi.org/10.1145/3544548.3580777) **Honorable Mention**
-*  **J. Chanenson,** P. Ghate, P. Cowal, M. Weaver and D. M. Krum, "Advancing Ethical Decision Making in Virtual Reality," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Osaka, Japan, 2019, pp. 1008-1009, doi: 10.1109/VR.2019.8798151.
+*  **J. Chanenson,** M. Pickering, and N. Apthorpe, “Automating Governing Knowledge Commons and Contextual Integrity (GKC-CI) Privacy Policy Annotations with Large Language Models,” *Proceedings on Privacy Enhancing Technologies*, 2025, Available:  https://doi.org/10.56553/popets-2025-0062.
+*  **J. Chanenson,** B. Sloane,  A. Morrill, J. Chee, N. Rajan, D. Huang,  and M. Chetty, "Uncovering Privacy and Security Challenges In K-12  Schools." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 592, 1–28. Available: [https://doi.org/10.1145/3544548.3580777]( https://doi.org/10.1145/3544548.3580777). **Honorable Mention.**
+*  **J. Chanenson,** P. Ghate, P. Cowal, M. Weaver and D. M. Krum, "Advancing Ethical Decision Making in Virtual Reality," 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Osaka, Japan, 2019, pp. 1008-1009.  Available:  [https://doi.org/10.1109/VR.2019.8798151](https://doi.org/10.1109/VR.2019.8798151).
 
 
 ### Talks
@@ -30,36 +31,6 @@ title: Curriculum Vitae
 * **G. J. Chanenson**, A. Morrill, M. Chetty, 4th Annual Transcending Boundaries Symposium, Topic: *All That Glitters Is Not Gold: Investigating Educational Technology Use and Privacy Implications In K-12*, Chicago, IL, Spring 2022.
 * **G. J. Chanenson**, K. Webb, Swarthmore College, Topic: *Understanding Student Resiliency To Technical Challenges Inside and Outside The Classroom*, Swarthmore, PA, Spring 2021.
 * **G. J. Chanenson**, S. Rismani, A. Moon, Swarthmore Summer Showcase, Topic: [*An Investigation of Ethical Risk*](https://www.youtube.com/embed/1vlUv7Xr8hA), Swarthmore, PA, Summer 2020.
-
-### Poster Presentations 
-
-* **G. J. Chanenson**, A. Bevins, B. Duncan. *Exploring Design Methodologies to Create Expressive Drone Flight Paths*, presented at the Eighth Northeast Robotics Colloquium, Philadelphia, PA, Fall 2019.
-* **G. J. Chanenson**, A. Bevins, B. Duncan. *Exploring Design Methodologies to Create Expressive Drone Flight Paths*, presented at the Swarthmore Sigma Xi Undergraduate Poster Session, Swarthmore, PA, Fall 2019.
-* **G. J. Chanenson**, A. Bevins, B. Duncan. *Exploring Design Methodologies to Create Expressive Drone Flight Paths*, presented at the University of Nebraska–Lincoln Summer Undergraduate Research Symposium Poster Session, Summer 2019.
-* S. Kang, **G. J. Chanenson**, P. Ghate, P. Cowal, M. Weaver, and D. M. Krum. *Advancing Ethical Decision Making in Virtual Reality*, poster presented at the annual IEEE Conference on Virtual Reality and 3D User Interfaces Poster Session, Osaka, Japan, Spring 2019. **Honorable Mention**
-* S. Kang, **G. J. Chanenson**, P. Ghate, P. Cowal, M. Weaver, and D. M. Krum. *Advancing Ethical Decision Making in Virtual Reality*, presented at the Swarthmore Sigma Xi Undergraduate Poster Session, Swarthmore, PA, Fall 2018.
-* S. Kang, **G. J. Chanenson**, P. Ghate, P. Cowal, M. Weaver, and D. M. Krum. *Advancing Ethical Decision Making in Virtual Reality*, presented at the University Southern California Summer CISE Undergraduate Research Symposium Poster Session, Los Angeles, CA, Summer 2018.
-
-### Projects
-
-* Contextual Integrity and Large Language Models \| The University of Chicago: Amyoli Internet Research Lab
-  * Co-lead researcher investigating if large language models can assist humans in annotating privacy polices using the CI framework
-
-* K-12 Privacy and Security Research \| The University of Chicago: Amyoli Internet Research Lab
-  * Lead researcher investigating how K-12 public schools in the United States keep their students' data private and secure.
-* CS Pedagogy Research \| Swarthmore College Computer Science: Webb Lab
-  * Investigating attitudes between current CS students and alumni regarding their ability to apply CS course work when faced with real-world technical challenges.
-* Investigating Ethical Risk \| McGill University: Responsible Autonomy & Intelligent System Ethics (RAISE) Lab
-  * Conducted a scoping review and a thematic analysis in order to investigate ethical risk in AI ethics literature.
-  * Research funded by the Lang Center for Civic & Social Responsibility's  Social Impact Summer Scholarship
-* Expressive Unmanned Aerial Vehicle Flight Paths \| University of Nebraska–Lincoln: Nebraska Intelligent Mobile Unmanned Systems (NIMBUS) Lab
-  * Conducted HRI research on UAV to human communication methods. Designed a study investigating expressive flight paths
-  * Research funded by NSF REU
-* Deep Learning to Design Imaging Systems \| Swarthmore College Engineering: Ganapati Lab
-  * Built a single image super resolution deep neural network that employed a GAN to increase accuracy.
-* Advancing Ethical Decision Making in Virtual Reality \| University of Southern California Institute for Creative Technologies: Mixed Reality Lab
-  * Developed a scalable and adaptable immersive simulation which tested a user's sense of presence and sense of agency in virtual spaces.
-  * Research funded by NSF REU
 
 
 
@@ -84,7 +55,7 @@ title: Curriculum Vitae
 
 ## Service
 
-* CHI 2025 Paper Chair Assistant [Winter 2024 - Present]
+* CHI 2025 Paper Chair Assistant [Winter 2024 - Spring 2025]
 * I served on the [UChicago CS's Graduate Student Ministry](https://www.cs.uchicago.edu/graduate/graduate-student-representatives/) -- the CS graduate student governing body -- as one of the ministers responsible for inclusion (DEI Minister). [Fall 2021-Spring 2023]
 * I served on the UChicago CS Department's Equity, Diversity, and Inclusion (EDI) Committee. [Fall 2021-Spring 2023]
 * Paper reviewer
