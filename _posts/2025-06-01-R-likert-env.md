@@ -14,7 +14,7 @@ Now it’s 2025 -- almost four years to the day since I wrote that post -- and t
 
 ### I’m Not Rewriting The Guide
 
-I've got studies to run, papers to write, and students to teach. I don’t have time to write a new version of the likert guide. These days I would probably just make the chart in Python using `seaborn`, which I know is not helpful to anyone working in R.
+I've got studies to run, papers to write, and students to teach. I don’t have time to write a new version of the likert guide. These days I would probably just make the chart in Python using `matplotlib` or [`plot-likert`](https://github.com/nmalkin/plot-likert/blob/master/docs/guide.ipynb), which I know is not helpful to anyone working in R.
 
 But I can give you something that might still help.
 
