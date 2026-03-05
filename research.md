@@ -9,7 +9,7 @@ title: Research — Jake Chanenson
     <div class="page-header">
       <h1 class="page-title">Research</h1>
       <p class="page-subtitle">
-        I study the intersection of HCI, children's privacy, EdTech, and AI safety for youth,
+        I study the intersection of HCI, childrens' privacy, EdTech, and AI safety for youth,
         with a particular focus on how young people interact with technology and what genuine safety looks like in practice.
       </p>
     </div>

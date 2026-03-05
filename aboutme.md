@@ -8,7 +8,7 @@ title: About — Jake Chanenson
 
     <div class="page-header">
       <h1 class="page-title">About Me</h1>
-      <p class="page-subtitle">Children's Privacy Scholar &middot; HCI &middot; University of Chicago</p>
+      <p class="page-subtitle">Childrens' Privacy Scholar &middot; HCI &middot; University of Chicago</p>
     </div>
 
     <div class="about-body">
@@ -16,12 +16,12 @@ title: About — Jake Chanenson
         I'm a CS PhD student at the University of Chicago, working with
         <a href="https://www.marshini.net/">Marshini Chetty</a> at the
         <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>.
-        My research specializes in law-informed HCI at the intersection of children's privacy,
+        My research specializes in law-informed HCI at the intersection of childrens' privacy,
         EdTech, and AI safety for youth, asking what it actually takes to build
         technology that is safe for young people, and what it costs when we get it wrong.
       </p>
       <p>
-        Children's privacy is the throughline of my work. Who collects data about children,
+        Childrens' privacy is the throughline of my work. Who collects data about children,
         under what conditions, and with what consequences? That question has led me naturally
         into AI safety for youth: as generative AI moves into classrooms and homes, the same
         structural questions about oversight, accountability, and design responsibility apply,
@@ -40,7 +40,7 @@ title: About — Jake Chanenson
         I am expecting to finish my PhD in spring 2027. My work sits at the intersection of research,
         law, and policy, and I am interested in positions across academia, industry, and government
         where that combination is an asset.
-        If you are working on children's privacy, AI safety for youth, or usable
+        If you are working on childrens' privacy, AI safety for youth, or usable
         privacy more broadly, I would love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
       </p>
 

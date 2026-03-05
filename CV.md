@@ -66,7 +66,7 @@ title: CV — Jake Chanenson
             <span class="cv-badge badge-blue">Lead Researcher</span>
           </div>
           <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Fall 2021 &ndash; Present</div>
-          <div class="cv-entry-desc">Investigating how K&ndash;12 public schools keep student data private and secure, with emphasis on marginalized student populations. Foundation for multiple publications and ongoing work on children's online privacy.</div>
+          <div class="cv-entry-desc">Investigating how K&ndash;12 public schools keep student data private and secure, with emphasis on marginalized student populations. Foundation for multiple publications and ongoing work on childrens' online privacy.</div>
         </div>
         <div class="cv-entry">
           <div class="cv-entry-top">
