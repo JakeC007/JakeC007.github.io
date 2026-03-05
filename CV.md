@@ -9,7 +9,7 @@ title: CV — Jake Chanenson
     <div class="cv-header">
       <div class="cv-abbreviated-note">Abbreviated CV &mdash; full version available on request</div>
       <h1 class="cv-name">G. Jake <em>Chanenson</em></h1>
-      <div class="cv-role">Children's Privacy Scholar &middot; HCI &middot; AI Safety for Youth</div>
+      <div class="cv-role">Childrens' Privacy Scholar &middot; HCI &middot; AI Safety for Youth</div>
       <div class="cv-contact">
         <a href="mailto:jchanen1@uchicago.edu">jchanen1@uchicago.edu</a>
         <span>&middot;</span>
@@ -28,7 +28,7 @@ title: CV — Jake Chanenson
             <span class="edu-date">Expected Spring 2027</span>
           </div>
           <div class="edu-degree">Computer Science Ph.D.</div>
-          <div class="edu-note">Children's privacy, AI safety for youth, usable privacy, HCI &middot; Advisor: Marshini Chetty</div>
+          <div class="edu-note">Childrens' privacy, AI safety for youth, usable privacy, HCI &middot; Advisor: Marshini Chetty</div>
         </div>
         <div class="edu-item">
           <div class="edu-row">
@@ -46,10 +46,10 @@ title: CV — Jake Chanenson
       <div class="cv-entries">
         <div class="cv-entry">
           <div class="cv-entry-top">
-            <div class="cv-entry-title">Children's Privacy and AI Safety Research</div>
+            <div class="cv-entry-title">Childrens' Privacy and AI Safety Research</div>
             <span class="cv-badge badge-blue">Lead Researcher</span>
           </div>
-          <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Fall 2023 &ndash; Present</div>
+          <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Winter 2025 &ndash; Present</div>
           <div class="cv-entry-desc">Examining how children and youth encounter generative AI in school and at home, what data is collected about them, and what design and policy interventions can meaningfully improve their safety. Work includes co-organizing a CHI 2026 workshop on developmentally safe AI environments for youth.</div>
         </div>
         <div class="cv-entry">
@@ -57,7 +57,7 @@ title: CV — Jake Chanenson
             <div class="cv-entry-title">Contextual Integrity and Large Language Models</div>
             <span class="cv-badge badge-blue">Lead Researcher</span>
           </div>
-          <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Winter 2023 &ndash; Present</div>
+          <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Winter 2023 &ndash; Summer 2025</div>
           <div class="cv-entry-desc">Investigating whether LLMs can assist humans in annotating privacy policies using a contextual integrity framework.</div>
         </div>
         <div class="cv-entry">
@@ -185,10 +185,6 @@ title: CV — Jake Chanenson
           <div class="cv-entry-title">Privacy Law Scholars Conference: Exploring Data Trusts as a Way to Safeguard K&ndash;12 Student Data</div>
           <div class="cv-entry-sub">Washington DC &middot; Spring 2024</div>
         </div>
-        <div class="cv-entry">
-          <div class="cv-entry-title">ACM CHI 2023: Uncovering Privacy and Security Challenges In K&ndash;12 Schools</div>
-          <div class="cv-entry-sub">Hamburg, Germany &middot; Spring 2023</div>
-        </div>
       </div>
     </div>
 
@@ -197,14 +193,14 @@ title: CV — Jake Chanenson
       <div class="cv-entries">
         <div class="cv-entry">
           <div class="cv-entry-title">Comment on Children's Online Privacy Protection Rule (COPPA) &middot; FTC Docket FTC-2021-0019</div>
-          <div class="cv-entry-sub">J. Chanenson, Choksi, M. Chetty &middot; February 2024</div>
+          <div class="cv-entry-sub"> <span class="cv-author-me">J. Chanenson</span>, Choksi, M. Chetty &middot; February 2024</div>
           <div class="cv-entry-links">
             <a href="https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2024/02/2024-FTC-NPRM-COPPA-Comment-0f8da17e493615f1.pdf" class="cv-entry-link">PDF</a>
           </div>
         </div>
         <div class="cv-entry">
           <div class="cv-entry-title">Comment on Dark Patterns in Social Media &middot; European Data Protection Board</div>
-          <div class="cv-entry-sub">J. Chanenson, M. Chetty, Crum, N. Feamster et al. &middot; May 2022</div>
+          <div class="cv-entry-sub"> <span class="cv-author-me">J. Chanenson</span>, M. Chetty, Crum, N. Feamster et al. &middot; May 2022</div>
           <div class="cv-entry-links">
             <a href="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf" class="cv-entry-link">PDF</a>
           </div>
