@@ -1,34 +1,18 @@
 ---
 layout: null
 ---
-
-@import url('https://fonts.googleapis.com/css?family=Roboto:400|Sanchez:400');
-
+/* Dark-theme blockquote override — used by CCS.md */
 blockquote {
   position: relative;
-  padding-left: .35em;
-  border-left: 5px solid #035096;
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.5em;
-  line-height: 1.25em;
-  font-weight: 100;
-  margin-left: .5em;
-  margin-bottom: .25em;
-  color: #2D556C; /* ratio of 7.99; WCAG AAA compliant*/
-}
-blockquote:before {
-  content: '\201C';
-	font-family: 'Sanchez';
-	color: #035096;
-}
-blockquote:after {
-	content: '\201C';
-	content: '\201D';
-	font-family: 'Sanchez';
-	color: #035096;
+  padding: 0.75em 1.25em 0.75em 1.1em;
+  border-left: 4px solid #7ab4f5;
+  background: rgba(100,160,240,0.08);
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  color: var(--ink-soft);
+  margin: 1.5em 0;
 }
 blockquote p {
   display: inline;
+  margin: 0;
 }
-
-

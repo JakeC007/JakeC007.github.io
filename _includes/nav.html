@@ -1,10 +1,10 @@
 <nav class="site-nav">
-  <a href="/" class="nav-logo"><em>Jake Chanenson</em> <span>·</span></a>
+  <a href="/" class="nav-logo"><em>Jake Chanenson</em> <span>&middot;</span></a>
   <ul class="nav-links">
     <li><a href="/research" {% if page.url contains 'research' %}class="active"{% endif %}>Research</a></li>
     <li><a href="/blog" {% if page.url contains 'blog' %}class="active"{% endif %}>Blog</a></li>
     <li><a href="/scienceoutreach" {% if page.url contains 'scienceoutreach' %}class="active"{% endif %}>Outreach</a></li>
     <li><a href="/aboutme" {% if page.url contains 'aboutme' %}class="active"{% endif %}>About</a></li>
-    <li><a href="/CV" class="nav-cta {% if page.url contains 'CV' %}active{% endif %}">CV</a></li>
+    <li><a href="/CV" class="nav-cta{% if page.url contains 'CV' %} active{% endif %}">CV</a></li>
   </ul>
 </nav>

@@ -1,89 +1,21 @@
-###########################################################
 # Jake Chanenson — jakec007.github.io
-###########################################################
-
-############################
-# --- Required options --- #
-############################
 
 title: Jake Chanenson
-author: Jake Chanenson
+description: "CS PhD candidate at the University of Chicago researching HCI, children's privacy, and AI safety."
+author: G. Jake Chanenson
 
-###############################################
-# --- Navigation bar links --- #
-###############################################
-
-navbar-links:
-  Research: "research"
-  Blog: "blog"
-  Outreach: "scienceoutreach"
-  About: "aboutme"
-  CV: "CV"
-
-################
-# --- Logo --- #
-################
-
-# Remove avatar — we use a text logo in the custom nav
-# avatar: ""
-
-#####################################
-# --- Footer social media links --- #
-#####################################
+rss-description: "Jake Chanenson — HCI researcher working on children's privacy and AI safety."
 
 social-network-links:
   email: "jchanen1@uchicago.edu"
-  rss: true
   github: JakeC007
-  mastodon: hci.social/@jchanen1
-
-###########################
-# --- General options --- #
-###########################
-
-# No social share buttons on posts
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
+  rss: true
 
 url-pretty: "jakec007.github.io"
-
 title-on-all-pages: true
-
 excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
-
-post_search: false
-edit_page_button: false
-
-# RSS feed
-rss-description: "Jake Chanenson — HCI researcher working on children's privacy and AI safety."
-
-######################################
-# --- Colours (overridden by custom CSS, but kept as fallback) --- #
-######################################
-
-page-col: "#16202e"
-text-col: "#eef1f5"
-link-col: "#e8c87a"
-hover-col: "#f0d896"
-navbar-col: "#1e2d40"
-navbar-text-col: "#eef1f5"
-navbar-border-col: "#2e4058"
-footer-col: "#1e2d40"
-footer-text-col: "#6a8299"
-footer-link-col: "#a8b8cc"
-footer-hover-col: "#e8c87a"
-
-# Custom CSS — loads our new stylesheet on every page
-site-css:
-  - "/assets/css/custom.css"
-
-################
-# --- Misc --- #
-################
 
 date_format: "%B %-d, %Y"
 timezone: "America/Chicago"
@@ -91,21 +23,20 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
       comments: false
       social-share: false
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "page"
@@ -119,6 +50,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - beautiful-jekyll-theme.gemspec
 
 plugins:
   - jekyll-paginate
