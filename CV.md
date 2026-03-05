@@ -13,7 +13,7 @@ title: CV — Jake Chanenson
       <div class="cv-contact">
         <a href="mailto:jchanen1@uchicago.edu">jchanen1@uchicago.edu</a>
         <span>&middot;</span>
-        <span>University of Chicago &middot; AIRLab</span>
+        <span>University of Chicago</span>
         <span>&middot;</span>
         <span>Expected PhD: Spring 2027</span>
       </div>
@@ -44,6 +44,14 @@ title: CV — Jake Chanenson
     <div class="cv-section">
       <div class="cv-section-title">Research Experience</div>
       <div class="cv-entries">
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-entry-title">Children's Privacy and AI Safety Research</div>
+            <span class="cv-badge badge-blue">Lead Researcher</span>
+          </div>
+          <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Fall 2023 &ndash; Present</div>
+          <div class="cv-entry-desc">Examining how children and youth encounter generative AI in school and at home, what data is collected about them, and what design and policy interventions can meaningfully improve their safety. Work includes co-organizing a CHI 2026 workshop on developmentally safe AI environments for youth.</div>
+        </div>
         <div class="cv-entry">
           <div class="cv-entry-top">
             <div class="cv-entry-title">Contextual Integrity and Large Language Models</div>
@@ -82,7 +90,7 @@ title: CV — Jake Chanenson
             <span class="cv-badge badge-gold">CHI '26</span>
           </div>
           <div class="cv-entry-sub">ACM CHI 2026 &middot; To appear.</div>
-          <div class="cv-entry-authors"><span class="cv-author-me">G. Jake Chanenson</span>, Matthews, Consolvo, Kelley et al.</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, T. Matthews, S. Consolvo, P. Kelley, J. McClearn, S. Meiklejohn, A. Roy, R. Shelby, K. Thomas, A. Hassoun</div>
         </div>
 
         <div class="cv-entry">
@@ -92,7 +100,7 @@ title: CV — Jake Chanenson
             <span class="cv-badge badge-blue">PETS '25</span>
           </div>
           <div class="cv-entry-sub">Proceedings on Privacy Enhancing Technologies 2025</div>
-          <div class="cv-entry-authors"><span class="cv-author-me">G. Jake Chanenson</span>*, Pickering*, Apthorpe</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>*, M. Pickering*, N. Apthorpe</div>
           <div class="cv-entry-links">
             <a href="https://doi.org/10.56553/popets-2025-0062" class="cv-entry-link">DOI</a>
           </div>
@@ -106,7 +114,7 @@ title: CV — Jake Chanenson
             <span class="cv-badge badge-green">&#127885; Honorable Mention</span>
           </div>
           <div class="cv-entry-sub">ACM CHI 2023</div>
-          <div class="cv-entry-authors"><span class="cv-author-me">G. Jake Chanenson</span>, Sloane, Morrill, Rajan, Chee, Huang, Chetty</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, B. Sloane, A. Morrill, N. Rajan, J. Chee, D. Huang, M. Chetty</div>
           <div class="cv-entry-desc">Covered by USA Today, The Markup, EdSurge, K12 Dive, The 74, and Fox 35.</div>
           <div class="cv-entry-links">
             <a href="https://doi.org/10.1145/3544548.3580777" class="cv-entry-link">ACM DL</a>
@@ -135,7 +143,7 @@ title: CV — Jake Chanenson
             <span class="cv-badge badge-blue">Working Paper</span>
           </div>
           <div class="cv-entry-sub">Presented at Privacy Law Scholars Conference (PLSC) &middot; Washington DC &middot; Spring 2024</div>
-          <div class="cv-entry-authors"><span class="cv-author-me">G. Jake Chanenson</span>, Chetty</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, M. Chetty</div>
         </div>
 
       </div>
@@ -189,14 +197,14 @@ title: CV — Jake Chanenson
       <div class="cv-entries">
         <div class="cv-entry">
           <div class="cv-entry-title">Comment on Children's Online Privacy Protection Rule (COPPA) &middot; FTC Docket FTC-2021-0019</div>
-          <div class="cv-entry-sub">Chanenson, Choksi, Chetty &middot; February 2024</div>
+          <div class="cv-entry-sub">J. Chanenson, Choksi, M. Chetty &middot; February 2024</div>
           <div class="cv-entry-links">
             <a href="https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2024/02/2024-FTC-NPRM-COPPA-Comment-0f8da17e493615f1.pdf" class="cv-entry-link">PDF</a>
           </div>
         </div>
         <div class="cv-entry">
           <div class="cv-entry-title">Comment on Dark Patterns in Social Media &middot; European Data Protection Board</div>
-          <div class="cv-entry-sub">Chanenson, Chetty, Crum, Feamster et al. &middot; May 2022</div>
+          <div class="cv-entry-sub">J. Chanenson, M. Chetty, Crum, N. Feamster et al. &middot; May 2022</div>
           <div class="cv-entry-links">
             <a href="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf" class="cv-entry-link">PDF</a>
           </div>
