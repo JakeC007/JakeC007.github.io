@@ -135,7 +135,6 @@ title: CV — Jake Chanenson
     <div class="cv-section">
       <div class="cv-section-title">Working Papers</div>
       <div class="cv-entries">
-
         <div class="cv-entry">
           <div class="cv-entry-top">
             <div class="cv-pub-num">W1</div>
@@ -145,7 +144,6 @@ title: CV — Jake Chanenson
           <div class="cv-entry-sub">Presented at Privacy Law Scholars Conference (PLSC) &middot; Washington DC &middot; Spring 2024</div>
           <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, M. Chetty</div>
         </div>
-
       </div>
     </div>
 
@@ -179,11 +177,15 @@ title: CV — Jake Chanenson
         </div>
         <div class="cv-entry">
           <div class="cv-entry-title">6th Annual Symposium on Applications of Contextual Integrity: Qualitative Analysis of GKC-CI Annotations With LLMs</div>
-          <div class="cv-entry-sub">New Brunswick, NJ &middot; Fall 2024 &middot; with Pickering, Apthorpe</div>
+          <div class="cv-entry-sub">New Brunswick, NJ &middot; Fall 2024 &middot; with M. Pickering, N. Apthorpe</div>
         </div>
         <div class="cv-entry">
           <div class="cv-entry-title">Privacy Law Scholars Conference: Exploring Data Trusts as a Way to Safeguard K&ndash;12 Student Data</div>
           <div class="cv-entry-sub">Washington DC &middot; Spring 2024</div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-entry-title">ACM CHI 2023: Uncovering Privacy and Security Challenges In K&ndash;12 Schools</div>
+          <div class="cv-entry-sub">Hamburg, Germany &middot; Spring 2023</div>
         </div>
       </div>
     </div>
@@ -193,19 +195,102 @@ title: CV — Jake Chanenson
       <div class="cv-entries">
         <div class="cv-entry">
           <div class="cv-entry-title">Comment on Children's Online Privacy Protection Rule (COPPA) &middot; FTC Docket FTC-2021-0019</div>
-          <div class="cv-entry-sub"> <span class="cv-author-me">J. Chanenson</span>, Choksi, M. Chetty &middot; February 2024</div>
+          <div class="cv-entry-sub"><span class="cv-author-me">J. Chanenson</span>, M.Z. Choksi, M. Chetty &middot; February 2024</div>
           <div class="cv-entry-links">
             <a href="https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2024/02/2024-FTC-NPRM-COPPA-Comment-0f8da17e493615f1.pdf" class="cv-entry-link">PDF</a>
           </div>
         </div>
         <div class="cv-entry">
           <div class="cv-entry-title">Comment on Dark Patterns in Social Media &middot; European Data Protection Board</div>
-          <div class="cv-entry-sub"> <span class="cv-author-me">J. Chanenson</span>, M. Chetty, Crum, N. Feamster et al. &middot; May 2022</div>
+          <div class="cv-entry-sub"><span class="cv-author-me">J. Chanenson</span>, M. Chetty, C. Crum, N. Feamster et al. &middot; May 2022</div>
           <div class="cv-entry-links">
             <a href="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf" class="cv-entry-link">PDF</a>
           </div>
         </div>
       </div>
+    </div>
+
+    <div class="cv-section">
+      <div class="cv-section-title">Teaching</div>
+      <div class="cv-entries">
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-entry-title">Computer Science Instructor &mdash; Human-Centered Design</div>
+            <span class="cv-badge badge-blue">Instructor</span>
+          </div>
+          <div class="cv-entry-sub">University of Chicago College Readiness &amp; Access Program &middot; Summer 2022, Summer 2023</div>
+          <div class="cv-entry-desc">Designed and taught a human-centered design summer course to 20 under-served high school students per cohort.</div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-entry-title">Computer Science Mentor &mdash; Enrichment Program</div>
+            <span class="cv-badge badge-blue">Mentor</span>
+          </div>
+          <div class="cv-entry-sub">University of Chicago College Readiness &amp; Access Program &middot; Fall 2022</div>
+          <div class="cv-entry-desc">Designed and led a CS mentoring and enrichment program for 30 marginalized and under-served high school students.</div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-entry-title">Computer Science Instructor &mdash; Python</div>
+            <span class="cv-badge badge-blue">Instructor</span>
+          </div>
+          <div class="cv-entry-sub">University of Chicago Office of Special Programs &mdash; College Prep &middot; Spring 2022</div>
+          <div class="cv-entry-desc">Designed and taught a Python coding course to 15 marginalized and under-served high school students.</div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-entry-title">TA &mdash; How Your Home Internet Works, from Bits to Policy</div>
+            <span class="cv-badge badge-blue">Teaching Assistant</span>
+          </div>
+          <div class="cv-entry-sub">University of Chicago College Readiness &amp; Access Program &middot; Summer 2022</div>
+          <div class="cv-entry-desc">Sole TA for a course serving 20 marginalized and under-served high school students with limited CS background.</div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-entry-title">Guest Lecture &mdash; CMSC 20370: Inclusive Technology</div>
+            <span class="cv-badge badge-blue">Guest Lecturer</span>
+          </div>
+          <div class="cv-entry-sub">University of Chicago &middot; Fall 2022</div>
+          <div class="cv-entry-desc">Invited guest lecture in Inclusive Technology: Design for Underserved and Marginalized Communities.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="cv-section">
+      <div class="cv-section-title">Student Supervision</div>
+      <ul class="cv-plain-list">
+        <li><span class="item-name">Natalyah Cadiche</span><span class="item-date">Summer 2025</span></li>
+        <li><span class="item-name">Mandy Jiang</span><span class="item-date">Winter 2025 &ndash; Present</span></li>
+        <li><span class="item-name">Quinn Thompson</span><span class="item-date">Summer 2024 &ndash; Present</span></li>
+        <li><span class="item-name">Leo Sun</span><span class="item-date">Spring 2023 &ndash; Fall 2023</span></li>
+        <li><span class="item-name">Shayona Basu</span><span class="item-date">Summer 2023</span></li>
+        <li><span class="item-name">Ishaan Singh</span><span class="item-date">Winter 2023 &ndash; Spring 2023</span></li>
+        <li><span class="item-name">Andre Dang</span><span class="item-date">Fall 2022 &ndash; Spring 2023</span></li>
+        <li><span class="item-name">Navaneeth Rajan</span><span class="item-date">Spring 2022 &ndash; Summer 2023</span></li>
+        <li><span class="item-name">Jason Chee</span><span class="item-date">Fall 2021 &ndash; Spring 2023</span></li>
+        <li><span class="item-name">Amy Morrill</span><span class="item-date">Fall 2021 &ndash; Spring 2022</span></li>
+      </ul>
+    </div>
+
+    <div class="cv-section">
+      <div class="cv-section-title">Service</div>
+      <ul class="cv-plain-list">
+        <li><span class="item-name">CHI Paper Chair Assistant</span><span class="item-date">2024&ndash;2025</span></li>
+        <li><span class="item-name">IEEE Special Issue on Contextual Integrity &middot; Reviewer</span><span class="item-date">2025</span></li>
+        <li><span class="item-name">CHI Paper Reviewer</span><span class="item-date">2022, 2023, 2025</span></li>
+        <li><span class="item-name">CSCW Paper Reviewer</span><span class="item-date">2022, 2023, 2025</span></li>
+        <li><span class="item-name">CSAW Applied Research Competition Program Committee</span><span class="item-date">2024, 2025</span></li>
+        <li><span class="item-name">DIS Paper Reviewer</span><span class="item-date">2022</span></li>
+        <li><span class="item-name">Organizer, Neubauer Phoenix STEM Program CS Engagement Day</span><span class="item-date">2024</span></li>
+        <li><span class="item-name">Organizer, Local High School CS Engagement &amp; Visit Day</span><span class="item-date">Spring 2023</span></li>
+        <li><span class="item-name">Host, New Books Network Science, Technology &amp; Society Podcast</span><span class="item-date">Fall 2022 &ndash; Present</span></li>
+        <li><span class="item-name">UChicago Dean's Student Advisory Committee</span><span class="item-date">Fall 2022&ndash;Spring 2023; Fall 2025&ndash;Present</span></li>
+        <li><span class="item-name">Co-Organizer, UChicago CS PhD DEI Application Support Program</span><span class="item-date">Fall 2021 &ndash; Present</span></li>
+        <li><span class="item-name">Program Director, Milgrom Mentoring High Schoolers Program</span><span class="item-date">Fall 2022 &ndash; Spring 2023</span></li>
+        <li><span class="item-name">Co-Organizer, UChicago LGBT Hack Night</span><span class="item-date">Fall 2022 &ndash; Winter 2023</span></li>
+        <li><span class="item-name">Coordinator, UChicago CS Student Seminar</span><span class="item-date">Winter 2022 &ndash; Spring 2023</span></li>
+        <li><span class="item-name">UChicago CS Equity, Diversity, and Inclusion Committee</span><span class="item-date">Fall 2021 &ndash; Spring 2023</span></li>
+      </ul>
     </div>
 
   </div>
