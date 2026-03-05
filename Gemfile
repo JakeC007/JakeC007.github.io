@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
+gem "kramdown-parser-gfm"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
