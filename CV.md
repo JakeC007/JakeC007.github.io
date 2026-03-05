@@ -111,7 +111,7 @@ title: CV — Jake Chanenson
             <div class="cv-pub-num">3</div>
             <div class="cv-entry-title">Uncovering Privacy and Security Challenges In K&ndash;12 Schools</div>
             <span class="cv-badge badge-gold">CHI '23</span>
-            <span class="cv-badge badge-green">&#127885; Honorable Mention</span>
+            <span class="cv-badge badge-green">&#127941; Honorable Mention</span>
           </div>
           <div class="cv-entry-sub">ACM CHI 2023</div>
           <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, B. Sloane, A. Morrill, N. Rajan, J. Chee, D. Huang, M. Chetty</div>
@@ -153,7 +153,7 @@ title: CV — Jake Chanenson
         <div class="cv-entry">
           <div class="cv-entry-top">
             <div class="cv-entry-title">Developmentally Safe Generative AI Environments for Youth</div>
-            <span class="cv-badge badge-gold">CHI '26 Organizer</span>
+            <span class="cv-badge badge-gold">CHI '26</span>
           </div>
           <div class="cv-entry-sub">CHI 2026 &middot; Barcelona, Spain &middot; April 2026</div>
           <div class="cv-entry-desc">Co-organized a workshop bringing together researchers, designers, educators, and policymakers to examine how generative AI shapes youth development and to co-create frameworks for safe, inclusive AI experiences for children.</div>
@@ -177,16 +177,12 @@ title: CV — Jake Chanenson
         </div>
         <div class="cv-entry">
           <div class="cv-entry-title">6th Annual Symposium on Applications of Contextual Integrity: Qualitative Analysis of GKC-CI Annotations With LLMs</div>
-          <div class="cv-entry-sub">New Brunswick, NJ &middot; Fall 2024 &middot; with M. Pickering, N. Apthorpe</div>
+          <div class="cv-entry-sub">New Brunswick, NJ &middot; Fall 2024</div>
         </div>
-        <div class="cv-entry">
+        <!-- <div class="cv-entry">
           <div class="cv-entry-title">Privacy Law Scholars Conference: Exploring Data Trusts as a Way to Safeguard K&ndash;12 Student Data</div>
           <div class="cv-entry-sub">Washington DC &middot; Spring 2024</div>
-        </div>
-        <div class="cv-entry">
-          <div class="cv-entry-title">ACM CHI 2023: Uncovering Privacy and Security Challenges In K&ndash;12 Schools</div>
-          <div class="cv-entry-sub">Hamburg, Germany &middot; Spring 2023</div>
-        </div>
+        </div> -->
       </div>
     </div>
 
@@ -257,25 +253,9 @@ title: CV — Jake Chanenson
     </div>
 
     <div class="cv-section">
-      <div class="cv-section-title">Student Supervision</div>
-      <ul class="cv-plain-list">
-        <li><span class="item-name">Natalyah Cadiche</span><span class="item-date">Summer 2025</span></li>
-        <li><span class="item-name">Mandy Jiang</span><span class="item-date">Winter 2025 &ndash; Present</span></li>
-        <li><span class="item-name">Quinn Thompson</span><span class="item-date">Summer 2024 &ndash; Present</span></li>
-        <li><span class="item-name">Leo Sun</span><span class="item-date">Spring 2023 &ndash; Fall 2023</span></li>
-        <li><span class="item-name">Shayona Basu</span><span class="item-date">Summer 2023</span></li>
-        <li><span class="item-name">Ishaan Singh</span><span class="item-date">Winter 2023 &ndash; Spring 2023</span></li>
-        <li><span class="item-name">Andre Dang</span><span class="item-date">Fall 2022 &ndash; Spring 2023</span></li>
-        <li><span class="item-name">Navaneeth Rajan</span><span class="item-date">Spring 2022 &ndash; Summer 2023</span></li>
-        <li><span class="item-name">Jason Chee</span><span class="item-date">Fall 2021 &ndash; Spring 2023</span></li>
-        <li><span class="item-name">Amy Morrill</span><span class="item-date">Fall 2021 &ndash; Spring 2022</span></li>
-      </ul>
-    </div>
-
-    <div class="cv-section">
       <div class="cv-section-title">Service</div>
       <ul class="cv-plain-list">
-        <li><span class="item-name">CHI Paper Chair Assistant</span><span class="item-date">2024&ndash;2025</span></li>
+        <li><span class="item-name"><span class="cv-author-me">CHI Paper Chair Assistant</span></span><span class="item-date">2024&ndash;2025</span></li>
         <li><span class="item-name">IEEE Special Issue on Contextual Integrity &middot; Reviewer</span><span class="item-date">2025</span></li>
         <li><span class="item-name">CHI Paper Reviewer</span><span class="item-date">2022, 2023, 2025</span></li>
         <li><span class="item-name">CSCW Paper Reviewer</span><span class="item-date">2022, 2023, 2025</span></li>
@@ -283,7 +263,6 @@ title: CV — Jake Chanenson
         <li><span class="item-name">DIS Paper Reviewer</span><span class="item-date">2022</span></li>
         <li><span class="item-name">Organizer, Neubauer Phoenix STEM Program CS Engagement Day</span><span class="item-date">2024</span></li>
         <li><span class="item-name">Organizer, Local High School CS Engagement &amp; Visit Day</span><span class="item-date">Spring 2023</span></li>
-        <li><span class="item-name">Host, New Books Network Science, Technology &amp; Society Podcast</span><span class="item-date">Fall 2022 &ndash; Present</span></li>
         <li><span class="item-name">UChicago Dean's Student Advisory Committee</span><span class="item-date">Fall 2022&ndash;Spring 2023; Fall 2025&ndash;Present</span></li>
         <li><span class="item-name">Co-Organizer, UChicago CS PhD DEI Application Support Program</span><span class="item-date">Fall 2021 &ndash; Present</span></li>
         <li><span class="item-name">Program Director, Milgrom Mentoring High Schoolers Program</span><span class="item-date">Fall 2022 &ndash; Spring 2023</span></li>
