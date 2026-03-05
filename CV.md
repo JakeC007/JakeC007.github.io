@@ -9,13 +9,13 @@ title: CV — Jake Chanenson
     <div class="cv-header">
       <div class="cv-abbreviated-note">Abbreviated CV &mdash; full version available on request</div>
       <h1 class="cv-name">G. Jake <em>Chanenson</em></h1>
-      <div class="cv-role">CS PhD Candidate &middot; HCI, Children's Privacy &amp; AI</div>
+      <div class="cv-role">Children's Privacy Scholar &middot; HCI &middot; AI Safety for Youth</div>
       <div class="cv-contact">
         <a href="mailto:jchanen1@uchicago.edu">jchanen1@uchicago.edu</a>
         <span>&middot;</span>
         <span>University of Chicago &middot; AIRLab</span>
         <span>&middot;</span>
-        <span>Expected PhD: June 2026</span>
+        <span>Expected PhD: Spring 2027</span>
       </div>
     </div>
 
@@ -25,10 +25,10 @@ title: CV — Jake Chanenson
         <div class="edu-item">
           <div class="edu-row">
             <span class="edu-school">University of Chicago</span>
-            <span class="edu-date">Expected June 2026</span>
+            <span class="edu-date">Expected Spring 2027</span>
           </div>
           <div class="edu-degree">Computer Science Ph.D.</div>
-          <div class="edu-note">Research interests: HCI, children's privacy, AI safety for youth, tech policy &middot; Advisor: Marshini Chetty</div>
+          <div class="edu-note">Children's privacy, AI safety for youth, usable privacy, HCI &middot; Advisor: Marshini Chetty</div>
         </div>
         <div class="edu-item">
           <div class="edu-row">

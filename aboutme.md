@@ -8,33 +8,38 @@ title: About — Jake Chanenson
 
     <div class="page-header">
       <h1 class="page-title">About Me</h1>
-      <p class="page-subtitle">CS PhD Student &middot; University of Chicago</p>
+      <p class="page-subtitle">Children's Privacy Scholar &middot; HCI &middot; University of Chicago</p>
     </div>
 
     <div class="about-body">
       <p>
-        I'm a CS PhD Student at the University of Chicago, working with
+        I'm a CS PhD candidate at the University of Chicago, working with
         <a href="https://www.marshini.net/">Marshini Chetty</a> at the
         <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>.
-        My research sits at the intersection of human-computer interaction, children's privacy,
-        and AI — asking what it actually means to build technology that is safe for young people,
-        and what happens when it isn't.
+        My research specializes in law-informed HCI at the intersection of children's privacy,
+        EdTech, and AI safety for youth, asking what it actually takes to build
+        technology that is safe for young people, and what it costs when we get it wrong.
       </p>
       <p>
-        My current work focuses on two threads: how kids interact with generative AI in school and at home,
-        and how to automate privacy policy analysis using large language models. Both are about the same
-        underlying problem — technology moves faster than our ability to understand its effects on the people
-        using it, especially children.
+        Children's privacy is the throughline of my work. Who collects data about children,
+        under what conditions, and with what consequences? That question has led me naturally
+        into AI safety for youth: as generative AI moves into classrooms and homes, the same
+        structural questions about oversight, accountability, and design responsibility apply,
+        with even higher stakes. My current projects examine how youth experience AI and EdTech,
+        and how large language models can help automate privacy policy analysis at scale.
       </p>
       <p>
-        I also hold a Master of Legal Studies from the University of Chicago Law School, where I focused on
-        privacy, copyright, and administrative law. I'm not a lawyer, but knowing the legal landscape makes
-        me a better researcher — I can see both what the law currently protects and where the gaps are.
+        I hold a Master of Legal Studies from the University of Chicago Law School, with a focus on privacy,
+        copyright, and administrative law. That background shapes how I frame research questions. I can see
+        where the law provides tools and where it falls short, which makes for better empirical work and more
+        actionable findings. My research has been published at ACM CHI and PETS, and presented at venues including
+        the Privacy Law Scholars Conference. I am also an affiliate at
+        <a href="https://citap.unc.edu/">UNC's Center for Information, Technology, and Public Life (CITAP)</a>.
       </p>
       <p>
-        I'm finishing my PhD in 2027 and am actively exploring research positions in both academia and industry.
-        If you're working on problems at the intersection of HCI, children's privacy, or AI safety and think
-        there might be a fit, I'd love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
+        I am expecting to finish my PhD in spring 2027 and am actively exploring research positions in
+        academia and industry. If you are working on children's privacy, AI safety for youth, or usable
+        privacy more broadly, I would love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
       </p>
 
       <div class="about-stats">
@@ -57,10 +62,43 @@ title: About — Jake Chanenson
       </div>
 
       <div class="about-links">
-        <a href="/CV" class="btn btn-primary">View full CV &rarr;</a>
+        <a href="/CV" class="btn btn-outline-accent">Abbreviated CV &rarr;</a>
         <a href="/research" class="btn btn-outline">Research</a>
         <a href="mailto:jchanen1@uchicago.edu" class="btn btn-outline">Email me</a>
       </div>
+    </div>
+
+    <div class="about-site-section">
+      <h2 class="about-site-heading">About This Site</h2>
+
+      <p>
+        This site started as a <a href="https://beautifuljekyll.com/">Beautiful Jekyll</a> theme and has since
+        been substantially redesigned. The layout, typography, color system, and component styling are all
+        custom-built. Beautiful Jekyll now serves only as a historical starting point, with none of its
+        original CSS, JavaScript, or layout templates remaining in the final site.
+      </p>
+
+      <p>
+        The redesign was built around a dark navy palette with serif display type
+        (<a href="https://fonts.google.com/specimen/Libre+Baskerville">Libre Baskerville</a>),
+        sans-serif body text (<a href="https://fonts.google.com/specimen/DM+Sans">DM Sans</a>),
+        and a gold accent system. No Bootstrap. No jQuery. No analytics.
+      </p>
+
+      <h3 class="about-site-subheading">Built with</h3>
+      <ul class="about-site-list">
+        <li><a href="http://jekyllrb.com/">Jekyll</a> &mdash; static site generator</li>
+        <li><a href="https://beautifuljekyll.com/">Beautiful Jekyll</a> &mdash; original theme scaffold (since replaced)</li>
+        <li><a href="http://type-scale.com/">Type Scale</a> &mdash; typographic scale reference</li>
+        <li><a href="https://github.com/liip/TheA11yMachine">The A11Y Machine</a> &mdash; accessibility auditing</li>
+      </ul>
+
+      <h3 class="about-site-subheading">Accessibility</h3>
+      <p>
+        This site targets WCAG 2.0 AA compliance. Color contrast ratios for body text and interactive elements
+        meet or exceed the 4.5:1 minimum. If you encounter an accessibility issue, please
+        <a href="mailto:jchanen1@uchicago.edu">let me know</a>.
+      </p>
     </div>
 
   </div>

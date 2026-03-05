@@ -9,8 +9,8 @@ title: Research — Jake Chanenson
     <div class="page-header">
       <h1 class="page-title">Research</h1>
       <p class="page-subtitle">
-        I study the intersection of HCI, children's privacy, and AI — with a particular focus
-        on how young people interact with technology and what genuine safety looks like in practice.
+        I study the intersection of HCI, children's privacy, EdTech, and AI safety for youth,
+        with a particular focus on how young people interact with technology and what genuine safety looks like in practice.
       </p>
     </div>
 
@@ -58,8 +58,8 @@ title: Research — Jake Chanenson
           <div class="cv-entry-sub">ACM CHI 2023 &middot; Chanenson, Sloane, Morrill, Rajan, Chee, Huang, Chetty</div>
           <div class="cv-entry-desc">
             An empirical study of the privacy and security landscape in K&ndash;12 institutions.
-            We found that tracking is pervasive, oversight is minimal, and most stakeholders —
-            teachers, students, parents — have little visibility into what's collected or why.
+            We found that tracking is pervasive, oversight is minimal, and most stakeholders
+            (teachers, students, and parents) have little visibility into what is collected or why.
             Received an honorable mention and was covered widely in the press.
           </div>
           <div class="cv-entry-links">
@@ -98,7 +98,7 @@ title: Research — Jake Chanenson
           <div class="cv-entry-sub">CHI 2026 &middot; Barcelona, Spain &middot; April 13, 2026</div>
           <div class="cv-entry-desc">
             Co-organized a workshop bringing together researchers, designers, educators, and policymakers to
-            examine how generative AI shapes youth social, cognitive, emotional, and moral development —
+            examine how generative AI shapes youth social, cognitive, emotional, and moral development,
             and to co-create frameworks for safe, inclusive AI experiences for children.
             With Yaman Yu, Jessica Vitak, Sheena Erete, Tamara Clegg, Diana Freed, and Marshini Chetty.
           </div>
