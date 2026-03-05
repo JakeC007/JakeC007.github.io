@@ -8,12 +8,12 @@ title: About — Jake Chanenson
 
     <div class="page-header">
       <h1 class="page-title">About Me</h1>
-      <p class="page-subtitle">CS PhD Candidate &middot; University of Chicago</p>
+      <p class="page-subtitle">CS PhD Student &middot; University of Chicago</p>
     </div>
 
     <div class="about-body">
       <p>
-        I'm a CS PhD candidate at the University of Chicago, working with
+        I'm a CS PhD Student at the University of Chicago, working with
         <a href="https://www.marshini.net/">Marshini Chetty</a> at the
         <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>.
         My research sits at the intersection of human-computer interaction, children's privacy,
@@ -32,7 +32,7 @@ title: About — Jake Chanenson
         me a better researcher — I can see both what the law currently protects and where the gaps are.
       </p>
       <p>
-        I'm finishing my PhD in 2026 and am actively exploring research positions in both academia and industry.
+        I'm finishing my PhD in 2027 and am actively exploring research positions in both academia and industry.
         If you're working on problems at the intersection of HCI, children's privacy, or AI safety and think
         there might be a fit, I'd love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
       </p>
