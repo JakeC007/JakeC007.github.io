@@ -36,7 +36,7 @@ title: Science Outreach — Jake Chanenson
           </div>
           <div class="cv-entry-sub">New Books Network &middot; Fall 2022 &ndash; Present</div>
           <div class="cv-entry-desc">
-            Host of the Science, Technology and Society channel on the New Books Network, a podcast
+            A host on the Science, Technology and Society channel on the New Books Network, a podcast
             and public scholarship platform with over a million monthly listeners. I interview scholars
             about newly published books at the intersection of technology, privacy, policy, and society,
             making academic work accessible to a broad public audience.
@@ -108,6 +108,7 @@ title: Science Outreach — Jake Chanenson
           <div class="cv-entry-top">
             <div class="cv-entry-title">Computer Science Mentor &mdash; Enrichment Program</div>
             <span class="cv-badge badge-blue">Mentor</span>
+            <span class="cv-badge badge-blue">Instructor</span>
           </div>
           <div class="cv-entry-sub">University of Chicago College Readiness &amp; Access Program &middot; Fall 2022</div>
           <div class="cv-entry-desc">Designed and led a CS mentoring and enrichment program for 30 high school students through the University of Chicago's College Readiness program, combining technical skill-building with broader conversations about computing and society.</div>
@@ -115,7 +116,7 @@ title: Science Outreach — Jake Chanenson
 
         <div class="cv-entry">
           <div class="cv-entry-top">
-            <div class="cv-entry-title">Computer Science Instructor &mdash; Python</div>
+            <div class="cv-entry-title">Computer Science Instructor &mdash; Python Programming</div>
             <span class="cv-badge badge-blue">Instructor</span>
           </div>
           <div class="cv-entry-sub">University of Chicago Office of Special Programs &middot; Spring 2022</div>
