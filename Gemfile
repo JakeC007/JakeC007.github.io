@@ -1,7 +1,11 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3"
 gem "kramdown-parser-gfm"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
 
-gemspec
-
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+end
