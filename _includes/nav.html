@@ -7,4 +7,17 @@
     <li><a href="/aboutme" {% if page.url contains 'aboutme' %}class="active"{% endif %}>About</a></li>
     <li><a href="/CV" class="nav-cta{% if page.url contains 'CV' %} active{% endif %}">CV</a></li>
   </ul>
+  <button class="nav-hamburger" aria-label="Toggle navigation" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
 </nav>
+
+<div class="nav-mobile-drawer" aria-hidden="true">
+  <ul class="nav-mobile-links">
+    <li><a href="/research" {% if page.url contains 'research' %}class="active"{% endif %}>Research</a></li>
+    <li><a href="/blog" {% if page.url contains 'blog' %}class="active"{% endif %}>Blog</a></li>
+    <li><a href="/scienceoutreach" {% if page.url contains 'scienceoutreach' %}class="active"{% endif %}>Outreach</a></li>
+    <li><a href="/aboutme" {% if page.url contains 'aboutme' %}class="active"{% endif %}>About</a></li>
+    <li><a href="/CV" class="nav-cta{% if page.url contains 'CV' %} active{% endif %}">CV</a></li>
+  </ul>
+</div>

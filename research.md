@@ -13,10 +13,10 @@ title: Research — Jake Chanenson
 
     <div class="tabs-bar">
       <button class="tab-btn active" data-panel="researchers" id="tab-researchers">
-        🔬 For Researchers <span class="tab-hint">&middot; methods, venues, collaborators</span>
+        For Researchers <span class="tab-hint">&middot; methods, venues, collaborators</span>
       </button>
       <button class="tab-btn" data-panel="practitioners" id="tab-practitioners">
-        🏛️ For Practitioners &amp; Policymakers <span class="tab-hint">&middot; findings, implications</span>
+        For Practitioners &amp; Policymakers <span class="tab-hint">&middot; findings, implications</span>
       </button>
     </div>
 
