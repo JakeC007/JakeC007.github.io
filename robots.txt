@@ -1,20 +1,21 @@
-# robots.txt file for https://jakec007.github.io/
-# jakec007.github.io content is made available for 
-# your personal, non-commercial use subject to the
-# Attribution-NonCommercial-ShareAlike 4.0 International license
-# To view a copy of this license, 
-# visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+# robots.txt — jakec007.github.io
+# Content licensed CC BY-NC-SA 4.0
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+# ── AI training crawlers ──────────────────────────────
+
+# OpenAI
 User-agent: GPTBot
 Disallow: /
 
 User-agent: ChatGPT-User
 Disallow: /
 
-# Google LLM
+# Google AI training (distinct from Googlebot search crawler)
 User-agent: Google-Extended
-Disallow: /blog
+Disallow: /
 
+# Anthropic
 User-agent: anthropic-ai
 Disallow: /
 
@@ -24,8 +25,32 @@ Disallow: /
 User-agent: Claude-Web
 Disallow: /
 
+# Amazon
 User-agent: Amazonbot
 Disallow: /
 
-User-agent: FacebookBot
+# Meta AI training (distinct from FacebookBot which handles link previews)
+User-agent: meta-externalagent
 Disallow: /
+
+# ByteDance / TikTok
+User-agent: Bytespider
+Disallow: /
+
+# Apple AI training (distinct from Applebot search crawler)
+User-agent: Applebot-Extended
+Disallow: /
+
+# Cohere
+User-agent: cohere-ai
+Disallow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Disallow: /
+
+# ── Allow all standard crawlers (search indexing) ────
+User-agent: *
+Allow: /
+
+Sitemap: https://jakec007.github.io/sitemap.xml
