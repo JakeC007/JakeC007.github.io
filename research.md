@@ -53,7 +53,7 @@ title: Research — Jake Chanenson
             <span class="r-chip">Workshop</span>
           </div>
           <div class="r-pubs">
-            <div class="r-pub"><span class="cv-badge badge-gold">CHI '26 Organizer</span><span class="r-pub-title">Developmentally Safe Generative AI Environments for Youth</span><a href="https://yamanyume.github.io/youthsafety/" class="r-pub-link">Workshop Site</a></div>
+            <div class="r-pub"><span class="cv-badge badge-gold">CHI '26</span><span class="r-pub-title">Developmentally Safe Generative AI Environments for Youth</span><a href="https://yamanyume.github.io/youthsafety/" class="r-pub-link">Workshop Site</a></div>
             <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">Student perceptions of generative AI in high school</span></div>
           </div>
         </div>
