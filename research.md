@@ -59,7 +59,7 @@ title: Research — Jake Chanenson
         </div>
 
         <div class="r-project">
-          <div class="r-project-label">Published</div>
+          <div class="r-project-label">Complete</div>
           <div class="r-project-title">Privacy Policy Automation with LLMs</div>
           <div class="r-project-desc">Investigates whether large language models can automate annotation of privacy policies using the Governing Knowledge Commons and Contextual Integrity (GKC-CI) framework. Demonstrates both the promise and the systematic failure modes of LLM-assisted legal analysis, with implications for privacy auditing at scale.</div>
           <div class="r-chips">
@@ -74,7 +74,7 @@ title: Research — Jake Chanenson
         </div>
 
         <div class="r-project">
-          <div class="r-project-label">Published &middot; Google Research</div>
+          <div class="r-project-label">Complete &middot; Google Research</div>
           <div class="r-project-title">Online Harms &amp; User Vulnerability</div>
           <div class="r-project-desc">Qualitative study of people seeking help during online financial scams, examining the emotional motivations that lead people to engage with scammers, what people need at different stages of a scam, and what contextual factors elevate risk. Conducted during a research internship with Sunny Consolvo at Google. Contributes empirical grounding for the design of in-situ scam interventions.</div>
           <div class="r-chips">
