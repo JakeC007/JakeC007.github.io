@@ -19,10 +19,10 @@ title: CV — Jake Chanenson
       </div>
 
       <div class="cv-actions">
-        <a href="/assets/files/Chanenson_Resume.pdf" target="_blank" class="btn btn-primary">
+        <a href="/assets/files/Chanenson_Resume.pdf" target="_blank" class="btn btn-outline-accent">
           ↓ 1-Page Resume (PDF)
         </a>
-        <a href="/assets/files/Chanenson_CV.pdf" target="_blank" class="btn btn-outline">
+        <a href="/assets/files/Chanenson_CV.pdf" target="_blank" class="btn btn-outline-accent">
           ↓ Abbreviated CV (PDF)
         </a>
       </div>
