@@ -9,7 +9,7 @@ title: CV — Jake Chanenson
     <div class="cv-header">
       <div class="cv-abbreviated-note">Abbreviated CV &mdash; full version available on request</div>
       <h1 class="cv-name">G. Jake <em>Chanenson</em></h1>
-      <div class="cv-role">Childrens' Privacy Scholar &middot; HCI &middot; AI Safety for Youth</div>
+      <div class="cv-role">Children's Privacy Scholar &middot; HCI &middot; AI Safety for Youth</div>
       <div class="cv-contact">
         <a href="mailto:jchanen1@uchicago.edu">jchanen1@uchicago.edu</a>
         <span>&middot;</span>
@@ -28,7 +28,7 @@ title: CV — Jake Chanenson
             <span class="edu-date">Expected Spring 2027</span>
           </div>
           <div class="edu-degree">Computer Science Ph.D.</div>
-          <div class="edu-note">Childrens' privacy, AI safety for youth, usable privacy, HCI &middot; Advisor: Marshini Chetty</div>
+          <div class="edu-note">Children's privacy, AI safety for youth, usable privacy, HCI &middot; Advisor: Marshini Chetty</div>
         </div>
         <div class="edu-item">
           <div class="edu-row">
@@ -46,7 +46,7 @@ title: CV — Jake Chanenson
       <div class="cv-entries">
         <div class="cv-entry">
           <div class="cv-entry-top">
-            <div class="cv-entry-title">Childrens' Privacy and AI Safety Research</div>
+            <div class="cv-entry-title">Children's Privacy and AI Safety Research</div>
             <span class="cv-badge badge-blue">Lead Researcher</span>
           </div>
           <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Winter 2025 &ndash; Present</div>
@@ -66,7 +66,7 @@ title: CV — Jake Chanenson
             <span class="cv-badge badge-blue">Lead Researcher</span>
           </div>
           <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Fall 2021 &ndash; Present</div>
-          <div class="cv-entry-desc">Investigating how K&ndash;12 public schools keep student data private and secure, with emphasis on marginalized student populations. Foundation for multiple publications and ongoing work on childrens' online privacy.</div>
+          <div class="cv-entry-desc">Investigating how K&ndash;12 public schools keep student data private and secure, with emphasis on marginalized student populations. Foundation for multiple publications and ongoing work on children's online privacy.</div>
         </div>
         <div class="cv-entry">
           <div class="cv-entry-top">
@@ -179,10 +179,6 @@ title: CV — Jake Chanenson
           <div class="cv-entry-title">6th Annual Symposium on Applications of Contextual Integrity: Qualitative Analysis of GKC-CI Annotations With LLMs</div>
           <div class="cv-entry-sub">New Brunswick, NJ &middot; Fall 2024</div>
         </div>
-        <!-- <div class="cv-entry">
-          <div class="cv-entry-title">Privacy Law Scholars Conference: Exploring Data Trusts as a Way to Safeguard K&ndash;12 Student Data</div>
-          <div class="cv-entry-sub">Washington DC &middot; Spring 2024</div>
-        </div> -->
       </div>
     </div>
 
@@ -209,6 +205,14 @@ title: CV — Jake Chanenson
     <div class="cv-section">
       <div class="cv-section-title">Teaching</div>
       <div class="cv-entries">
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-entry-title">Instructor of Record &mdash; CMSC 14100: Intro to Computer Science I</div>
+            <span class="cv-badge badge-blue">Instructor of Record</span>
+          </div>
+          <div class="cv-entry-sub">University of Chicago &middot; Summer 2026</div>
+          <div class="cv-entry-desc">Sole instructor for the required foundational CS course for majors. Taught Python programming, core algorithms, data structures, and command-line basics.</div>
+        </div>
         <div class="cv-entry">
           <div class="cv-entry-top">
             <div class="cv-entry-title">Computer Science Instructor &mdash; Human-Centered Design</div>
@@ -272,9 +276,6 @@ title: CV — Jake Chanenson
       </ul>
       
     </div>
-      <div class="shared-cta">
-        <p class="shared-cta-text">Working on childrens' online safety, AI governance, or EdTech policy? I am finishing my PhD in spring 2027 and am open to research, policy, and government roles where this work is directly applicable.</p>
-        <a href="mailto:jchanen1@uchicago.edu" class="btn btn-outline-accent">Get in touch &rarr;</a>
-      </div>
+    {% include shared-cta.html %}
   </div>
 </div>

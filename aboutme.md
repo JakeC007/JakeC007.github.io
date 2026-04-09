@@ -8,7 +8,7 @@ title: About — Jake Chanenson
 
     <div class="page-header">
       <h1 class="page-title">About Me</h1>
-      <p class="page-subtitle">Childrens' Privacy Scholar &middot; HCI &middot; University of Chicago</p>
+      <p class="page-subtitle">Children's Privacy Scholar &middot; HCI &middot; University of Chicago</p>
     </div>
 
     <div class="about-body">
@@ -16,12 +16,12 @@ title: About — Jake Chanenson
         I'm a CS PhD student at the University of Chicago, working with
         <a href="https://www.marshini.net/">Marshini Chetty</a> at the
         <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>.
-        My research specializes in law-informed HCI at the intersection of childrens' privacy,
-        EdTech, and AI safety for youth, asking what it actually takes to build
+        My research specializes in <strong>law-informed HCI</strong> at the intersection of <strong>children's privacy,
+        EdTech, and AI safety for youth</strong>, asking what it actually takes to build
         technology that is safe for young people, and what it costs when we get it wrong.
       </p>
       <p>
-        Childrens' privacy is the throughline of my work. Who collects data about children,
+        Children's privacy is the throughline of my work. Who collects data about children,
         under what conditions, and with what consequences? That question has led me naturally
         into AI safety for youth: as generative AI moves into classrooms and homes, the same
         structural questions about oversight, accountability, and design responsibility apply,
@@ -29,18 +29,18 @@ title: About — Jake Chanenson
         and how large language models can help automate privacy policy analysis at scale.
       </p>
       <p>
-        I hold a Master of Legal Studies from the University of Chicago Law School, with a focus on privacy,
+        I hold a <strong>Master of Legal Studies</strong> from the University of Chicago Law School, with a focus on privacy,
         copyright, and administrative law. That background shapes how I frame research questions. I can see
         where the law provides tools and where it falls short, which makes for better empirical work and more
-        actionable findings. My research has been published at ACM CHI and PETS, and presented at venues including
+        actionable findings. My research has been published at <strong>ACM CHI and PETS</strong>, and presented at venues including
         the Privacy Law Scholars Conference. I am also an affiliate at
         <a href="https://citap.unc.edu/">UNC's Center for Information, Technology, and Public Life (CITAP)</a>.
       </p>
       <p>
         I am expecting to finish my PhD in spring 2027. My work sits at the intersection of research,
-        law, and policy, and I am interested in positions across academia, industry, and government
+        law, and policy, and I am interested in positions across <strong>academia, industry, and government</strong>
         where that combination is an asset.
-        If you are working on childrens' privacy, AI safety for youth, or usable
+        If you are working on children's privacy, AI safety for youth, or usable
         privacy more broadly, I would love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
       </p>
 
@@ -69,6 +69,8 @@ title: About — Jake Chanenson
         <a href="mailto:jchanen1@uchicago.edu" class="btn btn-outline">Email me</a>
       </div>
     </div>
+
+{% include shared-cta.html %}
 
     <div class="about-site-section">
       <h2 class="about-site-heading">About This Site</h2>
@@ -102,11 +104,6 @@ title: About — Jake Chanenson
         <a href="mailto:jchanen1@uchicago.edu">let me know</a>.
       </p>
     </div>
-
-      <div class="shared-cta">
-        <p class="shared-cta-text">Working on childrens' online safety, AI governance, or EdTech policy? I am finishing my PhD in spring 2027 and am open to research, policy, and government roles where this work is directly applicable.</p>
-        <a href="mailto:jchanen1@uchicago.edu" class="btn btn-outline-accent">Get in touch &rarr;</a>
-      </div>
 
   </div>
 </div>
