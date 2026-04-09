@@ -211,26 +211,7 @@ title: CV — Jake Chanenson
       </div>
     </div>
 
-    <div class="cv-section">
-      <div class="cv-section-title">Public Policy Comments</div>
-      <div class="cv-entries">
-        <div class="cv-entry">
-          <div class="cv-entry-title">Comment on Children's Online Privacy Protection Rule (COPPA) &middot; FTC Docket FTC-2021-0019</div>
-          <div class="cv-entry-sub"><span class="cv-author-me">J. Chanenson</span>, M.Z. Choksi, M. Chetty &middot; February 2024</div>
-          <div class="cv-entry-links">
-            <a href="https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2024/02/2024-FTC-NPRM-COPPA-Comment-0f8da17e493615f1.pdf" class="cv-entry-link">PDF</a>
-          </div>
-        </div>
-        <div class="cv-entry">
-          <div class="cv-entry-title">Comment on Dark Patterns in Social Media &middot; European Data Protection Board</div>
-          <div class="cv-entry-sub"><span class="cv-author-me">J. Chanenson</span>, M. Chetty, C. Crum, N. Feamster et al. &middot; May 2022</div>
-          <div class="cv-entry-links">
-            <a href="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf" class="cv-entry-link">PDF</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
+    
     <div class="cv-section">
       <div class="cv-section-title">Teaching</div>
       <div class="cv-entries">
