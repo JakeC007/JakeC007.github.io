@@ -103,5 +103,10 @@ title: About — Jake Chanenson
       </p>
     </div>
 
+      <div class="shared-cta">
+        <p class="shared-cta-text">Working on childrens' online safety, AI governance, or EdTech policy? I am finishing my PhD in spring 2027 and am open to research, policy, and government roles where this work is directly applicable.</p>
+        <a href="mailto:jchanen1@uchicago.edu" class="btn btn-outline-accent">Get in touch &rarr;</a>
+      </div>
+
   </div>
 </div>

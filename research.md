@@ -8,12 +8,12 @@ title: Research — Jake Chanenson
 
     <div class="page-header">
       <h1 class="page-title">Research</h1>
-      <p class="page-subtitle">Childrens' privacy, AI safety for youth, and the policy and design interventions that could make a difference. The following cards are organized by research topic.</p>
+      <p class="page-subtitle">Childrens' privacy, AI safety for youth, and the policy and design interventions that could make a difference. The following cards are organized by research topic. For a full citation of each paper -- including my many wonderful collbarators -- please see the CV tab</p>
     </div>
 
     <div class="tabs-bar">
       <button class="tab-btn active" data-panel="researchers" id="tab-researchers">
-        For Researchers <span class="tab-hint">&middot; methods, venues, collaborators</span>
+        For Researchers <span class="tab-hint">&middot; publications, workshops, venues</span>
       </button>
       <button class="tab-btn" data-panel="practitioners" id="tab-practitioners">
         For Practitioners &amp; Policymakers <span class="tab-hint">&middot; findings, implications</span>
