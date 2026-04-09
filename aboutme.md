@@ -13,9 +13,51 @@ title: About — Jake Chanenson
 
 <div class="about-body">
       
-      <div class="about-intro-layout" style="display: flex; gap: 2.5rem; align-items: flex-start; flex-wrap: wrap-reverse; margin-bottom: 1.5rem;">
+      <style>
+        /* Mobile-first base styles */
+        .about-intro-layout {
+          display: flex;
+          flex-direction: column-reverse; /* Puts the image on top of the text on mobile */
+          gap: 2rem;
+          align-items: center;
+          margin-bottom: 2rem;
+        }
+
+        .about-intro-text {
+          flex: 1 1 auto;
+        }
+
+        .about-intro-image {
+          flex: 0 0 auto;
+          width: 100%;
+          max-width: 260px; /* Prevents the image from getting massive on phones */
+        }
+
+        .about-intro-image img {
+          width: 100%;
+          border-radius: 8px;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+          display: block;
+          object-fit: cover;
+        }
+
+        /* Desktop override */
+        @media (min-width: 768px) {
+          .about-intro-layout {
+            flex-direction: row; /* Puts text on left, image on right */
+            align-items: flex-start;
+            gap: 3rem;
+          }
+          
+          .about-intro-image {
+            flex: 0 0 260px; /* Locks the image width on desktop */
+          }
+        }
+      </style>
+
+      <div class="about-intro-layout">
         
-        <div class="about-intro-text" style="flex: 1; min-width: 300px;">
+        <div class="about-intro-text">
           <p style="margin-top: 0;">
             I'm a CS PhD student at the University of Chicago, working with
             <a href="https://www.marshini.net/">Marshini Chetty</a> at the
@@ -34,8 +76,8 @@ title: About — Jake Chanenson
           </p>
         </div>
 
-        <div class="about-intro-image" style="flex: 0 0 260px; width: 100%;">
-          <img src="/assets/img/jake_headshot.jpeg" alt="Jake Chanenson headshot" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); object-fit: cover;">
+        <div class="about-intro-image">
+          <img src="/assets/img/jake_headshot.jpeg" alt="Jake Chanenson headshot">
         </div>
         
       </div>
