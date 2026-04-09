@@ -18,11 +18,14 @@ title: CV — Jake Chanenson
         <span>Expected PhD: Spring 2027</span>
       </div>
       
-      <div class="cv-actions" style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-        <a href="/assets/Jake_Chanenson_Resume.pdf" target="_blank" class="btn btn-outline-accent">Download 1-Page Resume (PDF)</a>
-        <a href="/assets/Jake_Chanenson_CV.pdf" target="_blank" class="btn btn-outline">Download Abbreviated CV (PDF)</a>
-      </div>
-    </div>
+<div class="cv-actions" style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: flex-start; flex-wrap: wrap;">
+  <a href="/assets/Chanenson_Resume.pdf" target="_blank" class="btn btn-outline-accent" style="display: inline-flex; align-items: center; height: 44px;">
+    Download 1-Page Resume (PDF)
+  </a>
+  <a href="/assets/Chanenson_CV.pdf" target="_blank" class="btn btn-outline" style="display: inline-flex; align-items: center; height: 44px;">
+    Download Abbreviated CV (PDF)
+  </a>
+</div>
 
     <div class="cv-section">
       <div class="cv-section-title">Education</div>

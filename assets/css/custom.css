@@ -306,7 +306,6 @@ img { max-width: 100%; height: auto; }
 /* Tags page */
 .tags-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 3rem; }
 .tags-list { display: flex; flex-direction: column; gap: 2.5rem; }
-.tag-section {}
 .tag-heading {
   font-family: var(--display); font-size: 1.1rem; font-weight: 700;
   color: var(--accent); margin-bottom: 0.75rem; letter-spacing: -0.01em;
@@ -705,4 +704,16 @@ img { max-width: 100%; height: auto; }
     border-color: rgba(232,200,122,0.35) !important;
     color: var(--accent);
   }
+}
+
+/* ============================================================
+   TYPOGRAPHY ENHANCEMENTS
+   Ensure bold tags (<strong>, <b>) stand out distinctly against 
+   the dark background by forcing the heavier font weight and 
+   using the brightest text variable (--ink).
+   ============================================================ */
+.post-body strong, .post-body b,
+.page-inner strong, .page-inner b {
+  font-weight: 700;
+  color: var(--ink); 
 }
