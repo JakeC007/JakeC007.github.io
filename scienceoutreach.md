@@ -13,14 +13,6 @@ title: Science Outreach — Jake Chanenson
 
     <div class="about-body">
       <p>
-        Computers affect every aspect of our lives, and I believe everyone deserves a basic
-        understanding of how they work. People have a right to know that machine learning is not magic:
-        it is linear algebra underpinned by statistics. That distinction matters. It is hard to understand
-        why a black box fails to correctly identify people of color, but it is easy to see how a biased
-        dataset skews the weights of a facial recognition model. A surface-level understanding of how
-        these systems work improves everyone's ability to ask better questions about them.
-      </p>
-      <p>
         My outreach spans direct classroom instruction with youth across Chicago, public scholarship
         through podcasting, and programs supporting the next generation of CS researchers.
       </p>
