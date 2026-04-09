@@ -7,7 +7,7 @@ title: CV — Jake Chanenson
   <div class="page-inner">
 
     <div class="cv-header">
-      <div class="cv-abbreviated-note">Abbreviated CV &mdash; full version available on request</div>
+      <!-- <div class="cv-abbreviated-note">Abbreviated CV &mdash; full version available on request</div> -->
       <h1 class="cv-name">G. Jake <em>Chanenson</em></h1>
       <div class="cv-role">Children's Privacy Scholar &middot; HCI &middot; AI Safety for Youth</div>
       <div class="cv-contact">
@@ -16,6 +16,11 @@ title: CV — Jake Chanenson
         <span>University of Chicago</span>
         <span>&middot;</span>
         <span>Expected PhD: Spring 2027</span>
+      </div>
+      
+      <div class="cv-actions" style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/assets/Jake_Chanenson_Resume.pdf" target="_blank" class="btn btn-outline-accent">Download 1-Page Resume (PDF)</a>
+        <a href="/assets/Jake_Chanenson_CV.pdf" target="_blank" class="btn btn-outline">Download Abbreviated CV (PDF)</a>
       </div>
     </div>
 
@@ -75,6 +80,26 @@ title: CV — Jake Chanenson
           </div>
           <div class="cv-entry-sub">Google &middot; Remote &middot; Fall 2024 &ndash; Winter 2025</div>
           <div class="cv-entry-desc">Research intern with Sunny Consolvo. Work contributed to a CHI 2026 paper on people's emotional responses and help needs during scam experiences.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="cv-section">
+      <div class="cv-section-title">Public Policy Comments</div>
+      <div class="cv-entries">
+        <div class="cv-entry">
+          <div class="cv-entry-title">Comment on Children's Online Privacy Protection Rule (COPPA) &middot; FTC Docket FTC-2021-0019</div>
+          <div class="cv-entry-sub"><span class="cv-author-me">J. Chanenson</span>, M.Z. Choksi, M. Chetty &middot; February 2024</div>
+          <div class="cv-entry-links">
+            <a href="https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2024/02/2024-FTC-NPRM-COPPA-Comment-0f8da17e493615f1.pdf" class="cv-entry-link">PDF</a>
+          </div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-entry-title">Comment on Dark Patterns in Social Media &middot; European Data Protection Board</div>
+          <div class="cv-entry-sub"><span class="cv-author-me">J. Chanenson</span>, M. Chetty, C. Crum, N. Feamster et al. &middot; May 2022</div>
+          <div class="cv-entry-links">
+            <a href="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/2826/files/2022/06/EDPB_Comment_Final.pdf" class="cv-entry-link">PDF</a>
+          </div>
         </div>
       </div>
     </div>

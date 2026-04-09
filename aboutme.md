@@ -11,23 +11,35 @@ title: About — Jake Chanenson
       <p class="page-subtitle">Children's Privacy Scholar &middot; HCI &middot; University of Chicago</p>
     </div>
 
-    <div class="about-body">
-      <p>
-        I'm a CS PhD student at the University of Chicago, working with
-        <a href="https://www.marshini.net/">Marshini Chetty</a> at the
-        <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>.
-        My research specializes in <strong>law-informed HCI</strong> at the intersection of <strong>children's privacy,
-        EdTech, and AI safety for youth</strong>, asking what it actually takes to build
-        technology that is safe for young people, and what it costs when we get it wrong.
-      </p>
-      <p>
-        Children's privacy is the throughline of my work. Who collects data about children,
-        under what conditions, and with what consequences? That question has led me naturally
-        into AI safety for youth: as generative AI moves into classrooms and homes, the same
-        structural questions about oversight, accountability, and design responsibility apply,
-        with even higher stakes. My current projects examine how youth experience AI and EdTech,
-        and how large language models can help automate privacy policy analysis at scale.
-      </p>
+<div class="about-body">
+      
+      <div class="about-intro-layout" style="display: flex; gap: 2.5rem; align-items: flex-start; flex-wrap: wrap-reverse; margin-bottom: 1.5rem;">
+        
+        <div class="about-intro-text" style="flex: 1; min-width: 300px;">
+          <p style="margin-top: 0;">
+            I'm a CS PhD student at the University of Chicago, working with
+            <a href="https://www.marshini.net/">Marshini Chetty</a> at the
+            <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>.
+            My research specializes in <strong>law-informed HCI</strong> at the intersection of <strong>children's privacy,
+            EdTech, and AI safety for youth</strong>, asking what it actually takes to build
+            technology that is safe for young people, and what it costs when we get it wrong.
+          </p>
+          <p>
+            Children's privacy is the throughline of my work. Who collects data about children,
+            under what conditions, and with what consequences? That question has led me naturally
+            into AI safety for youth: as generative AI moves into classrooms and homes, the same
+            structural questions about oversight, accountability, and design responsibility apply,
+            with even higher stakes. My current projects examine how youth experience AI and EdTech,
+            and how large language models can help automate privacy policy analysis at scale.
+          </p>
+        </div>
+
+        <div class="about-intro-image" style="flex: 0 0 260px; width: 100%;">
+          <img src="/assets/img/jake_headshot.jpeg" alt="Jake Chanenson headshot" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); object-fit: cover;">
+        </div>
+        
+      </div>
+
       <p>
         I hold a <strong>Master of Legal Studies</strong> from the University of Chicago Law School, with a focus on privacy,
         copyright, and administrative law. That background shapes how I frame research questions. I can see
