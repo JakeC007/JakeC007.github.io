@@ -115,16 +115,30 @@ title: CV — Jake Chanenson
         <div class="cv-entry">
           <div class="cv-entry-top">
             <div class="cv-pub-num">1</div>
-            <div class="cv-entry-title">"It didn't feel right but I needed a job so desperately": Understanding People's Emotions and Help Needs During Scams</div>
-            <span class="cv-badge badge-gold">CHI '26</span>
+            <div class="cv-entry-title">Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice</div>
+            <span class="cv-badge badge-gold">FAccT '26</span>
           </div>
-          <div class="cv-entry-sub">ACM CHI 2026 &middot; To appear.</div>
-          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, T. Matthews, S. Consolvo, P. Kelley, J. McClearn, S. Meiklejohn, A. Roy, R. Shelby, K. Thomas, A. Hassoun</div>
+          <div class="cv-entry-sub">FAccT 2026</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, T. Eschebach, M. Chetty</div>
         </div>
+
 
         <div class="cv-entry">
           <div class="cv-entry-top">
             <div class="cv-pub-num">2</div>
+            <div class="cv-entry-title">"It didn't feel right but I needed a job so desperately": Understanding People's Emotions and Help Needs During Scams</div>
+            <span class="cv-badge badge-gold">CHI '26</span>
+          </div>
+          <div class="cv-entry-sub">ACM CHI 2026</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, T. Matthews, S. Consolvo, P. Kelley, J. McClearn, S. Meiklejohn, A. Roy, R. Shelby, K. Thomas, A. Hassoun</div>
+          <div class="cv-entry-links">
+            <a href="https://dl.acm.org/doi/10.1145/3772318.3790556" class="cv-entry-link">ACM DL</a>
+          </div>
+        </div>
+
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-pub-num">3</div>
             <div class="cv-entry-title">Automating GKC-CI Privacy Policy Annotations with Large Language Models</div>
             <span class="cv-badge badge-blue">PETS '25</span>
           </div>
@@ -137,7 +151,7 @@ title: CV — Jake Chanenson
 
         <div class="cv-entry">
           <div class="cv-entry-top">
-            <div class="cv-pub-num">3</div>
+            <div class="cv-pub-num">4</div>
             <div class="cv-entry-title">Uncovering Privacy and Security Challenges In K&ndash;12 Schools</div>
             <span class="cv-badge badge-gold">CHI '23</span>
             <span class="cv-badge badge-green">&#127941; Honorable Mention</span>
@@ -152,10 +166,10 @@ title: CV — Jake Chanenson
 
         <div class="cv-entry cv-entry-dashed">
           <div class="cv-entry-top">
-            <div class="cv-entry-title">Three additional papers currently under review</div>
+            <div class="cv-entry-title">Two additional papers currently under review</div>
             <span class="cv-badge badge-blue">Under Review</span>
           </div>
-          <div class="cv-entry-desc">Topics: high school students' privacy perceptions of EdTech; student perceptions of generative AI in high school; cybersecurity concerns in K&ndash;12. Available on request.</div>
+          <div class="cv-entry-desc">Topics: high school students' privacy perceptions of EdTech; cybersecurity concerns in K&ndash;12. Available on request.</div>
         </div>
 
       </div>
