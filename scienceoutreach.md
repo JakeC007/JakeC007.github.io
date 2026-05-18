@@ -18,27 +18,51 @@ title: Science Outreach — Jake Chanenson
       </p>
     </div>
 
-    <div class="cv-section" style="margin-top:3rem;">
-      <div class="cv-section-title">Public Scholarship</div>
-      <div class="cv-entries">
-        <div class="cv-entry">
-          <div class="cv-entry-top">
-            <div class="cv-entry-title">New Books Network &mdash; Science, Technology &amp; Society</div>
-            <span class="cv-badge badge-gold">Host</span>
-          </div>
-          <div class="cv-entry-sub">New Books Network &middot; Fall 2022 &ndash; Present</div>
-          <div class="cv-entry-desc">
-            A host on the Science, Technology and Society channel on the New Books Network, a podcast
-            and public scholarship platform with over a million monthly listeners. I interview scholars
-            about newly published books at the intersection of technology, privacy, policy, and society,
-            making academic work accessible to a broad public audience.
-          </div>
-          <div class="cv-entry-links">
-            <a href="https://newbooksnetwork.com/hosts/profile/b0ddb744-0b2b-46bd-846a-faaab42e0bb6" class="cv-entry-link">Listen</a>
-          </div>
-        </div>
+<div class="cv-section" style="margin-top:3rem;">
+  <div class="cv-section-title">Public Scholarship</div>
+  <div class="cv-entries">
+
+    <div class="cv-entry">
+      <div class="cv-entry-top">
+        <div class="cv-entry-title">New Books Network &mdash; Science, Technology &amp; Society</div>
+        <span class="cv-badge badge-gold">Host</span>
       </div>
-    </div>
+      <div class="cv-entry-sub">New Books Network &middot; Fall 2022 &ndash; Present</div>
+      <div class="cv-entry-desc">
+        A host on the Science, Technology and Society channel on the New Books Network, a podcast
+        and public scholarship platform with over a million monthly listeners. I interview scholars
+        about newly published books at the intersection of technology, privacy, policy, and society,
+        making academic work accessible to a broad public audience.
+      </div>
+      <div class="cv-entry-links">
+        <a href="https://newbooksnetwork.com/hosts/profile/b0ddb744-0b2b-46bd-846a-faaab42e0bb6" class="cv-entry-link">Listen</a>
+      </div>
+    </div> <!-- /cv-entry: New Books Network -->
+
+    <div class="cv-entry">
+      <div class="cv-entry-top">
+        <div class="cv-entry-title">Lectures on Tap &mdash; &ldquo;Move Fast and Monetize Everything&rdquo;</div>
+        <span class="cv-badge badge-gold">Speaker</span>
+      </div>
+      <div class="cv-entry-sub">Lake View, Chicago, IL &middot; May 2026</div>
+      <div class="cv-entry-desc">
+        Delivered a public lecture tracing how platform economics, antitrust history, copyright law,
+        and interface design interact to shape the products users experience today. The talk placed
+        contemporary platform behavior in a broader historical and legal context, explaining the
+        structural forces &mdash; rather than individual bad actors &mdash; that drive shifts in
+        how digital services are built and monetized. Part of the Lectures on Tap series, which
+        brings academics and domain experts into Chicago venues to make rigorous ideas accessible
+        to general audiences.
+      </div>
+      <div class="cv-entry-links">
+        <a href="https://www.eventbrite.com/e/lectures-on-tap-move-fast-and-monetize-everything-tickets-1987615173489" class="cv-entry-link">Event</a>
+      </div>
+    </div> <!-- /cv-entry: Lectures on Tap -->
+
+    <!-- ADD NEXT PUBLIC SCHOLARSHIP ENTRY HERE -->
+
+  </div> <!-- /cv-entries -->
+</div> <!-- /cv-section: Public Scholarship -->
 
     <div class="cv-section">
       <div class="cv-section-title">School Visits &amp; Site Teaching</div>
