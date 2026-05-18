@@ -86,8 +86,7 @@ title: About — Jake Chanenson
         I hold a <strong>Master of Legal Studies</strong> from the University of Chicago Law School, with a focus on privacy,
         copyright, and administrative law. That background shapes how I frame research questions. I can see
         where the law provides tools and where it falls short, which makes for better empirical work and more
-        actionable findings. My research has been published at <strong>ACM CHI and PETS</strong>, and presented at venues including
-        the Privacy Law Scholars Conference. I am also an affiliate at
+        actionable findings. My research has been published at <strong>ACM CHI, ACM FAccT, and PETS</strong>, and presented at venues including the Privacy Law Scholars Conference (PLSC). I am also an affiliate at
         <a href="https://citap.unc.edu/">UNC's Center for Information, Technology, and Public Life (CITAP)</a>.
       </p>
       <p>
@@ -98,24 +97,26 @@ title: About — Jake Chanenson
         privacy more broadly, I would love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
       </p>
 
-      <div class="about-stats">
-        <div class="about-stat">
-          <span class="about-stat-num">CHI '23</span>
-          <span class="about-stat-label">Honorable mention</span>
-        </div>
-        <div class="about-stat">
-          <span class="about-stat-num">CHI '26</span>
-          <span class="about-stat-label">Paper + Workshop organizer</span>
-        </div>
-        <div class="about-stat">
-          <span class="about-stat-num">PETS '25</span>
-          <span class="about-stat-label">LLMs + privacy policies</span>
-        </div>
-        <div class="about-stat">
-          <span class="about-stat-num">Google</span>
-          <span class="about-stat-label">Research intern '24&ndash;'25</span>
-        </div>
+
+    <div class="about-stats">
+      <div class="about-stat">
+        <span class="about-stat-num">ACM CHI</span>
+        <span class="about-stat-label">'23 HM &middot; '26 paper &amp; workshop</span>
       </div>
+      <div class="about-stat">
+        <span class="about-stat-num">FAccT '26</span>
+        <span class="about-stat-label">ChatGPT governance in schools</span>
+      </div>
+      <div class="about-stat">
+        <span class="about-stat-num">PETS '25</span>
+        <span class="about-stat-label">LLMs + privacy policies</span>
+      </div>
+      <div class="about-stat">
+        <span class="about-stat-num">Google</span>
+        <span class="about-stat-label">Research intern '24&ndash;'25</span>
+      </div>
+    </div>
+
 
       <div class="about-links">
         <a href="/CV" class="btn btn-outline-accent">Abbreviated CV &rarr;</a>
