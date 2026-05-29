@@ -1,0 +1,396 @@
+---
+layout: page
+title: Chicago This Summer
+subtitle: "Summer 2026 activity roulette · no more group chat paralysis"
+---
+
+<!-- ── PAGE STYLES ─────────────────────────────────────────────────── -->
+<style>
+  .page-content .page-inner { padding-top: 0; }
+
+  .cs-widget { margin-top: 2.5rem; }
+
+  .cs-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 3rem 2.5rem;
+    min-height: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 1.1rem;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.2s;
+  }
+
+  .cs-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent) 0%, var(--green) 100%);
+    border-radius: 14px 14px 0 0;
+  }
+
+  .cs-card.rolling { border-color: var(--border-light); }
+
+  .cs-idle {
+    font-family: var(--display);
+    font-size: 1.3rem;
+    font-style: italic;
+    color: var(--ink-muted);
+    letter-spacing: -0.01em;
+    user-select: none;
+  }
+
+  .cs-name {
+    font-family: var(--display);
+    font-size: clamp(1.8rem, 5vw, 2.6rem);
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: -0.025em;
+    line-height: 1.1;
+    color: var(--ink);
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 0.22s ease, transform 0.22s ease;
+  }
+  .cs-name.show { opacity: 1; transform: translateY(0); }
+
+  .cs-tip {
+    font-size: 0.9rem;
+    color: var(--ink-muted);
+    line-height: 1.6;
+    max-width: 46ch;
+    opacity: 0;
+    transition: opacity 0.25s ease 0.08s;
+    font-weight: 300;
+  }
+  .cs-tip.show { opacity: 1; }
+
+  .cs-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s ease 0.12s;
+  }
+  .cs-tags.show { opacity: 1; }
+
+  .cs-tag {
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0.22rem 0.7rem;
+    border-radius: 100px;
+    border: 1px solid var(--border);
+    background: var(--bg3);
+    color: var(--ink-muted);
+  }
+  .cs-tag.accent { background: rgba(232,200,122,0.1); color: var(--accent); border-color: rgba(232,200,122,0.25); }
+  .cs-tag.green  { background: rgba(94,196,154,0.1);  color: var(--green);  border-color: rgba(94,196,154,0.25); }
+  .cs-tag.date   { background: rgba(138,180,248,0.08); color: #8ab4f8;      border-color: rgba(138,180,248,0.2); }
+
+  .cs-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.7rem;
+    margin-top: 1.75rem;
+  }
+
+  #cs-spin {
+    font-family: var(--body);
+    font-size: 0.95rem;
+    font-weight: 600;
+    background: var(--accent);
+    color: #16202e;
+    border: none;
+    border-radius: 8px;
+    padding: 0.7rem 2.25rem;
+    cursor: pointer;
+    transition: background 0.15s, transform 0.08s;
+    letter-spacing: 0.01em;
+  }
+  #cs-spin:hover:not(:disabled) { background: var(--accent-hover); }
+  #cs-spin:active:not(:disabled) { transform: scale(0.97); }
+  #cs-spin:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  #cs-again {
+    font-size: 0.8rem;
+    color: var(--ink-muted);
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: rgba(138,160,184,0.4);
+    padding: 0.2rem 0.5rem;
+    display: none;
+    transition: color 0.15s;
+    font-family: var(--body);
+  }
+  #cs-again.show { display: block; }
+  #cs-again:hover { color: var(--ink-soft); }
+
+  .cs-edit-note {
+    margin-top: 2.5rem;
+    padding: 1.25rem 1.5rem;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 8px 8px 0;
+    font-size: 0.85rem;
+    color: var(--ink-muted);
+    line-height: 1.6;
+  }
+  .cs-edit-note code {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    font-size: 0.8em;
+    background: var(--bg3);
+    color: var(--accent);
+    padding: 0.1em 0.4em;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+  }
+</style>
+
+<div class="cs-widget">
+  <div class="cs-card" id="cs-card">
+    <p class="cs-idle" id="cs-idle">Press the button to find out.</p>
+    <p class="cs-name" id="cs-name"></p>
+    <div class="cs-tags" id="cs-tags"></div>
+    <p class="cs-tip" id="cs-tip"></p>
+  </div>
+
+  <div class="cs-controls">
+    <button id="cs-spin">Suggest something &rarr;</button>
+    <button id="cs-again">suggest something else</button>
+  </div>
+
+  <div class="cs-edit-note">
+    <strong style="color: var(--ink-soft);">Adding activities:</strong>
+    open <code>chicago-summer.html</code>, find the <code>const activities</code> array,
+    and paste in a new object. Fields: <code>name</code>, <code>category</code>
+    (<code>outdoors</code> &middot; <code>food</code> &middot; <code>culture</code> &middot; <code>sports</code> &middot; <code>nightlife</code> &middot; <code>day-trip</code>),
+    <code>cost</code> (<code>free</code> or <code>paid</code>),
+    <code>neighborhood</code>, <code>tip</code>.
+  </div>
+</div>
+
+<script>
+// ─── DATE HELPERS ─────────────────────────────────────────────────────────
+// Parse "YYYY-MM-DD" as a LOCAL date (avoids UTC-offset off-by-one issues)
+function parseDate(str) {
+  const [y, m, d] = str.split('-').map(Number);
+  return new Date(y, m - 1, d);
+}
+
+// Human-readable range: "Jun 13–14", "Jul 31 – Aug 2", "Jun 28"
+function dateLabel(a) {
+  if (!a.startDate && !a.endDate) return null;
+  const fmt = s => parseDate(s).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  const s = a.startDate, e = a.endDate;
+  if (s && e) {
+    if (s === e) return fmt(s);
+    const d1 = parseDate(s), d2 = parseDate(e);
+    if (d1.getMonth() === d2.getMonth())
+      return d1.toLocaleDateString('en-US', { month: 'short' }) + ' ' + d1.getDate() + '\u2013' + d2.getDate();
+    return fmt(s) + ' \u2013 ' + fmt(e);
+  }
+  return s ? fmt(s) : fmt(e);
+}
+
+// An activity is in the pool if:
+//   - no dates → always
+//   - has endDate → today ≤ endDate (event hasn't ended)
+//   - has startDate → today ≥ startDate − 7 days (within 1-week preview window)
+function isActive(a) {
+  if (!a.startDate && !a.endDate) return true;
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  if (a.endDate) {
+    const end = parseDate(a.endDate); end.setHours(23, 59, 59);
+    if (today > end) return false;
+  }
+  if (a.startDate) {
+    const preview = parseDate(a.startDate);
+    preview.setDate(preview.getDate() - 7);
+    if (today < preview) return false;
+  }
+  return true;
+}
+
+// ─── ACTIVITIES ───────────────────────────────────────────────────────────
+// Evergreen entries: no startDate/endDate — always in the pool.
+// Seasonal entries:  startDate/endDate in YYYY-MM-DD (both inclusive).
+//   Enters the pool 7 days before startDate; drops out the day after endDate.
+//
+// To add a new activity, copy any object below and fill in the fields:
+//   name, category (outdoors|food|culture|sports|nightlife|day-trip),
+//   cost (free|paid), neighborhood, tip
+//   + optional startDate / endDate for time-limited events.
+// ─────────────────────────────────────────────────────────────────────────
+const activities = [
+
+  // ── EVERGREEN ─────────────────────────────────────────────────────────
+  { name: "North Avenue Beach volleyball", category: "outdoors", cost: "free", neighborhood: "Lincoln Park", tip: "Courts are first-come, first-served. Get there early on weekends." },
+  { name: "Kayak the Chicago River", category: "outdoors", cost: "paid", neighborhood: "River North", tip: "Urban Kayaks rents by the hour. Sunset slots go fast." },
+  { name: "606 Trail bike ride", category: "outdoors", cost: "free", neighborhood: "Wicker Park / Logan Square", tip: "Rent Divvy bikes at either end. The whole trail is 2.7 miles — easy round trip." },
+  { name: "Cubs game at Wrigley", category: "sports", cost: "paid", neighborhood: "Wrigleyville", tip: "Bleacher seats are the move. Get there early for batting practice." },
+  { name: "White Sox game at Guaranteed Rate", category: "sports", cost: "paid", neighborhood: "Bridgeport", tip: "Tickets are usually cheaper and easier to get than Wrigley." },
+  { name: "Riverwalk drinks", category: "food", cost: "free", neighborhood: "The Loop", tip: "Walk from Lake St. to the lake. Grab drinks at the bars along the way." },
+  { name: "Lincoln Park Zoo", category: "outdoors", cost: "free", neighborhood: "Lincoln Park", tip: "Free admission, paid parking. Take the bus or Divvy to avoid the lot." },
+  { name: "Maggie Daley Park mini golf", category: "outdoors", cost: "paid", neighborhood: "The Loop", tip: "Two city-themed courses. Grab food at the park café after." },
+  { name: "Deep dish pizza crawl", category: "food", cost: "paid", neighborhood: "Citywide", tip: "Hit Lou Malnati's and Pequod's in one day. Bring friends who can commit." },
+  { name: "Green City Market", category: "food", cost: "free", neighborhood: "Lincoln Park", tip: "Open Wednesdays and Saturdays. Get the chef demo tickets if available." },
+  { name: "Second City comedy show", category: "nightlife", cost: "paid", neighborhood: "Old Town", tip: "The late-night free improv set after the main show is a hidden gem." },
+  { name: "Montrose Beach + Bird Sanctuary", category: "outdoors", cost: "free", neighborhood: "Uptown", tip: "Less crowded than North Ave. The bird sanctuary is worth a detour." },
+  { name: "iO Theater improv show", category: "nightlife", cost: "paid", neighborhood: "Wrigleyville", tip: "More experimental than Second City. Shows are short and easy to follow." },
+  { name: "Ping Tom Memorial Park", category: "outdoors", cost: "free", neighborhood: "Chinatown", tip: "Beautiful riverfront park, usually way less crowded than the lakefront. Grab dim sum after." },
+  { name: "Portillo's run", category: "food", cost: "paid", neighborhood: "River North", tip: "Chicago dogs and Italian beef. Non-negotiable summer ritual." },
+  { name: "Garfield Park Conservatory", category: "culture", cost: "free", neighborhood: "Garfield Park", tip: "One of the largest public conservatories in the US. Stunning and air-conditioned." },
+  { name: "Lakefront Trail bike ride", category: "outdoors", cost: "free", neighborhood: "Lakefront", tip: "18 miles of trail. Divvy works great — start at Millennium Park and go north or south." },
+  { name: "Rooftop bar hop", category: "nightlife", cost: "paid", neighborhood: "River North / West Loop", tip: "Offshore, Cindy's, and Nuveau are all solid. Start early to get deck space." },
+  { name: "Starved Rock State Park", category: "day-trip", cost: "free", neighborhood: "Utica (90 min away)", tip: "Go on a weekday if possible — canyon trails get packed on summer weekends." },
+  { name: "Chicago Botanic Garden", category: "day-trip", cost: "paid", neighborhood: "Glencoe (35 min north)", tip: "Parking costs more than admission. Take the Metra UP-N line and walk in free." },
+  { name: "Harold Washington Library rooftop garden", category: "culture", cost: "free", neighborhood: "The Loop", tip: "Most people skip this. The 9th floor winter garden is stunning and almost always empty." },
+  { name: "Bowling at Diversey Rock N Bowl", category: "nightlife", cost: "paid", neighborhood: "Lincoln Park", tip: "Retro lanes, good drinks, open late. No need to reserve if you go before 8." },
+  { name: "Rooftop Cinema Club", category: "nightlife", cost: "paid", neighborhood: "Fulton Market", tip: "Outdoor movies on the 5th floor of The Emily Hotel with wireless headphones and city views. Book ahead." },
+  { name: "Promontory Point", category: "outdoors", cost: "free", neighborhood: "Hyde Park", tip: "An underrated lakefront gem — stone promontory with great skyline views and way fewer people than the main beaches." },
+  { name: "Osaka Garden at Jackson Park", category: "outdoors", cost: "free", neighborhood: "Hyde Park", tip: "A hidden Japanese garden on a lagoon island. Incredibly peaceful. Almost nobody goes here." },
+
+  // ── SEASONAL ─────────────────────────────────────────────────────────
+  // Enters pool 7 days before startDate; drops out after endDate.
+  { name: "Ribfest Chicago", category: "food", cost: "paid", neighborhood: "North Center", tip: "20+ BBQ vendors competing for the title. Ribs, whiskey tastings, live music.", startDate: "2026-06-05", endDate: "2026-06-07" },
+  { name: "Midsommarfest", category: "culture", cost: "free", neighborhood: "Andersonville", tip: "Swedish-American neighborhood street festival. Great food vendors, very local crowd.", startDate: "2026-06-12", endDate: "2026-06-14" },
+  { name: "Old Town Art Fair", category: "culture", cost: "free", neighborhood: "Old Town", tip: "Over 200 artists take over the neighborhood streets. The food vendors are worth it alone.", startDate: "2026-06-13", endDate: "2026-06-14" },
+  { name: "Tuesdays on the Terrace at MCA", category: "culture", cost: "free", neighborhood: "Streeterville", tip: "Free jazz every Tuesday at the Museum of Contemporary Art's rooftop garden through August 25.", startDate: "2026-06-16", endDate: "2026-08-25" },
+  { name: "Taste of Randolph", category: "food", cost: "paid", neighborhood: "West Loop", tip: "Restaurant row becomes a street fest. Some of the best food of the summer, all in one block.", startDate: "2026-06-19", endDate: "2026-06-21" },
+  { name: "Chicago Pride Fest", category: "culture", cost: "free", neighborhood: "Northalsted", tip: "Neighborhood street festival in Boystown the weekend before the parade. More low-key than parade day.", startDate: "2026-06-20", endDate: "2026-06-21" },
+  { name: "Chicago Taco & Tequila Fest", category: "food", cost: "paid", neighborhood: "Citywide", tip: "Self-explanatory. Check the venue — it moves around each year.", startDate: "2026-06-26", endDate: "2026-06-27" },
+  { name: "Shakespeare in the Parks", category: "culture", cost: "free", neighborhood: "Citywide (various parks)", tip: "Free outdoor performances weekends through Aug 2. Bring a blanket and snacks.", startDate: "2026-06-26", endDate: "2026-08-02" },
+  { name: "Chicago Pride Parade", category: "culture", cost: "free", neighborhood: "Boystown / Lakeview", tip: "One of the largest Pride parades in the country. Get there early for a good spot on the route.", startDate: "2026-06-28", endDate: "2026-06-28" },
+  { name: "Millennium Park Film Series", category: "culture", cost: "free", neighborhood: "Millennium Park", tip: "Free outdoor movies on Tuesday nights through August 18. Bring a blanket.", startDate: "2026-06-30", endDate: "2026-08-18" },
+  { name: "Chicago SummerDance", category: "culture", cost: "free", neighborhood: "Grant Park / city parks", tip: "Free outdoor dancing all summer. They teach the style first, so no experience needed.", startDate: "2026-07-01", endDate: "2026-08-31" },
+  { name: "Taste of Chicago", category: "food", cost: "free", neighborhood: "Grant Park", tip: "Enormous food fest with vendors from all over the city. Free entry, pay per food ticket.", startDate: "2026-07-08", endDate: "2026-07-12" },
+  { name: "Silver Room Block Party", category: "culture", cost: "free", neighborhood: "Wicker Park", tip: "Local arts and culture block party. Very neighborhood, very Chicago.", startDate: "2026-07-18", endDate: "2026-07-18" },
+  { name: "Taste of Lincoln Avenue", category: "food", cost: "paid", neighborhood: "Lincoln Square", tip: "Local neighborhood food fest. More chill than the downtown stuff.", startDate: "2026-07-24", endDate: "2026-07-26" },
+  { name: "Chinatown Summer Fair", category: "culture", cost: "free", neighborhood: "Chinatown", tip: "Lion dances, live performances, and great food stalls. Walk to Ping Tom Park after.", startDate: "2026-07-25", endDate: "2026-07-26" },
+  { name: "Navy Pier Fireworks", category: "outdoors", cost: "free", neighborhood: "Navy Pier / Lakefront", tip: "Wednesdays and Saturdays through early September. Watch from the lakefront path or a rooftop for free.", startDate: "2026-05-27", endDate: "2026-09-05" },
+  { name: "Jazzin' at the Shedd", category: "nightlife", cost: "paid", neighborhood: "Museum Campus", tip: "Wednesdays through September 2. Live jazz, cocktails, and the aquarium after dark. Arrive early for a terrace spot.", startDate: "2026-05-27", endDate: "2026-09-02" },
+  { name: "Chicago Italian Beef Fest", category: "food", cost: "paid", neighborhood: "Citywide", tip: "A celebration of Chicago's most underrated sandwich. Multiple vendors, one mission.", startDate: "2026-07-31", endDate: "2026-08-02" },
+  { name: "Northalsted Market Days", category: "culture", cost: "free", neighborhood: "Boystown", tip: "One of the biggest street festivals in the Midwest. Two stages, great people-watching.", startDate: "2026-08-07", endDate: "2026-08-09" },
+  { name: "Chicago Air and Water Show", category: "outdoors", cost: "free", neighborhood: "North Avenue Beach", tip: "One of the largest free air shows in the country. Get to the beach early — it fills up fast.", startDate: "2026-08-14", endDate: "2026-08-16" },
+  { name: "Lakeview Taco Fest", category: "food", cost: "paid", neighborhood: "Lakeview", tip: "Neighborhood taco competition. Multiple styles, multiple blocks.", startDate: "2026-08-21", endDate: "2026-08-23" },
+  { name: "Taste of Greektown", category: "food", cost: "paid", neighborhood: "Greektown", tip: "Gyros, baklava, and ouzo on Halsted. One of the city's most underrated food fests.", startDate: "2026-08-28", endDate: "2026-08-30" },
+];
+
+// ─── CATEGORY → TAG STYLE ─────────────────────────────────────────────────
+const categoryStyle = { outdoors: 'green', food: 'accent', culture: '', sports: '', nightlife: 'accent', 'day-trip': 'green' };
+
+// ─── DOM REFS ─────────────────────────────────────────────────────────────
+const card     = document.getElementById('cs-card');
+const idle     = document.getElementById('cs-idle');
+const nameEl   = document.getElementById('cs-name');
+const tagsEl   = document.getElementById('cs-tags');
+const tipEl    = document.getElementById('cs-tip');
+const spinBtn  = document.getElementById('cs-spin');
+const againBtn = document.getElementById('cs-again');
+
+let lastIdx = -1, rolling = false;
+
+function activePool() { return activities.filter(isActive); }
+
+function pickRandom(pool) {
+  let idx;
+  do { idx = Math.floor(Math.random() * pool.length); }
+  while (pool.length > 1 && pool[idx] === activities[lastIdx]);
+  lastIdx = activities.indexOf(pool[idx]);
+  return pool[idx];
+}
+
+function clearResult() {
+  nameEl.classList.remove('show');
+  tagsEl.classList.remove('show');
+  tipEl.classList.remove('show');
+}
+
+function showActivity(a) {
+  idle.style.display = 'none';
+  nameEl.textContent = a.name;
+  nameEl.classList.add('show');
+
+  tagsEl.innerHTML = '';
+  [
+    { text: a.category,     cls: categoryStyle[a.category] || '' },
+    { text: a.neighborhood, cls: '' },
+    { text: a.cost,         cls: a.cost === 'free' ? 'green' : '' },
+  ].forEach(t => {
+    const s = document.createElement('span');
+    s.className = ('cs-tag ' + t.cls).trim();
+    s.textContent = t.text;
+    tagsEl.appendChild(s);
+  });
+
+  // Date badge for seasonal events
+  const dl = dateLabel(a);
+  if (dl) {
+    const dt = document.createElement('span');
+    dt.className = 'cs-tag date';
+    dt.textContent = '\uD83D\uDCC5 ' + dl;
+    tagsEl.appendChild(dt);
+  }
+
+  tagsEl.classList.add('show');
+  tipEl.textContent = a.tip;
+  tipEl.classList.add('show');
+}
+
+function spin() {
+  if (rolling) return;
+  const pool = activePool();
+  if (pool.length === 0) {
+    idle.style.display = '';
+    idle.textContent = 'Check back later — more events coming.';
+    return;
+  }
+
+  rolling = true;
+  spinBtn.disabled = true;
+  againBtn.classList.remove('show');
+  clearResult();
+  card.classList.add('rolling');
+
+  let cycles = 0;
+  const iv = setInterval(() => {
+    const t = pickRandom(pool);
+    idle.style.display = 'none';
+    nameEl.textContent = t.name;
+    nameEl.classList.add('show');
+    tagsEl.classList.remove('show');
+    tipEl.classList.remove('show');
+    if (++cycles >= 13) {
+      clearInterval(iv);
+      card.classList.remove('rolling');
+      const chosen = pickRandom(pool);
+      clearResult();
+      setTimeout(() => {
+        showActivity(chosen);
+        spinBtn.textContent = 'Try again \u2192';
+        spinBtn.disabled = false;
+        againBtn.classList.add('show');
+        rolling = false;
+      }, 100);
+    }
+  }, 75);
+}
+
+spinBtn.addEventListener('click', spin);
+againBtn.addEventListener('click', spin);
+</script>
