@@ -710,14 +710,77 @@ img { max-width: 100%; height: auto; }
   }
 }
 
-/* ============================================================
-   TYPOGRAPHY ENHANCEMENTS
-   Ensure bold tags (<strong>, <b>) stand out distinctly against 
-   the dark background by forcing the heavier font weight and 
-   using the brightest text variable (--ink).
-   ============================================================ */
+
+/* ── TYPOGRAPHY ENHANCEMENTS ── */
 .post-body strong, .post-body b,
 .page-inner strong, .page-inner b {
   font-weight: 700;
   color: var(--ink); 
+}
+
+
+/* ── PRESS PAGE ── */
+.press-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  margin-top: 2rem;
+}
+
+.press-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.press-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.press-outlet-name {
+  font-family: var(--display);
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: -0.01em;
+}
+
+.press-content a {
+  font-size: 1.02rem;
+  line-height: 1.55;
+  color: var(--ink);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.press-content a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.press-meta {
+  margin-top: 0.45rem;
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+  line-height: 1.5;
+}
+
+@media (min-width: 768px) {
+  .press-item {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .press-outlet-name {
+    flex: 0 0 145px;
+    padding-top: 0.1rem;
+  }
+
+  .press-content {
+    flex: 1 1 auto;
+  }
 }
