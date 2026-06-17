@@ -1,4 +1,8 @@
-# I Built a Claude Skill to Log My Job Search Notes So I Don't Have To
+---
+layout: post
+title: I Built a Claude Skill to Log My Job Search Notes So I Don't Have To
+tags: [tools]
+---
 
 I am on the job market. Not right now — I finish my PhD in 2027 — but soon enough that I needed to start building the spreadsheet that everyone says you need and nobody actually maintains past month two.
 
