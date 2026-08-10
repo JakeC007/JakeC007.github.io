@@ -53,7 +53,8 @@ title: Research — Jake Chanenson
             <span class="r-chip">Workshop</span>
           </div>
           <div class="r-pubs">
-            <div class="r-pub"><span class="cv-badge badge-gold">CHI '26</span><span class="r-pub-title">Developmentally Safe Generative AI Environments for Youth</span><a href="https://yamanyume.github.io/youthsafety/" class="r-pub-link">Workshop Site</a></div>
+            <div class="r-pub"><span class="cv-badge badge-gold">CHI '26</span><span class="r-pub-title">Developmentally Safe Generative AI Environments for Youth</span><a href="https://www.youthaisafety.com/workshops/chi2026/index.html" class="r-pub-link">Workshop Site</a></div>
+			<div class="r-pub"><span class="cv-badge badge-gold">ASSETS '26</span><span class="r-pub-title">Safe and Accessible AI for Youth with Disabilities and Neurodivergence</span><a href="https://www.youthaisafety.com/workshops/2026_assets/index.html" class="r-pub-link">Workshop Site</a></div>
             <div class="r-pub"><span class="cv-badge badge-gold">FAccT '26</span><span class="r-pub-title">Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice</span></div>
           </div>
         </div>
