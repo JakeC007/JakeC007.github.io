@@ -190,22 +190,70 @@ title: CV — Jake Chanenson
       </div>
     </div>
 
-    <div class="cv-section">
-      <div class="cv-section-title">Workshops</div>
-      <div class="cv-entries">
-        <div class="cv-entry">
-          <div class="cv-entry-top">
-            <div class="cv-entry-title">Developmentally Safe Generative AI Environments for Youth</div>
-            <span class="cv-badge badge-gold">CHI '26</span>
-          </div>
-          <div class="cv-entry-sub">CHI 2026 &middot; Barcelona, Spain &middot; April 2026</div>
-          <div class="cv-entry-desc">Co-organized a workshop bringing together researchers, designers, educators, and policymakers to examine how generative AI shapes youth development and to co-create frameworks for safe, inclusive AI experiences for children.</div>
-          <div class="cv-entry-links">
-            <a href="https://yamanyume.github.io/youthsafety/" class="cv-entry-link">Workshop Site</a>
-          </div>
+<div class="cv-section">
+  <div class="cv-section-title">Workshops</div>
+
+  <div class="cv-entries">
+    <div class="cv-entry">
+      <div class="cv-entry-top">
+        <div class="cv-entry-title">
+          Developmentally Safe Generative AI Environments for Youth
         </div>
+        <span class="cv-badge badge-gold">CHI '26</span>
+      </div>
+
+      <div class="cv-entry-sub">
+        CHI 2026 &middot; Barcelona, Spain &middot; April 2026
+      </div>
+
+      <div class="cv-entry-desc">
+        Co-organized a workshop bringing together researchers, designers,
+        educators, and policymakers to examine how generative AI shapes youth
+        development and to co-create frameworks for safe, inclusive AI
+        experiences for children.
+      </div>
+
+      <div class="cv-entry-links">
+        <a
+          href="https://www.youthaisafety.com/workshops/chi2026/index.html"
+          class="cv-entry-link"
+        >
+          Workshop Site
+        </a>
       </div>
     </div>
+
+    <div class="cv-entry">
+      <div class="cv-entry-top">
+        <div class="cv-entry-title">
+          Safe and Accessible AI for Youth with Disabilities and Neurodivergence
+        </div>
+        <span class="cv-badge badge-gold">ASSETS '26</span>
+      </div>
+
+      <div class="cv-entry-sub">
+        ASSETS 2026 &middot; Virtual &middot; October 2026
+      </div>
+
+      <div class="cv-entry-desc">
+        Co-organizing a workshop that brings together researchers,
+        practitioners, designers, educators, advocates, and youth to define
+        accessible AI safeguards and develop a shared research agenda for
+        disabled and neurodivergent youth.
+      </div>
+
+      <div class="cv-entry-links">
+        <a
+          href="https://www.youthaisafety.com/workshops/2026_assets/index.html"
+          class="cv-entry-link"
+        >
+          Workshop Site
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 
     <div class="cv-section">
       <div class="cv-section-title">Selected Talks</div>
