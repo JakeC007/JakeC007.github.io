@@ -176,6 +176,21 @@ title: CV — Jake Chanenson
     </div>
 
     <div class="cv-section">
+      <div class="cv-section-title">Book Chapters</div>
+      <div class="cv-entries">
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-pub-num">B1</div>
+            <div class="cv-entry-title">Operationalizing the GKC-CI Framework for AI-Powered Plagiarism Detection in K&ndash;12 Environments</div>
+            <span class="cv-badge badge-blue">Forthcoming 2027</span>
+          </div>
+          <div class="cv-entry-sub">In <em>Governing Educational Technology in Schools and Universities</em>, K. M. L. Jones, R. B. Reynolds, and Y. Shvartzshnaider, eds. &middot; Cambridge University Press</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, B. Sloane</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="cv-section">
       <div class="cv-section-title">Working Papers</div>
       <div class="cv-entries">
         <div class="cv-entry">
@@ -232,7 +247,7 @@ title: CV — Jake Chanenson
       </div>
 
       <div class="cv-entry-sub">
-        ASSETS 2026 &middot; Virtual &middot; October 2026
+        ASSETS 2026 &middot; Porto, Portugal &middot; October 2026
       </div>
 
       <div class="cv-entry-desc">

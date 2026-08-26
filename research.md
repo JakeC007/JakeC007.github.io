@@ -37,6 +37,7 @@ title: Research — Jake Chanenson
           <div class="r-pubs">
             <div class="r-pub"><span class="cv-badge badge-gold">CHI '23</span><span class="cv-badge badge-green">&#127941; Honorable Mention</span><span class="r-pub-title">Uncovering Privacy and Security Challenges In K&ndash;12 Schools</span><a href="https://doi.org/10.1145/3544548.3580777" class="r-pub-link">ACM DL</a></div>
             <div class="r-pub"><span class="cv-badge badge-blue">Working Paper</span><span class="r-pub-title">Exploring Data Trusts as a Way to Safeguard K&ndash;12 Student Data</span><span class="r-pub-meta-note">PLSC 2024</span></div>
+            <div class="r-pub"><span class="cv-badge badge-blue">Book Chapter</span><span class="r-pub-title">Operationalizing the GKC-CI Framework for AI-Powered Plagiarism Detection in K&ndash;12 Environments</span><span class="r-pub-meta-note">Cambridge University Press, forthcoming 2027</span></div>
             <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">High school students' privacy perceptions of EdTech; K&ndash;12 cybersecurity concerns</span></div>
           </div>
         </div>
