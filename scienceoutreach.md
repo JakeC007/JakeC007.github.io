@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Science Outreach — Jake Chanenson
+title: "Science Outreach & Teaching"
+share-description: "Teaching and public-facing work by Jake Chanenson, including high school computer science instruction and science outreach."
 ---
 
 <div class="page-content">

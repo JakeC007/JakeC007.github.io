@@ -1,55 +1,134 @@
 # robots.txt — jakec007.github.io
 # Content licensed CC BY-NC-SA 4.0
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
+#
+# Policy: do not train on this site; do answer questions about it.
+#
+# AI vendors now run separate agents for separate purposes. Training crawlers
+# ingest pages into model weights. Search crawlers index pages so they can be
+# cited in answers. User agents fetch a page only because a person asked about
+# it. This file blocks the first category and allows the other two.
 
-# ── AI training crawlers ──────────────────────────────
 
-# OpenAI
+# ══ BLOCKED: model training crawlers ══════════════════
+
+# OpenAI — foundation model training
 User-agent: GPTBot
 Disallow: /
 
-User-agent: ChatGPT-User
-Disallow: /
-
-# Google AI training (distinct from Googlebot search crawler)
+# Google — AI training and Gemini grounding (distinct from Googlebot search)
 User-agent: Google-Extended
 Disallow: /
 
-# Anthropic
-User-agent: anthropic-ai
-Disallow: /
-
+# Anthropic — model training
 User-agent: ClaudeBot
 Disallow: /
 
+# Anthropic — legacy/retired agent names, kept for safety
+User-agent: anthropic-ai
+Disallow: /
+
 User-agent: Claude-Web
+Disallow: /
+
+# Apple — AI training (distinct from Applebot search crawler)
+User-agent: Applebot-Extended
+Disallow: /
+
+# Meta — AI training (distinct from FacebookBot link previews)
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: FacebookBot
 Disallow: /
 
 # Amazon
 User-agent: Amazonbot
 Disallow: /
 
-# Meta AI training (distinct from FacebookBot which handles link previews)
-User-agent: meta-externalagent
-Disallow: /
-
 # ByteDance / TikTok
 User-agent: Bytespider
-Disallow: /
-
-# Apple AI training (distinct from Applebot search crawler)
-User-agent: Applebot-Extended
 Disallow: /
 
 # Cohere
 User-agent: cohere-ai
 Disallow: /
 
-# Perplexity
-User-agent: PerplexityBot
+User-agent: cohere-training-data-crawler
 Disallow: /
 
-# ── Allow all standard crawlers (search indexing) ────
+# Common Crawl — a primary upstream source of LLM training corpora
+User-agent: CCBot
+Disallow: /
+
+# Other training crawlers
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Kangaroo Bot
+Disallow: /
+
+
+# ══ ALLOWED: user-initiated fetches ═══════════════════
+# These fire when a person asks an assistant about this page. Blocking them
+# means a hiring committee that asks an assistant "who is Jake Chanenson"
+# gets nothing back.
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+
+# ══ ALLOWED: AI search indexing ═══════════════════════
+# These build the retrieval indexes that answer engines cite from.
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+
+# ══ ALLOWED: everything else ══════════════════════════
+
 User-agent: *
 Allow: /
 

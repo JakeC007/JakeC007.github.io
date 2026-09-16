@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About — Jake Chanenson
+title: "About — AI Safety for Young People"
+share-description: "Jake Chanenson is a CS PhD researcher at the University of Chicago working on AI safety for young people, with a Master of Legal Studies from UChicago Law. Children's privacy, AI governance for minors, and law-informed HCI."
 ---
 
 <div class="page-content">
@@ -8,7 +9,7 @@ title: About — Jake Chanenson
 
     <div class="page-header">
       <h1 class="page-title">About Me</h1>
-      <p class="page-subtitle">Children's Privacy Scholar &middot; HCI &middot; University of Chicago</p>
+      <p class="page-subtitle">AI Safety for Young People &middot; Children's Privacy Scholar &middot; University of Chicago</p>
     </div>
 
 <div class="about-body">
@@ -59,20 +60,22 @@ title: About — Jake Chanenson
         
         <div class="about-intro-text">
           <p style="margin-top: 0;">
-            I'm a CS PhD student at the University of Chicago, working with
-            <a href="https://www.marshini.net/">Marshini Chetty</a> at the
-            <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>.
-            My research specializes in <strong>law-informed HCI</strong> at the intersection of <strong>children's privacy,
-            EdTech, and AI safety for youth</strong>, asking what it actually takes to build
-            technology that is safe for young people, and what it costs when we get it wrong.
+            I study how to make <strong>AI systems safer for young people</strong>. I'm a CS PhD researcher at the
+            University of Chicago, working with <a href="https://www.marshini.net/">Marshini Chetty</a> at the
+            <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>, and my work asks three
+            questions: <strong>who controls young people's information</strong>, <strong>how institutions govern
+            AI use</strong>, and <strong>when young people actually want AI assistance</strong>. I combine
+            empirical HCI, computational methods, and legal analysis to guide the design and governance of
+            these systems.
           </p>
           <p>
-            Children's privacy is the throughline of my work. Who collects data about children,
-            under what conditions, and with what consequences? That question has led me naturally
-            into AI safety for youth: as generative AI moves into classrooms and homes, the same
-            structural questions about oversight, accountability, and design responsibility apply,
-            with even higher stakes. My current projects examine how youth experience AI and EdTech,
-            and how large language models can help automate privacy policy analysis at scale.
+            <strong>Children's privacy is the throughline.</strong> Who collects data about children, under what
+            conditions, and with what consequences? That question is the foundation of the rest, and it is where
+            AI governance for minors is being written first: through COPPA rulemaking, state chatbot statutes,
+            EdTech procurement, and district policy. Safety claims about a youth-facing AI product all reduce to
+            an answer about who holds the data and who is accountable when it moves. I also organize a
+            <a href="https://www.youthaisafety.com/">workshop series on youth AI safety</a> at ACM CHI and ASSETS,
+            building the research community around developmentally safe AI for young people.
           </p>
         </div>
 
@@ -93,8 +96,8 @@ title: About — Jake Chanenson
         I am expecting to finish my PhD in spring 2027. My work sits at the intersection of research,
         law, and policy, and I am interested in positions across <strong>academia, industry, and government</strong>
         where that combination is an asset.
-        If you are working on children's privacy, AI safety for youth, or usable
-        privacy more broadly, I would love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
+        If you are working on AI safety for young people, children's privacy, or AI governance for minors,
+        I would love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
       </p>
 
 
@@ -110,6 +113,10 @@ title: About — Jake Chanenson
       <div class="about-stat">
         <span class="about-stat-num">PETS '25</span>
         <span class="about-stat-label">LLMs + privacy policies</span>
+      </div>
+      <div class="about-stat">
+        <span class="about-stat-num">CHI + ASSETS</span>
+        <span class="about-stat-label">Youth AI safety workshop organizer</span>
       </div>
       <div class="about-stat">
         <span class="about-stat-num">Google</span>

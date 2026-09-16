@@ -181,6 +181,7 @@ img { max-width: 100%; height: auto; }
 }
 .cards-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
 .card-wide { grid-column: span 2; }
+.card-full { grid-column: span 3; }
 
 .nav-card {
   background: var(--bg2); border: 1px solid var(--border); border-radius: 14px;
@@ -510,6 +511,7 @@ img { max-width: 100%; height: auto; }
   .cards-section { padding: 0 1.5rem 4rem; }
   .cards-grid { grid-template-columns: 1fr; }
   .card-wide { grid-column: span 1; }
+  .card-full { grid-column: span 1; }
 
   .page-inner { padding: 3rem 1.5rem 4rem; }
   .site-footer { padding: 2rem 1.5rem; }

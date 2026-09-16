@@ -1,10 +1,48 @@
 # Jake Chanenson — jakec007.github.io
 
+# ── Site identity ─────────────────────────────────────
+# `url` is required by jekyll-sitemap and by absolute_url (og:url, JSON-LD).
+# Without it the sitemap emits relative paths and Google rejects it.
+url: "https://jakec007.github.io"
+baseurl: ""
+
 title: Jake Chanenson
-description: "CS PhD Student at the University of Chicago researching HCI, childrens' privacy, and AI safety."
+tagline: "AI Safety for Young People"
 author: G. Jake Chanenson
 
-rss-description: "Jake Chanenson — HCI researcher working on childrens' privacy and AI safety."
+description: "Jake Chanenson researches AI safety for young people at the University of Chicago: who controls children's information, how institutions govern AI use, and when young people actually want AI assistance."
+
+rss-description: "Jake Chanenson — research on AI safety for young people, children's privacy, and AI governance for minors."
+
+keywords: "youth AI safety, AI safety for young people, child safety in AI systems, AI governance for minors, children's privacy, EdTech privacy, K-12 student data privacy, COPPA, FERPA, human-computer interaction"
+
+# Default social card image (used for og:image / twitter:image)
+og-image: "/assets/img/JC_Profile_square.jpeg"
+
+# ── Identity links (feed JSON-LD sameAs) ──────────────
+profile-links:
+  - "https://scholar.google.com/citations?user=t1_X4-YAAAAJ&hl=en"
+  - "https://github.com/JakeC007"
+  - "https://hci.social/@jchanen1"
+  - "https://bsky.app/profile/jchanenson.bsky.social"
+  - "https://www.youthaisafety.com/"
+
+affiliation: "University of Chicago"
+affiliation-url: "https://www.uchicago.edu/"
+lab: "Amyoli Internet Research Lab"
+lab-url: "https://airlab.cs.uchicago.edu/"
+
+expertise:
+  - "AI safety for young people"
+  - "Youth AI safety"
+  - "Child safety in AI systems"
+  - "AI governance for minors"
+  - "Children's privacy"
+  - "Educational technology privacy"
+  - "K-12 student data protection"
+  - "Human-computer interaction"
+  - "Usable privacy and security"
+  - "Privacy law and policy"
 
 social-network-links:
   email: "jchanen1@uchicago.edu"
@@ -39,7 +77,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
+      layout: "default"
 
 exclude:
   - CHANGELOG.md

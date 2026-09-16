@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Reading Groups
+layout: default
+title: "Reading Groups — Critical Computing & Society"
+share-description: "Two reading groups Jake Chanenson co-organizes at the intersection of computing, law, and society: Culture, Computation and Society, and Lib/Lab SE."
 css: /assets/css/blue_blockquote.css 
 ---
 

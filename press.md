@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Press — Jake Chanenson
+title: "Press — Children's Privacy & AI Safety"
+share-description: "Media coverage of Jake Chanenson's research on AI safety for young people, children's privacy, EdTech, and student data, including USA Today, The Markup, EdSurge, and CalMatters. Available for interviews and background."
 ---
 
 <div class="page-content">
@@ -14,8 +15,8 @@ title: Press — Jake Chanenson
     <div class="about-body">
 
       <p style="margin-top: 0;">
-        My research on children's privacy, EdTech, online tracking, cybersecurity,
-        and AI governance has been featured in national and education-focused media outlets.
+        My research on AI safety for young people, children's privacy, EdTech, online tracking,
+        and AI governance for minors has been featured in national and education-focused media outlets.
         This coverage has focused primarily on how schools and technology platforms collect,
         use, and secure student data, and what accountability should look like when those
         systems fail.
@@ -23,8 +24,8 @@ title: Press — Jake Chanenson
 
       <p>
         For media inquiries, interview requests, or background conversations related to
-        children's privacy, AI safety for youth, educational technology, or privacy policy,
-        please <a href="mailto:jchanen1@uchicago.edu">get in touch</a>.
+        AI safety for young people, children's privacy, AI governance for minors, educational
+        technology, or privacy policy, please <a href="mailto:jchanen1@uchicago.edu">get in touch</a>.
       </p>
 
       <div class="about-site-section">

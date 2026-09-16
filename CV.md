@@ -1,6 +1,7 @@
 ---
 layout: default
-title: CV — Jake Chanenson
+title: "CV — AI Safety & Children's Privacy Researcher"
+share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) and Master of Legal Studies at the University of Chicago. Publications at ACM CHI, FAccT, and PETS on youth AI safety, children's privacy, and AI governance for minors."
 ---
 
 <div class="page-content">
@@ -9,7 +10,7 @@ title: CV — Jake Chanenson
     <div class="cv-header">
       <!-- <div class="cv-abbreviated-note">Abbreviated CV &mdash; full version available on request</div> -->
       <h1 class="cv-name">G. Jake <em>Chanenson</em></h1>
-      <div class="cv-role">Children's Privacy Scholar &middot; HCI &middot; AI Safety for Youth</div>
+      <div class="cv-role">AI Safety for Young People &middot; Children's Privacy Scholar &middot; Law-Informed HCI</div>
       <div class="cv-contact">
         <a href="mailto:jchanen1@uchicago.edu">jchanen1@uchicago.edu</a>
         <span>&middot;</span>
@@ -37,7 +38,7 @@ title: CV — Jake Chanenson
             <span class="edu-date">Expected Spring 2027</span>
           </div>
           <div class="edu-degree">Computer Science Ph.D.</div>
-          <div class="edu-note">Children's privacy, AI safety for youth, usable privacy, HCI &middot; Advisor: Marshini Chetty</div>
+          <div class="edu-note">AI safety for young people, children's privacy, AI governance for minors, HCI &middot; Advisor: Marshini Chetty</div>
         </div>
         <div class="edu-item">
           <div class="edu-row">
@@ -55,7 +56,7 @@ title: CV — Jake Chanenson
       <div class="cv-entries">
         <div class="cv-entry">
           <div class="cv-entry-top">
-            <div class="cv-entry-title">Children's Privacy and AI Safety Research</div>
+            <div class="cv-entry-title">AI Safety for Young People &amp; Children's Privacy Research</div>
             <span class="cv-badge badge-blue">Lead Researcher</span>
           </div>
           <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Winter 2025 &ndash; Present</div>
