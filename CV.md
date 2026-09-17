@@ -10,7 +10,7 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
     <div class="cv-header">
       <!-- <div class="cv-abbreviated-note">Abbreviated CV &mdash; full version available on request</div> -->
       <h1 class="cv-name">G. Jake <em>Chanenson</em></h1>
-      <div class="cv-role">AI Safety for Young People &middot; Children's Privacy Scholar &middot; Law-Informed HCI</div>
+      <div class="cv-role" data-copy="CV-ROLE">AI Safety for Young People &middot; Children's Privacy Scholar &middot; Law-Informed HCI</div>
       <div class="cv-contact">
         <a href="mailto:jchanen1@uchicago.edu">jchanen1@uchicago.edu</a>
         <span>&middot;</span>

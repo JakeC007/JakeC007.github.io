@@ -9,7 +9,7 @@ share-description: "Research on AI safety for young people: who controls their i
 
     <div class="page-header">
       <h1 class="page-title">Research</h1>
-      <p class="page-subtitle">I study how to make AI systems safer for young people. The work is organized around three questions. For full citations of each paper&mdash;including the names of my many wonderful collaborators&mdash;please see the CV tab.</p>
+      <p class="page-subtitle" data-copy="RESEARCH-SUBTITLE">I study how to make AI systems safer for young people. The work is organized around three questions. For full citations of each paper&mdash;including the names of my many wonderful collaborators&mdash;please see the CV tab.</p>
     </div>
 
     <div class="tabs-bar">
@@ -24,13 +24,14 @@ share-description: "Research on AI safety for young people: who controls their i
     <!-- ===== RESEARCHERS PANEL ===== -->
     <div class="panel visible" id="researchers">
 
-      <div class="p-intro">
-        Making AI safe for young people is a question about power before it is a question about models. Three things
-        determine whether a system is safe for a young person: <strong>who controls their information</strong>,
-        <strong>how the institutions around them govern AI use</strong>, and <strong>whether anyone asked them what they
-        wanted</strong>. My research takes these in turn, using empirical HCI and computational methods, read through
-        privacy law. Children's privacy is the throughline: it is where AI governance is being written first, and where
-        the distance between legal compliance and actual protection is easiest to measure.
+      <div class="p-intro" data-copy="RESEARCH-INTRO-RESEARCHERS">
+        My research examines how control over data and institutional decisions affect AI safety for young
+        people. I ask <strong>who controls their information</strong>, <strong>how the institutions around them
+        govern AI use</strong>, and <strong>what young people want from these systems</strong>. I study these
+        questions using empirical HCI, computational methods, and legal analysis. My work in children's privacy
+        provides a foundation for examining how legal protections translate into the systems young people use
+        and where those protections fall short. I discuss this approach to youth AI safety <a
+        href="/ai-safety">here</a>.
       </div>
 
       <div class="r-projects">
@@ -38,7 +39,14 @@ share-description: "Research on AI safety for young people: who controls their i
         <div class="r-project featured">
           <div class="r-project-label">Pillar 1 &middot; Active</div>
           <div class="r-project-title">Who Controls Young People's Information</div>
-          <div class="r-project-desc">Before an AI system can be safe for a young person, someone has to answer who holds their data and under what terms. This thread audits what is actually collected about children in K&ndash;12 settings, how EdTech and AI vendors behave relative to their stated practices, and which oversight structures exist. Methods span interviews, surveys, privacy policy auditing, and LLM-assisted analysis at scale. The finding that organizes the rest of my work: collection is pervasive, oversight is thin, and almost nobody in the chain of custody can say what leaves the building.</div>
+          <div class="r-project-desc" data-copy="RESEARCH-PILLAR-1-DESC">
+            This thread examines what data is collected about children in K&ndash;12 settings, who holds it, and
+            under what terms. I study how EdTech and AI vendors' practices compare with their stated policies and
+            what oversight is available to schools. Methods span interviews, surveys, privacy policy auditing, and
+            LLM-assisted analysis at scale. Across these projects I have found that collection is extensive while
+            oversight is limited, and that schools are rarely able to account for what student data leaves their
+            systems or how the providers they depend on use it.
+          </div>
           <div class="r-chips">
             <span class="r-chip">Empirical HCI</span>
             <span class="r-chip">Privacy Auditing</span>
@@ -57,7 +65,13 @@ share-description: "Research on AI safety for young people: who controls their i
         <div class="r-project featured">
           <div class="r-project-label">Pillar 2 &middot; Active</div>
           <div class="r-project-title">How Institutions Govern AI Use</div>
-          <div class="r-project-desc">Young people rarely meet AI on their own terms. They meet it through a school district's acceptable-use policy, a vendor contract, a teacher's plagiarism detector, or a platform's age-gating rule. This thread examines how those institutions actually write and enforce AI rules, what assumptions the rules encode, and who bears the cost when they are wrong. I use the Governing Knowledge Commons and Contextual Integrity (GKC-CI) framework to make institutional norms legible and testable rather than assumed.</div>
+          <div class="r-project-desc" data-copy="RESEARCH-PILLAR-2-DESC">
+            School districts' acceptable-use policies, vendor contracts, teachers' plagiarism detectors, and
+            platforms' age-gating rules shape how young people encounter AI. This thread examines how those
+            institutions write and enforce AI rules, what assumptions the rules encode, and who bears the cost when
+            they are wrong. I use the Governing Knowledge Commons and Contextual Integrity (GKC-CI) framework to
+            examine how institutional rules reflect expectations about appropriate AI use and information sharing.
+          </div>
           <div class="r-chips">
             <span class="r-chip">AI Governance</span>
             <span class="r-chip">GKC-CI</span>
@@ -75,7 +89,13 @@ share-description: "Research on AI safety for young people: who controls their i
         <div class="r-project featured">
           <div class="r-project-label">Pillar 3 &middot; Active</div>
           <div class="r-project-title">When Young People Want AI Assistance</div>
-          <div class="r-project-desc">Policy about youth and AI is written almost entirely without youth input, which produces rules that misread what young people are doing and why. This thread supplies the missing input. My FAccT 2026 work with high school students shows that they hold detailed, defensible positions on when AI help is legitimate and when it is cheating, and that school AI policies routinely contradict those positions in ways that push use underground rather than making it safer. Treating youth preferences as evidence, rather than as a thing to be managed, changes what a good rule looks like.</div>
+          <div class="r-project-desc" data-copy="RESEARCH-PILLAR-3-DESC">
+            This thread examines young people's views on AI use and how those views compare with the policies that
+            govern it. My FAccT 2026 work with high school students shows how they distinguish legitimate AI
+            assistance from cheating, and how school AI policies can conflict with those distinctions and encourage
+            students to conceal their use. I examine what students' reasoning can tell us about how schools should
+            write and explain AI rules.
+          </div>
           <div class="r-chips">
             <span class="r-chip">Youth Voice</span>
             <span class="r-chip">Generative AI</span>
@@ -133,12 +153,13 @@ share-description: "Research on AI safety for young people: who controls their i
     <!-- ===== PRACTITIONERS PANEL ===== -->
     <div class="panel" id="practitioners">
 
-      <div class="p-intro">
-        I work on AI safety for young people from the governance side. The questions are empirical: I go into schools,
-        talk to students, and audit real systems, then read the results against what the law actually requires. Children's
-        privacy is where this lands first, because COPPA, FERPA, state chatbot statutes, and district policy are the
-        instruments already in force. If you work on children's online safety, EdTech procurement, AI governance for
-        minors, or youth provisions in AI rulemaking, the work below is directly relevant.
+      <div class="p-intro" data-copy="RESEARCH-INTRO-PRACTITIONERS">
+        I work on AI safety for young people from the governance side. I go into schools, talk to students, and
+        audit systems, then examine the results in relation to legal requirements. Much of this work concerns
+        children's privacy and the protections that apply to technology use in schools. If you work on
+        children's online safety, EdTech procurement, AI governance for minors, or youth provisions in AI
+        rulemaking, the work below bears directly on those decisions. <a href="/ai-safety">This page</a>
+        describes my approach to youth AI safety and the questions I think need more research.
       </div>
 
       <div class="section-label">Public Policy Comments</div>
@@ -164,14 +185,14 @@ share-description: "Research on AI safety for young people: who controls their i
         <div class="p-card">
           <div class="p-card-label">Pillar 1 &middot; Information Control</div>
           <button class="p-question p-accordion-toggle" aria-expanded="false">
-            Who actually controls student data, and does anyone in the chain know what leaves the building?
+            <span data-copy="RESEARCH-Q-1">Who controls student data, and how much can schools learn about where it goes?</span>
             <span class="p-accordion-chevron" aria-hidden="true">&#8964;</span>
           </button>
           <div class="p-accordion-body" hidden>
             <div class="p-answer">We studied privacy and security across K&ndash;12 public schools and found a consistent picture: data collection is pervasive, oversight is minimal, and most people responsible for protecting student data&mdash;teachers, administrators, even IT staff&mdash;have little visibility into what is collected or why. EdTech platforms routinely exceed their stated data practices. Schools lack the technical capacity to audit what vendors do. We also tested whether LLMs can carry the auditing burden at scale, and mapped where they fail.</div>
             <div class="p-sowhat">
               <div class="p-sowhat-label">Why it matters</div>
-              <div class="p-sowhat-text">COPPA and FERPA are a floor, not a ceiling, and the gap between legal compliance and real protection is wide. Every AI safety claim about a youth product rests on an answer to this question, and right now nobody can give one. This work informed our public comment to the FTC on the COPPA rulemaking and generated press coverage focused on education policy.</div>
+              <div class="p-sowhat-text">COPPA and FERPA are a floor, not a ceiling, and the gap between legal compliance and meaningful protection is wide. Every AI safety claim about a youth product rests on an answer to this question, and right now nobody can give one. This work informed our public comment to the FTC on the COPPA rulemaking and generated press coverage focused on education policy.</div>
             </div>
             <div class="p-coverage">
               <span class="p-coverage-label">Press:</span>
@@ -198,14 +219,20 @@ share-description: "Research on AI safety for young people: who controls their i
         <div class="p-card">
           <div class="p-card-label">Pillar 3 &middot; Youth Preferences</div>
           <button class="p-question p-accordion-toggle" aria-expanded="false">
-            When do young people actually want AI assistance, and why does nobody ask them?
+            <span data-copy="RESEARCH-Q-3">When do young people want AI assistance, and how should their preferences inform its design?</span>
             <span class="p-accordion-chevron" aria-hidden="true">&#8964;</span>
           </button>
           <div class="p-accordion-body" hidden>
             <div class="p-answer">Policy about youth and AI is made almost entirely without youth input. When you ask high school students directly, as we did for our FAccT 2026 paper, they turn out to hold detailed and defensible views about when AI help is legitimate and when it is cheating. Those views frequently contradict the policies written over them. Students are not asking for unrestricted access; they are asking for rules that track the distinctions they already make.</div>
             <div class="p-sowhat">
               <div class="p-sowhat-label">Why it matters</div>
-              <div class="p-sowhat-text">Youth preferences are the input that AI governance keeps leaving out, and leaving it out is why so many youth AI rules fail on contact. A policy that contradicts how students actually reason about AI does not stop the use; it drives it out of sight, which is the opposite of a safety outcome. Developmentally safe AI needs more than content filters. It needs design and rules that account for how young people learn, form identity, and assess risk, which means treating what they say as evidence.</div>
+              <div class="p-sowhat-text" data-copy="RESEARCH-SOWHAT-3">
+                When school AI policies conflict with how students reason about acceptable use, students may conceal
+                their use, making it harder to seek guidance or discuss problems. Young people's accounts can help
+                explain why a rule is difficult to follow and how it could better support their learning and safety.
+                Those perspectives also matter for designing AI systems that account for how young people learn, form
+                identity, and assess risk.
+              </div>
             </div>
           </div>
         </div>
@@ -213,7 +240,7 @@ share-description: "Research on AI safety for young people: who controls their i
         <div class="p-card">
           <div class="p-card-label">Related &middot; Online Harms</div>
           <button class="p-question p-accordion-toggle" aria-expanded="false">
-            What do people actually experience during a scam, and why does current support infrastructure fall short?
+            <span data-copy="RESEARCH-Q-4">What do people experience during a scam, and why does current support infrastructure fall short?</span>
             <span class="p-accordion-chevron" aria-hidden="true">&#8964;</span>
           </button>
           <div class="p-accordion-body" hidden>

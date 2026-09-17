@@ -10,8 +10,7 @@ title: Jake Chanenson
 tagline: "AI Safety for Young People"
 author: G. Jake Chanenson
 
-description: "Jake Chanenson researches AI safety for young people at the University of Chicago: who controls children's information, how institutions govern AI use, and when young people actually want AI assistance."
-
+description: "Jake Chanenson researches AI safety for young people at the University of Chicago, examining who controls children's information, how institutions govern AI use, and when young people want AI assistance."
 rss-description: "Jake Chanenson — research on AI safety for young people, children's privacy, and AI governance for minors."
 
 keywords: "youth AI safety, AI safety for young people, child safety in AI systems, AI governance for minors, children's privacy, EdTech privacy, K-12 student data privacy, COPPA, FERPA, human-computer interaction"
@@ -80,6 +79,7 @@ defaults:
       layout: "default"
 
 exclude:
+  - _copy/
   - CHANGELOG.md
   - CNAME
   - Gemfile

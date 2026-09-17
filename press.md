@@ -9,12 +9,12 @@ share-description: "Media coverage of Jake Chanenson's research on AI safety for
 
     <div class="page-header">
       <h1 class="page-title">Press & Media</h1>
-      <p class="page-subtitle">Selected media coverage and interviews</p>
+      <p class="page-subtitle" data-copy="PRESS-SUBTITLE">Selected media coverage and interviews</p>
     </div>
 
     <div class="about-body">
 
-      <p style="margin-top: 0;">
+      <p style="margin-top: 0;" data-copy="PRESS-INTRO">
         My research on AI safety for young people, children's privacy, EdTech, online tracking,
         and AI governance for minors has been featured in national and education-focused media outlets.
         This coverage has focused primarily on how schools and technology platforms collect,
@@ -22,7 +22,7 @@ share-description: "Media coverage of Jake Chanenson's research on AI safety for
         systems fail.
       </p>
 
-      <p>
+      <p data-copy="PRESS-CONTACT">
         For media inquiries, interview requests, or background conversations related to
         AI safety for young people, children's privacy, AI governance for minors, educational
         technology, or privacy policy, please <a href="mailto:jchanen1@uchicago.edu">get in touch</a>.
