@@ -64,17 +64,16 @@ share-description: "Jake Chanenson is a CS PhD researcher at the University of C
             University of Chicago, working with <a href="https://www.marshini.net/">Marshini Chetty</a> at the <a
             href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>, and my work asks three
             questions: <strong>who controls young people's information</strong>, <strong>how institutions govern AI
-            use</strong>, and <strong>when young people actually want AI assistance</strong>. I combine empirical
-            HCI, computational methods, and legal analysis to guide the design and governance of these systems.
+            use</strong>, and <strong>when young people want AI assistance</strong>. I combine empirical HCI,
+            computational methods, and legal analysis to guide the design and governance of these systems.
           </p>
           <p data-copy="ABOUT-INTRO-2">
-            <strong>Children's privacy is the throughline.</strong> Who collects data about children, under what
-            conditions, and with what consequences? That question is the foundation of the rest, and it is where
-            AI governance for minors is being written first: through COPPA rulemaking, state chatbot statutes,
-            EdTech procurement, and district policy. Safety claims about a youth-facing AI product all reduce to
-            an answer about who holds the data and who is accountable when it moves. I also organize a
-            <a href="/ai-safety">workshop series on youth AI safety</a> at ACM CHI and ASSETS,
-            building the research community around developmentally safe AI for young people.
+            My research in children's privacy grounds this work in questions about who collects data about children,
+            under what conditions, and with what consequences. I examine how privacy protections inform AI
+            governance for minors through rulemaking, EdTech procurement, and district policy. This includes asking
+            what a youth-facing AI product's safety claims mean for the data it collects and who is accountable for
+            its use. I also organize a <a href="/ai-safety">workshop series on youth AI safety</a> at ACM CHI and
+            ASSETS to bring researchers together to study and inform the design of developmentally safe AI.
           </p>
         </div>
 
@@ -85,11 +84,12 @@ share-description: "Jake Chanenson is a CS PhD researcher at the University of C
       </div>
 
       <p data-copy="ABOUT-CREDENTIALS">
-        I hold a <strong>Master of Legal Studies</strong> from the University of Chicago Law School, with a focus on privacy,
-        copyright, and administrative law. That background shapes how I frame research questions. I can see
-        where the law provides tools and where it falls short, which makes for better empirical work and more
-        actionable findings. My research has been published at <strong>ACM CHI, ACM FAccT, and PETS</strong>, and presented at venues including the Privacy Law Scholars Conference (PLSC). I am also an affiliate at
-        <a href="https://citap.unc.edu/">UNC's Center for Information, Technology, and Public Life (CITAP)</a>.
+        I hold a <strong>Master of Legal Studies</strong> from the University of Chicago Law School, with a
+        focus on privacy, copyright, and administrative law. That background shapes how I frame research
+        questions about what legal protections require and how they work in practice. My research has been
+        published at <strong>ACM CHI, ACM FAccT, and PETS</strong>, and presented at venues including the
+        Privacy Law Scholars Conference (PLSC). I am also an affiliate at <a href="https://citap.unc.edu/">UNC's
+        Center for Information, Technology, and Public Life (CITAP)</a>.
       </p>
       <p data-copy="ABOUT-CLOSING">
         I am expecting to finish my PhD in spring 2027. My work sits at the intersection of research,

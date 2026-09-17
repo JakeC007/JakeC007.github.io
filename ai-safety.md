@@ -2,7 +2,7 @@
 layout: default
 title: "Youth AI Safety — Child Safety in AI Systems"
 share-title: "AI Safety for Young People | Jake Chanenson"
-share-description: "Youth is where AI safety gets decided first. Jake Chanenson researches child safety in AI systems and AI governance for minors: who controls young people's information, how institutions govern AI use, and when young people want AI assistance."
+share-description: "Youth is where AI safety is being decided first. Jake Chanenson researches child safety in AI systems and AI governance for minors: who controls young people's information, how institutions govern AI use, and when young people want AI assistance."
 ---
 
 {%- comment -%}
@@ -24,12 +24,12 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
         <span data-copy="AS-HERO-EYEBROW">AI Safety for Young People</span>
       </div>
 
-      <h1 class="as-h1" data-copy="AS-HERO-H1">Youth is where AI safety gets decided <em>first</em>.</h1>
+      <h1 class="as-h1" data-copy="AS-HERO-H1">Youth is where AI safety is being decided <em>first</em>.</h1>
 
       <p class="as-lede" data-copy="AS-HERO-P1">
-        Most AI safety work argues about harms that might arrive. In products used by minors, the harms are
-        documented, the statutes are in force, and the enforcement actions are filed. That makes youth the one
-        domain where AI governance has already stopped being a proposal.
+        Much AI safety research concerns harms that may arrive later. In products used by minors, the harms are
+        already documented and the statutes are already in force, which makes youth the area where AI governance
+        has moved furthest from proposal into practice.
       </p>
 
       <p class="as-lede" data-copy="AS-HERO-P2">
@@ -40,8 +40,8 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
       <div class="as-byline">
         <img src="/assets/img/JC_Profile_square.jpeg" alt="Jake Chanenson" class="as-byline-img">
         <div class="as-byline-text" data-copy="AS-HERO-BYLINE">
-          <strong>Jake Chanenson</strong> &middot; CS PhD researcher, University of Chicago &middot;
-          Master of Legal Studies, UChicago Law<br> Children's privacy scholar &middot; Organizer, the <a
+          <strong>Jake Chanenson</strong> &middot; CS PhD student, University of Chicago &middot; Master of Legal
+          Studies, UChicago Law<br> Children's privacy scholar &middot; Organizer, the <a
           href="https://www.youthaisafety.com/">Youth AI Safety workshop series</a> at ACM CHI and ASSETS
         </div>
       </div>
@@ -52,7 +52,9 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
   <section class="as-band">
     <div class="as-inner">
       <div class="as-label" data-copy="AS-ARG-LABEL">The case for working here</div>
-      <p class="as-sublabel" data-copy="AS-ARG-SUBLABEL">Three reasons this is the part of AI safety with the shortest path from research to consequence.</p>
+      <p class="as-sublabel" data-copy="AS-ARG-SUBLABEL">
+        Three reasons I think this is the part of AI safety with the shortest path from research to consequence.
+      </p>
 
       <div class="as-claims">
 
@@ -61,9 +63,9 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
           <div class="as-claim-body">
             <h2 class="as-claim-title" data-copy="AS-CLAIM-1-TITLE">The binding rules already exist</h2>
             <p data-copy="AS-CLAIM-1-BODY">
-              COPPA, FERPA, state companion-chatbot statutes, and app-store age-verification laws are in force
-              today. Every other corner of AI policy is drafting. This one is already compliance, enforcement,
-              and an accumulating record of what regulators will accept.
+              COPPA, FERPA, state companion-chatbot statutes, and app-store age-verification laws are in force today.
+              Where much of AI policy is still being drafted, this area already has compliance obligations,
+              enforcement activity, and an accumulating record of what regulators will accept.
             </p>
           </div>
         </div>
@@ -71,11 +73,12 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
         <div class="as-claim">
           <div class="as-claim-num">02</div>
           <div class="as-claim-body">
-            <h2 class="as-claim-title" data-copy="AS-CLAIM-2-TITLE">Deployment outran the safety work</h2>
+            <h2 class="as-claim-title" data-copy="AS-CLAIM-2-TITLE">Deployment has outrun the safety work</h2>
             <p data-copy="AS-CLAIM-2-BODY">
-              Generative AI reached classrooms and group chats before any developmental safety framework
-              existed. School districts wrote acceptable-use policy in a single semester, with no evidence base
-              and real liability exposure. The gap between deployment and understanding is widest here.
+              Generative AI reached classrooms and group chats before any developmental safety framework existed.
+              School districts wrote acceptable-use policy in a single semester, often with little evidence to draw on
+              and real liability exposure, which leaves a wide gap between how much these systems are used and how
+              well their effects are understood.
             </p>
           </div>
         </div>
@@ -85,10 +88,10 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
           <div class="as-claim-body">
             <h2 class="as-claim-title" data-copy="AS-CLAIM-3-TITLE">The harms are measurable</h2>
             <p data-copy="AS-CLAIM-3-BODY">
-          Youth safety questions resolve against observable things: what a vendor collects, what a
-          district policy permits, what a student does when a rule contradicts their own judgment. All
-          three can be audited with fieldwork and code rather than argued from first principles.
-        </p>
+              Youth safety questions turn on observable things, such as what a vendor collects, what a district policy
+              permits, and what a student does when a rule conflicts with their own judgment. Each of these can be
+              studied with fieldwork and code, which makes the claims testable.
+            </p>
           </div>
         </div>
 
@@ -100,7 +103,7 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
   <section class="as-section">
     <div class="as-inner">
       <div class="as-label" data-copy="AS-PILLARS-LABEL">How I work on it</div>
-      <p class="as-sublabel" data-copy="AS-PILLARS-SUBLABEL">Three questions, in order. Each one is the precondition for the next.</p>
+      <p class="as-sublabel" data-copy="AS-PILLARS-SUBLABEL">Three questions, in order, since each one is a precondition for the next.</p>
 
       <div class="as-pillars">
 
@@ -108,9 +111,9 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
           <div class="as-pillar-kicker" data-copy="AS-PILLAR-1-KICKER">Pillar 1</div>
           <h2 class="as-pillar-title" data-copy="AS-PILLAR-1-TITLE">Who controls young people's information</h2>
           <p data-copy="AS-PILLAR-1-BODY">
-            Auditing what is collected about children in K&ndash;12 settings and how vendors behave against
-            their stated practices. Collection is pervasive, oversight is thin, and almost nobody in the chain
-            of custody can say what leaves the building.
+            I audit what is collected about children in K&ndash;12 settings and how vendors behave against their
+            stated practices. I have found that collection is extensive while oversight is limited, and that schools
+            are rarely able to account for what student data leaves their systems.
           </p>
           <div class="as-chips">
             <span class="cv-badge badge-gold">CHI '23</span>
@@ -125,8 +128,8 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
           <h2 class="as-pillar-title" data-copy="AS-PILLAR-2-TITLE">How institutions govern AI use</h2>
           <p data-copy="AS-PILLAR-2-BODY">
             Young people meet AI through a district policy, a vendor contract, or a detector pointed at their
-            homework. I examine how those rules get written, what they assume, and who pays when the assumption
-            is wrong.
+            homework. I examine how those rules get written, what they assume, and who bears the cost when the
+            assumption is wrong.
           </p>
           <div class="as-chips">
             <span class="cv-badge badge-gold">FAccT '26</span>
@@ -139,9 +142,9 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
           <div class="as-pillar-kicker" data-copy="AS-PILLAR-3-KICKER">Pillar 3</div>
           <h2 class="as-pillar-title" data-copy="AS-PILLAR-3-TITLE">When young people want AI assistance</h2>
           <p data-copy="AS-PILLAR-3-BODY">
-            Youth preferences are the input AI governance keeps leaving out. Ask high school students and they
-            hold detailed, defensible views on when AI help is legitimate. Policies written over those views
-            drive the use out of sight rather than stopping it.
+            Youth preferences are the input AI governance most often leaves out. High school students hold detailed
+            and defensible views on when AI help is legitimate, and policies written over those views tend to
+            encourage students to conceal their use.
           </p>
           <div class="as-chips">
             <span class="cv-badge badge-gold">FAccT '26</span>
@@ -191,9 +194,9 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
         <div class="as-aud-card">
           <div class="as-aud-kicker" data-copy="AS-AUD-1-KICKER">AI labs &amp; product teams</div>
           <p data-copy="AS-AUD-1-BODY">
-            Youth safety evaluation past content filters. What your age-gating assumes, where your data
-            practices sit against the amended COPPA rule, and how the minors in your user base reason about
-            the product.
+            I can help with youth safety evaluation that goes past content filters, including what your age-gating
+            assumes, where your data practices sit against the amended COPPA rule, and how the minors in your user
+            base reason about the product.
           </p>
           <a href="mailto:jchanen1@uchicago.edu" class="as-aud-link" data-copy="AS-AUD-1-LINK">Start here &rarr;</a>
         </div>
@@ -201,8 +204,8 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
         <div class="as-aud-card">
           <div class="as-aud-kicker" data-copy="AS-AUD-2-KICKER">Policymakers &amp; regulators</div>
           <p data-copy="AS-AUD-2-BODY">
-            Empirical grounding for youth AI provisions. I have filed comments with the FTC and the EDPB, and
-            my K&ndash;12 fieldwork is the kind of evidence rulemaking records tend to lack.
+            I can provide empirical grounding for youth AI provisions. I have filed comments with the FTC and the
+            EDPB, and my K&ndash;12 fieldwork is the kind of evidence that rulemaking records often lack.
           </p>
           <a href="/research" class="as-aud-link" data-copy="AS-AUD-2-LINK">Read the comments &rarr;</a>
         </div>
@@ -210,8 +213,8 @@ share-description: "Youth is where AI safety gets decided first. Jake Chanenson 
         <div class="as-aud-card">
           <div class="as-aud-kicker" data-copy="AS-AUD-3-KICKER">Journalists &amp; researchers</div>
           <p data-copy="AS-AUD-3-BODY">
-            Background on student data, EdTech tracking, and school AI policy. My work has run in USA Today,
-            The Markup, EdSurge, and CalMatters.
+            I can give background on student data, EdTech tracking, and school AI policy. My work has been covered
+            in USA Today, The Markup, EdSurge, and CalMatters.
           </p>
           <a href="/press" class="as-aud-link" data-copy="AS-AUD-3-LINK">Press page &rarr;</a>
         </div>
