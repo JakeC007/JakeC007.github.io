@@ -187,7 +187,7 @@ WHERE: Pillar 3 summary
 FILE:  ai-safety.md
 NOTE:  2-3 sentences. Names the AI papers under review; update when they are accepted.
 TEXT:
-Many young people now use AI on their own, for schoolwork and for personal support, often without any institution reviewing the tool. My FAccT 2026 study found that high school students draw careful lines between legitimate AI help and cheating. Two papers under review extend this work. One examines what students expect to happen to information they share with AI for schoolwork; the other examines when teens trust an AI agent's online safety advice over advice from people in their lives.
+Many young people now use AI on their own, for schoolwork and for personal support, often without any institution reviewing the tool. My FAccT 2026 study found that high school students draw careful lines between legitimate AI help and cheating. Two papers under review extend this work to students' privacy expectations for AI used in schoolwork and to young people's views of AI-provided safety advice.
 
 ---
 

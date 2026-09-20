@@ -205,7 +205,7 @@ WHERE: Body of the 'When Young People Want...' pillar card
 FILE:  research.md
 NOTE:  Long. Names the AI papers under review.
 TEXT:
-This thread examines the AI tools young people choose to use for schoolwork and personal support, often without any institution reviewing them. My FAccT 2026 work with high school students shows how they distinguish legitimate AI assistance from cheating, and how school AI policies can conflict with those distinctions and encourage students to conceal their use. Two papers under review extend this: one examines high school students' privacy expectations and practices when they use the same AI tool across different schoolwork contexts, and the other examines how young people weigh online safety advice from AI agents against advice from the people they trust.
+This thread examines the AI tools young people choose to use for schoolwork and personal support, often without any institution reviewing them. My FAccT 2026 work with high school students shows how they distinguish legitimate AI assistance from cheating, and how school AI policies can conflict with those distinctions and encourage students to conceal their use. Two papers under review extend this to students' privacy expectations for AI used in schoolwork and to young people's views of AI-provided safety advice.
 
 ---
 

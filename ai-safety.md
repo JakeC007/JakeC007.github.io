@@ -98,9 +98,8 @@ share-description: "Jake Chanenson's path from children's privacy to youth AI sa
           <p data-copy="AS-PILLAR-3-BODY">
             Many young people now use AI on their own, for schoolwork and for personal support, often without any
             institution reviewing the tool. My FAccT 2026 study found that high school students draw careful lines
-            between legitimate AI help and cheating. Two papers under review extend this work. One examines what
-            students expect to happen to information they share with AI for schoolwork; the other examines when
-            teens trust an AI agent's online safety advice over advice from people in their lives.
+            between legitimate AI help and cheating. Two papers under review extend this work to students' privacy
+            expectations for AI used in schoolwork and to young people's views of AI-provided safety advice.
           </p>
           <div class="as-chips">
             <span class="cv-badge badge-gold">FAccT '26</span>
