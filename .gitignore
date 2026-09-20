@@ -13,3 +13,7 @@ Gemfile.lock
 beautiful-jekyll-theme-*.gem
 
 CCS.md
+
+# local tooling and Claude working files (not part of the site)
+_copy/
+Claude outputs/
