@@ -176,48 +176,14 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
           </div>
         </div>
 
-
-      </div>
-    </div>
-
-    <div class="cv-section">
-      <div class="cv-section-title">Under Review</div>
-      <div class="cv-entries">
-        <div class="cv-entry">
+        <div class="cv-entry cv-entry-dashed">
           <div class="cv-entry-top">
-            <div class="cv-pub-num">R1</div>
-            <div class="cv-entry-title">&ldquo;AI Ain't Gonna Comfort or Protect Me Like My Momma&rdquo;: Youth Perspectives on Online Safety Advice from AI Safety Agents</div>
+            <div class="cv-entry-title">Four additional papers currently under review</div>
             <span class="cv-badge badge-blue">Under Review</span>
           </div>
-          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, K. Ren, A. Mehrotra, N. Smith-Walker, K. Thomas, T. Clegg, J. Vitak, S. Erete, M. Chetty</div>
+          <div class="cv-entry-desc">Topics: young people's views of AI-provided online safety advice; high school students' privacy expectations for AI used in schoolwork; K&ndash;12 cybersecurity; high school students' privacy perceptions of EdTech. Available on request.</div>
         </div>
 
-        <div class="cv-entry">
-          <div class="cv-entry-top">
-            <div class="cv-pub-num">R2</div>
-            <div class="cv-entry-title">One Tool, Many Contexts: High School Students' Privacy Expectations and Practices for AI Used for Schoolwork</div>
-            <span class="cv-badge badge-blue">Under Review</span>
-          </div>
-          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, Y. Xu, M. Chetty</div>
-        </div>
-
-        <div class="cv-entry">
-          <div class="cv-entry-top">
-            <div class="cv-pub-num">R3</div>
-            <div class="cv-entry-title">Running the School, Not Just the Classroom: K&ndash;12 Cybersecurity Responsibility and Supply-Chain Risk</div>
-            <span class="cv-badge badge-blue">Under Review</span>
-          </div>
-          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, G. McGrath, N. Rajan, Y. Jiang, N. Cadiche, N. Apthorpe, Y. Shvartzshnaider, D. Huang, M. Chetty</div>
-        </div>
-
-        <div class="cv-entry">
-          <div class="cv-entry-top">
-            <div class="cv-pub-num">R4</div>
-            <div class="cv-entry-title">Exploring High School Students' Privacy Perceptions of Educational Technology</div>
-            <span class="cv-badge badge-blue">Under Review</span>
-          </div>
-          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, Q. Thompson, M. Chetty</div>
-        </div>
       </div>
     </div>
 

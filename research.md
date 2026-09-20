@@ -60,8 +60,7 @@ share-description: "Research on protecting young people's privacy and safety, fr
             <div class="r-pub"><span class="cv-badge badge-gold">CHI '23</span><span class="cv-badge badge-green">&#127941; Honorable Mention</span><span class="r-pub-title">Uncovering Privacy and Security Challenges In K&ndash;12 Schools</span><a href="https://doi.org/10.1145/3544548.3580777" class="r-pub-link">ACM DL</a></div>
             <div class="r-pub"><span class="cv-badge badge-blue">PETS '25</span><span class="r-pub-title">Automating GKC-CI Privacy Policy Annotations with Large Language Models</span><a href="https://doi.org/10.56553/popets-2025-0062" class="r-pub-link">DOI</a></div>
             <div class="r-pub"><span class="cv-badge badge-blue">Working Paper</span><span class="r-pub-title">Exploring Data Trusts as a Way to Safeguard K&ndash;12 Student Data</span><span class="r-pub-meta-note">PLSC 2024</span></div>
-            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">Running the School, Not Just the Classroom: K&ndash;12 Cybersecurity Responsibility and Supply-Chain Risk</span></div>
-            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">Exploring High School Students' Privacy Perceptions of Educational Technology</span></div>
+            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">Two papers: K&ndash;12 cybersecurity; high school students' privacy perceptions of EdTech</span></div>
           </div>
         </div>
 
@@ -96,10 +95,9 @@ share-description: "Research on protecting young people's privacy and safety, fr
             This thread examines the AI tools young people choose to use for schoolwork and personal
             support, often without any institution reviewing them. My FAccT 2026 work with high school students shows how
             they distinguish legitimate AI assistance from cheating, and how school AI policies can conflict with
-            those distinctions and encourage students to conceal their use. Two papers under review extend this:
-            one examines high school students' privacy expectations and practices when they use the same AI tool
-            across different schoolwork contexts, and the other examines how young people weigh online safety
-            advice from AI agents against advice from the people they trust.
+            those distinctions and encourage students to conceal their use. Two papers under review extend this
+            to students' privacy expectations for AI used in schoolwork and to young people's views of
+            AI-provided safety advice.
           </div>
           <div class="r-chips">
             <span class="r-chip">Youth Voice</span>
@@ -110,8 +108,7 @@ share-description: "Research on protecting young people's privacy and safety, fr
           </div>
           <div class="r-pubs">
             <div class="r-pub"><span class="cv-badge badge-gold">FAccT '26</span><span class="r-pub-title">Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice</span></div>
-            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">One Tool, Many Contexts: High School Students' Privacy Expectations and Practices for AI Used for Schoolwork</span></div>
-            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">&ldquo;AI Ain't Gonna Comfort or Protect Me Like My Momma&rdquo;: Youth Perspectives on Online Safety Advice from AI Safety Agents</span></div>
+            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">Two papers: students' privacy expectations for AI used in schoolwork; young people's views of AI-provided safety advice</span></div>
           </div>
         </div>
 
@@ -230,7 +227,7 @@ share-description: "Research on protecting young people's privacy and safety, fr
             <span class="p-accordion-chevron" aria-hidden="true">&#8964;</span>
           </button>
           <div class="p-accordion-body" hidden>
-            <div class="p-answer">Policy about youth and AI is made almost entirely without youth input. When you ask high school students directly, as we did for our FAccT 2026 paper, they turn out to hold detailed and defensible views about when AI help is legitimate and when it is cheating. Those views frequently contradict the policies written over them. Students are not asking for unrestricted access; they are asking for rules that track the distinctions they already make. Work now under review extends this beyond school rules, to what students expect to happen to what they share with AI and when teens trust an AI agent for online safety advice.</div>
+            <div class="p-answer">Policy about youth and AI is made almost entirely without youth input. When you ask high school students directly, as we did for our FAccT 2026 paper, they turn out to hold detailed and defensible views about when AI help is legitimate and when it is cheating. Those views frequently contradict the policies written over them. Students are not asking for unrestricted access; they are asking for rules that track the distinctions they already make. Work now under review extends this beyond school rules, to students' privacy expectations for AI and young people's views of AI-provided safety advice.</div>
             <div class="p-sowhat">
               <div class="p-sowhat-label">Why it matters</div>
               <div class="p-sowhat-text" data-copy="RESEARCH-SOWHAT-3">
