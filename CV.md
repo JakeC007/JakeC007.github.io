@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "CV — AI Safety & Children's Privacy Researcher"
-share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) and Master of Legal Studies at the University of Chicago. Publications at ACM CHI, FAccT, and PETS on youth AI safety, children's privacy, and AI governance for minors."
+title: "CV · Children's Privacy & Youth AI Safety Researcher"
+share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) and Master of Legal Studies at the University of Chicago. Publications at ACM CHI, FAccT, and PETS on children's privacy, youth AI safety, and AI governance for minors. Siebel Scholar."
 ---
 
 <div class="page-content">
@@ -10,7 +10,7 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
     <div class="cv-header">
       <!-- <div class="cv-abbreviated-note">Abbreviated CV &mdash; full version available on request</div> -->
       <h1 class="cv-name">G. Jake <em>Chanenson</em></h1>
-      <div class="cv-role" data-copy="CV-ROLE">AI Safety for Young People &middot; Children's Privacy Scholar &middot; Law-Informed HCI</div>
+      <div class="cv-role" data-copy="CV-ROLE">Children's Privacy Scholar &middot; Youth AI Safety &middot; Law-Informed HCI</div>
       <div class="cv-contact">
         <a href="mailto:jchanen1@uchicago.edu">jchanen1@uchicago.edu</a>
         <span>&middot;</span>
@@ -38,7 +38,7 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
             <span class="edu-date">Expected Spring 2027</span>
           </div>
           <div class="edu-degree">Computer Science Ph.D.</div>
-          <div class="edu-note">AI safety for young people, children's privacy, AI governance for minors, HCI &middot; Advisor: Marshini Chetty</div>
+          <div class="edu-note">Children's privacy, youth AI safety, AI governance for minors, HCI &middot; Advisor: Marshini Chetty</div>
         </div>
         <div class="edu-item">
           <div class="edu-row">
@@ -52,11 +52,22 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
     </div>
 
     <div class="cv-section">
+      <div class="cv-section-title">Honors &amp; Fellowships</div>
+      <ul class="cv-plain-list">
+        <li><span class="item-name"><span class="cv-author-me">Siebel Scholar</span> &middot; Siebel Scholars Foundation</span><span class="item-date">Class of 2027</span></li>
+        <li><span class="item-name">Best Paper Honorable Mention &middot; ACM CHI</span><span class="item-date">2023</span></li>
+        <li><span class="item-name">Affiliate &middot; UNC Center for Information, Technology, and Public Life (CITAP)</span><span class="item-date">2023&ndash;2026</span></li>
+        <li><span class="item-name">Special Recognition for Outstanding Review &middot; ACM DIS</span><span class="item-date">2022</span></li>
+        <li><span class="item-name">Crerar Fellowship &middot; University of Chicago Department of Computer Science</span><span class="item-date">2021</span></li>
+      </ul>
+    </div>
+
+    <div class="cv-section">
       <div class="cv-section-title">Research Experience</div>
       <div class="cv-entries">
         <div class="cv-entry">
           <div class="cv-entry-top">
-            <div class="cv-entry-title">AI Safety for Young People &amp; Children's Privacy Research</div>
+            <div class="cv-entry-title">Children's Privacy &amp; Youth AI Safety Research</div>
             <span class="cv-badge badge-blue">Lead Researcher</span>
           </div>
           <div class="cv-entry-sub">University of Chicago &middot; AIRLab &middot; Winter 2025 &ndash; Present</div>
@@ -83,7 +94,7 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
             <div class="cv-entry-title">Google Research Intern</div>
             <span class="cv-badge badge-gold">Industry</span>
           </div>
-          <div class="cv-entry-sub">Google &middot; Remote &middot; Fall 2024 &ndash; Winter 2025</div>
+          <div class="cv-entry-sub">Google &middot; Remote &middot; Fall 2024 &ndash; Winter 2025 &amp; Spring 2025</div>
           <div class="cv-entry-desc">Research intern with Sunny Consolvo. Work contributed to a CHI 2026 paper on people's emotional responses and help needs during scam experiences.</div>
         </div>
       </div>
@@ -165,14 +176,48 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
           </div>
         </div>
 
-        <div class="cv-entry cv-entry-dashed">
+
+      </div>
+    </div>
+
+    <div class="cv-section">
+      <div class="cv-section-title">Under Review</div>
+      <div class="cv-entries">
+        <div class="cv-entry">
           <div class="cv-entry-top">
-            <div class="cv-entry-title">Two additional papers currently under review</div>
+            <div class="cv-pub-num">R1</div>
+            <div class="cv-entry-title">&ldquo;AI Ain't Gonna Comfort or Protect Me Like My Momma&rdquo;: Youth Perspectives on Online Safety Advice from AI Safety Agents</div>
             <span class="cv-badge badge-blue">Under Review</span>
           </div>
-          <div class="cv-entry-desc">Topics: high school students' privacy perceptions of EdTech; cybersecurity concerns in K&ndash;12. Available on request.</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, K. Ren, A. Mehrotra, N. Smith-Walker, K. Thomas, T. Clegg, J. Vitak, S. Erete, M. Chetty</div>
         </div>
 
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-pub-num">R2</div>
+            <div class="cv-entry-title">One Tool, Many Contexts: High School Students' Privacy Expectations and Practices for AI Used for Schoolwork</div>
+            <span class="cv-badge badge-blue">Under Review</span>
+          </div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, Y. Xu, M. Chetty</div>
+        </div>
+
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-pub-num">R3</div>
+            <div class="cv-entry-title">Running the School, Not Just the Classroom: K&ndash;12 Cybersecurity Responsibility and Supply-Chain Risk</div>
+            <span class="cv-badge badge-blue">Under Review</span>
+          </div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, G. McGrath, N. Rajan, Y. Jiang, N. Cadiche, N. Apthorpe, Y. Shvartzshnaider, D. Huang, M. Chetty</div>
+        </div>
+
+        <div class="cv-entry">
+          <div class="cv-entry-top">
+            <div class="cv-pub-num">R4</div>
+            <div class="cv-entry-title">Exploring High School Students' Privacy Perceptions of Educational Technology</div>
+            <span class="cv-badge badge-blue">Under Review</span>
+          </div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, Q. Thompson, M. Chetty</div>
+        </div>
       </div>
     </div>
 

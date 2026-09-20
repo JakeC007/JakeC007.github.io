@@ -31,7 +31,7 @@ WHERE: Small gold uppercase line above your name
 FILE:  index.html
 NOTE:  Short. Uppercased by CSS. Currently carries the 'Available 2027' signal.
 TEXT:
-AI Safety for Young People &middot; Available 2027
+Children's Privacy &amp; Youth AI Safety &middot; Available 2027
 
 ---
 
@@ -40,7 +40,7 @@ WHERE: Italic serif line under your name
 FILE:  index.html
 NOTE:  One or two sentences. The first thing that reads as a positioning statement.
 TEXT:
-I study how to make AI systems safer for young people. Children's privacy scholar, law-informed HCI researcher.
+I study how to protect young people's privacy and safety in the technology they are required to use and the technology they choose for themselves.
 
 ---
 
@@ -49,7 +49,7 @@ WHERE: The main hero paragraph
 FILE:  index.html
 NOTE:  The most-read copy on the site. <strong> is bright white; links are gold.
 TEXT:
-I'm a <strong>CS PhD researcher</strong> at the University of Chicago working on <strong><a href="/ai-safety">AI safety for young people</a></strong> with <a href="https://www.marshini.net/">Marshini Chetty</a> at the <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>. My work asks three questions: <strong>who controls young people's information</strong>, <strong>how institutions govern AI use</strong>, and <strong>when young people want AI assistance</strong>. These questions build on my research in children's privacy, which is the throughline of my work. It is where AI governance for minors is being written first, and where laws and institutional policies can leave gaps between formal protections and young people's needs. I combine empirical HCI, computational methods, and legal analysis, and I hold a <strong>Master of Legal Studies</strong> from UChicago Law. I expect to finish my PhD in spring 2027. <strong>My work spans research, law, and policy, and I am drawn to roles across academia, industry, and government where that breadth is useful.</strong>
+I'm a <strong>CS PhD researcher</strong> at the University of Chicago, working with <a href="https://www.marshini.net/">Marshini Chetty</a> at the <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>, and a <strong>Siebel Scholar</strong>. My research began with <strong>children's privacy</strong> in schools, where institutions make technology decisions on students' behalf, and now examines <strong><a href="/ai-safety">youth AI safety</a></strong> as young people use AI for schoolwork and personal support. Many of the same privacy questions apply, and they are harder to answer when no adult chose the tool. I combine human-computer interaction, computational methods, and legal analysis, and I hold a <strong>Master of Legal Studies</strong> from UChicago Law. I expect to finish my PhD in spring 2027. <strong>My work spans research, law, and policy, and I am drawn to roles across academia, industry, and government where that breadth is useful.</strong>
 
 ---
 
@@ -58,7 +58,7 @@ WHERE: Grey keyword line under the bio
 FILE:  index.html
 NOTE:  Separated by &middot;. These are SEO keywords as much as description.
 TEXT:
-Youth AI Safety &middot; Child Safety in AI Systems &middot; AI Governance for Minors &middot; Children's Privacy &middot; HCI &middot; Privacy Law
+Children's Privacy &middot; Youth AI Safety &middot; AI Governance for Minors &middot; K&ndash;12 EdTech &middot; HCI &middot; Privacy Law
 
 ---
 
@@ -70,7 +70,16 @@ WHERE: Description inside the wide Research card
 FILE:  index.html
 NOTE:  2-3 sentences.
 TEXT:
-My research examines who controls young people's information, how schools and platforms govern AI use, and when young people want AI assistance. I combine empirical HCI, computational methods, and privacy law in projects on K&ndash;12 EdTech, high school students' perspectives on AI policy, and LLM-assisted privacy policy analysis.
+My research began with what schools collect about students and now examines the AI tools young people use for schoolwork and personal support. Projects cover K&ndash;12 EdTech and cybersecurity, school AI policy, students' privacy expectations for AI, and when teens trust AI for safety advice.
+
+---
+
+## [HOME-CARD-AISAFETY-LABEL]
+WHERE: Small label above the Youth AI Safety card title
+FILE:  index.html
+NOTE:  Short. Uppercased by CSS.
+TEXT:
+Approach &middot; Workshop Series
 
 ---
 
@@ -79,7 +88,7 @@ WHERE: Description inside the Youth AI Safety card
 FILE:  index.html
 NOTE:  2 sentences. Links to /ai-safety.
 TEXT:
-Why I think youth is where AI safety is being decided first, how my research in children's privacy informs that view, and the workshop series I organize at ACM CHI and ASSETS to bring researchers together around these questions.
+How my work in children's privacy led to youth AI safety, and the workshop series I organize at ACM CHI and ASSETS.
 
 ---
 
@@ -91,7 +100,7 @@ WHERE: Grey line under the 'About Me' heading
 FILE:  aboutme.md
 NOTE:  Separated by &middot;. Three short phrases.
 TEXT:
-AI Safety for Young People &middot; Children's Privacy Scholar &middot; University of Chicago
+Children's Privacy Scholar &middot; Youth AI Safety &middot; University of Chicago
 
 ---
 
@@ -103,16 +112,16 @@ WHERE: First paragraph, beside your headshot
 FILE:  aboutme.md
 NOTE:  Your research statement in your own voice.
 TEXT:
-I study how to make <strong>AI systems safer for young people</strong>. I'm a CS PhD researcher at the University of Chicago, working with <a href="https://www.marshini.net/">Marshini Chetty</a> at the <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>, and my work asks three questions: <strong>who controls young people's information</strong>, <strong>how institutions govern AI use</strong>, and <strong>when young people want AI assistance</strong>. I combine empirical HCI, computational methods, and legal analysis to guide the design and governance of these systems.
+I study how to protect <strong>young people's privacy and safety</strong> in technologies they are required to use and those they choose for themselves. I'm a CS PhD researcher at the University of Chicago, working with <a href="https://www.marshini.net/">Marshini Chetty</a> at the <a href="https://airlab.cs.uchicago.edu/">Amyoli Internet Research Lab</a>. My research began with schools, where institutions make technology decisions on students' behalf, and now examines how these responsibilities change as young people use AI for schoolwork and personal support. I combine human-computer interaction, computational methods, and legal analysis to guide the design and governance of these systems.
 
 ---
 
 ## [ABOUT-INTRO-2]
 WHERE: Second paragraph, beside your headshot
 FILE:  aboutme.md
-NOTE:  The children's-privacy-as-throughline argument. Links to /ai-safety.
+NOTE:  How children's privacy led to youth AI safety. Links to /ai-safety.
 TEXT:
-My research in children's privacy grounds this work in questions about who collects data about children, under what conditions, and with what consequences. I examine how privacy protections inform AI governance for minors through rulemaking, EdTech procurement, and district policy. This includes asking what a youth-facing AI product's safety claims mean for the data it collects and who is accountable for its use. I also organize a <a href="/ai-safety">workshop series on youth AI safety</a> at ACM CHI and ASSETS to bring researchers together to study and inform the design of developmentally safe AI.
+Children's privacy is where my work started and what connects it. In K&ndash;12 schools I studied who collects data about students, under what terms, and what oversight exists. These questions become harder to answer when students use AI tools that no adult at their school selected or reviewed, whether for homework or for something personal. My current work asks what students expect to happen to that information, how schools write rules for AI, and when teens trust AI for safety advice at all. I also organize a <a href="/ai-safety">workshop series on youth AI safety</a> at ACM CHI and ASSETS.
 
 ---
 
@@ -124,7 +133,7 @@ WHERE: Paragraph about the MLS and publication venues
 FILE:  aboutme.md
 NOTE:  Credentials and affiliations.
 TEXT:
-I hold a <strong>Master of Legal Studies</strong> from the University of Chicago Law School, with a focus on privacy, copyright, and administrative law. That background shapes how I frame research questions about what legal protections require and how they work in practice. My research has been published at <strong>ACM CHI, ACM FAccT, and PETS</strong>, and presented at venues including the Privacy Law Scholars Conference (PLSC). I am also an affiliate at <a href="https://citap.unc.edu/">UNC's Center for Information, Technology, and Public Life (CITAP)</a>.
+I hold a <strong>Master of Legal Studies</strong> from the University of Chicago Law School, with a focus on privacy, copyright, and administrative law. That background shapes how I frame research questions about what legal protections require and how they work in practice. I am a <strong>Siebel Scholar</strong> (Class of 2027). My research has been published at <strong>ACM CHI, ACM FAccT, and PETS</strong>, and presented at venues including the Privacy Law Scholars Conference (PLSC). I am also an affiliate at <a href="https://citap.unc.edu/">UNC's Center for Information, Technology, and Public Life (CITAP)</a>.
 
 ---
 
@@ -133,7 +142,7 @@ WHERE: Final paragraph, the availability and contact pitch
 FILE:  aboutme.md
 NOTE:  Carries the 2027 timeline and the roles you want.
 TEXT:
-I am expecting to finish my PhD in spring 2027. My work sits at the intersection of research, law, and policy, and I am interested in positions across <strong>academia, industry, and government</strong> where that combination is an asset. If you are working on AI safety for young people, children's privacy, or AI governance for minors, I would love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
+I am expecting to finish my PhD in spring 2027. My work sits at the intersection of research, law, and policy, and I am interested in positions across <strong>academia, industry, and government</strong> where that combination is an asset. If you are working on children's privacy, youth AI safety, or AI governance for minors, I would love to <a href="mailto:jchanen1@uchicago.edu">hear from you</a>.
 
 ---
 
@@ -145,7 +154,7 @@ WHERE: Grey line under the 'Research' heading
 FILE:  research.md
 NOTE:  Sets up the three-question structure.
 TEXT:
-I study how to make AI systems safer for young people. The work is organized around three questions. For full citations of each paper&mdash;including the names of my many wonderful collaborators&mdash;please see the CV tab.
+I study how to protect young people's privacy and safety in the technology they are required to use and the technology they choose. The work began with children's privacy in schools and now extends to youth AI safety. For full citations of each paper, including the names of my many wonderful collaborators, please see the CV tab.
 
 ---
 
@@ -157,7 +166,7 @@ WHERE: Boxed intro on the 'For Researchers' tab
 FILE:  research.md
 NOTE:  The program statement. Links to /ai-safety.
 TEXT:
-My research examines how control over data and institutional decisions affect AI safety for young people. I ask <strong>who controls their information</strong>, <strong>how the institutions around them govern AI use</strong>, and <strong>what young people want from these systems</strong>. I study these questions using empirical HCI, computational methods, and legal analysis. My work in children's privacy provides a foundation for examining how legal protections translate into the systems young people use and where those protections fall short. I discuss this approach to youth AI safety <a href="/ai-safety">here</a>.
+My research began with children's privacy in K&ndash;12 schools, where institutions choose technology on students' behalf, and now examines the AI tools young people use for schoolwork and personal support. Three questions organize it: <strong>who controls their information</strong>, <strong>how the institutions around them govern AI use</strong>, and <strong>when young people want AI assistance</strong>. Privacy connects all three, because many youth AI safety questions depend on what young people share with AI systems and who is responsible for that information. I study these questions using empirical HCI, computational methods, and legal analysis. I describe the path from privacy to AI safety <a href="/ai-safety">here</a>.
 
 ---
 
@@ -166,7 +175,7 @@ WHERE: Boxed intro on the 'For Practitioners' tab
 FILE:  research.md
 NOTE:  Aimed at policy and industry readers.
 TEXT:
-I work on AI safety for young people from the governance side. I go into schools, talk to students, and audit systems, then examine the results in relation to legal requirements. Much of this work concerns children's privacy and the protections that apply to technology use in schools. If you work on children's online safety, EdTech procurement, AI governance for minors, or youth provisions in AI rulemaking, the work below bears directly on those decisions. <a href="/ai-safety">This page</a> describes my approach to youth AI safety and the questions I think need more research.
+I work on children's privacy and youth AI safety from the governance side. I go into schools, talk to students, and audit systems, then examine the results in relation to legal requirements. Much of this work concerns the protections that apply to technology use in schools, and my newer work asks how those protections hold up when students use AI on their own. If you work on children's online safety, EdTech procurement, AI governance for minors, or youth provisions in AI rulemaking, the work below bears directly on those decisions. <a href="/ai-safety">This page</a> describes how my privacy work led to youth AI safety.
 
 ---
 
@@ -178,7 +187,7 @@ WHERE: Body of the 'Who Controls...' pillar card
 FILE:  research.md
 NOTE:  Long.
 TEXT:
-This thread examines what data is collected about children in K&ndash;12 settings, who holds it, and under what terms. I study how EdTech and AI vendors' practices compare with their stated policies and what oversight is available to schools. Methods span interviews, surveys, privacy policy auditing, and LLM-assisted analysis at scale. Across these projects I have found that collection is extensive while oversight is limited, and that schools are rarely able to account for what student data leaves their systems or how the providers they depend on use it.
+This thread examines what data is collected about children in K&ndash;12 settings, who holds it, and under what terms. I study how EdTech and AI vendors' practices compare with their stated policies, what oversight is available to schools, and who in a district is responsible for security when so much of it depends on outside vendors. Methods span interviews, surveys, privacy policy auditing, and LLM-assisted analysis at scale. Across these projects I have found that collection is extensive while oversight is limited, and that schools are rarely able to account for what student data leaves their systems or how the providers they depend on use it.
 
 ---
 
@@ -194,9 +203,9 @@ School districts' acceptable-use policies, vendor contracts, teachers' plagiaris
 ## [RESEARCH-PILLAR-3-DESC]
 WHERE: Body of the 'When Young People Want...' pillar card
 FILE:  research.md
-NOTE:  Long. The pillar that exists nowhere else on the site.
+NOTE:  Long. Names the AI papers under review.
 TEXT:
-This thread examines young people's views on AI use and how those views compare with the policies that govern it. My FAccT 2026 work with high school students shows how they distinguish legitimate AI assistance from cheating, and how school AI policies can conflict with those distinctions and encourage students to conceal their use. I examine what students' reasoning can tell us about how schools should write and explain AI rules.
+This thread examines the AI tools young people choose to use for schoolwork and personal support, often without any institution reviewing them. My FAccT 2026 work with high school students shows how they distinguish legitimate AI assistance from cheating, and how school AI policies can conflict with those distinctions and encourage students to conceal their use. Two papers under review extend this: one examines high school students' privacy expectations and practices when they use the same AI tool across different schoolwork contexts, and the other examines how young people weigh online safety advice from AI agents against advice from the people they trust.
 
 ---
 
@@ -256,7 +265,7 @@ WHERE: First paragraph
 FILE:  press.md
 NOTE:  What your press coverage has been about.
 TEXT:
-My research on AI safety for young people, children's privacy, EdTech, online tracking, and AI governance for minors has been featured in national and education-focused media outlets. This coverage has focused primarily on how schools and technology platforms collect, use, and secure student data, and what accountability should look like when those systems fail.
+My research on children's privacy, EdTech, online tracking, and student data has been featured in national and education-focused media outlets. This coverage has focused primarily on how schools and technology platforms collect, use, and secure student data, and what accountability should look like when those systems fail.
 
 ---
 
@@ -265,7 +274,7 @@ WHERE: Second paragraph, the media-inquiry pitch
 FILE:  press.md
 NOTE:  Lists the topics you will speak on.
 TEXT:
-For media inquiries, interview requests, or background conversations related to AI safety for young people, children's privacy, AI governance for minors, educational technology, or privacy policy, please <a href="mailto:jchanen1@uchicago.edu">get in touch</a>.
+For media inquiries, interview requests, or background conversations related to children's privacy, youth AI safety, AI governance for minors, educational technology, or privacy policy, please <a href="mailto:jchanen1@uchicago.edu">get in touch</a>.
 
 ---
 
@@ -277,7 +286,7 @@ WHERE: Grey line under your name at the top of the CV
 FILE:  CV.md
 NOTE:  Three short phrases split by &middot;. This is your one-line self-description.
 TEXT:
-AI Safety for Young People &middot; Children's Privacy Scholar &middot; Law-Informed HCI
+Children's Privacy Scholar &middot; Youth AI Safety &middot; Law-Informed HCI
 
 ---
 
@@ -289,7 +298,7 @@ WHERE: The call-to-action box that appears at the bottom of research, about, pre
 FILE:  _includes/shared-cta.html
 NOTE:  One sentence. Appears on 4+ pages, so it is the most repeated copy on the site.
 TEXT:
-Working on AI safety for young people or children's privacy? I am finishing my PhD in spring 2027 and am open to research, policy, and government roles where this work is directly applicable.
+Working on children's privacy or youth AI safety? I am finishing my PhD in spring 2027 and am open to research, policy, and government roles where this work is directly applicable.
 
 ---
 
@@ -298,6 +307,6 @@ WHERE: The site-wide meta description, used on the homepage and in search result
 FILE:  _config.yml:description
 NOTE:  Under ~300 characters. Plain text only, no HTML.
 TEXT:
-Jake Chanenson researches AI safety for young people at the University of Chicago, examining who controls children's information, how institutions govern AI use, and when young people want AI assistance.
+Jake Chanenson studies how to protect young people's privacy and safety in the technology they are required to use and the technology they choose, from K-12 EdTech to AI, at the University of Chicago.
 
 ---

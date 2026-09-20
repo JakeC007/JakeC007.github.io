@@ -46,6 +46,7 @@ slot("HOME-CATEGORIES", G, F, B, "Grey keyword line under the bio", "Separated b
 
 B = "Homepage · Cards"
 slot("HOME-CARD-RESEARCH", G, F, B, "Description inside the wide Research card", "2-3 sentences.")
+slot("HOME-CARD-AISAFETY-LABEL", G, F, B, "Small label above the Youth AI Safety card title", "Short. Uppercased by CSS.")
 slot("HOME-CARD-AISAFETY", G, F, B, "Description inside the Youth AI Safety card", "2 sentences. Links to /ai-safety.")
 
 # ─── site: about ─────────────────────────────────────────────────────────
@@ -53,7 +54,7 @@ F, B = "aboutme.md", "About · Header"
 slot("ABOUT-SUBTITLE", G, F, B, "Grey line under the 'About Me' heading", "Separated by &middot;. Three short phrases.")
 B = "About · Intro"
 slot("ABOUT-INTRO-1", G, F, B, "First paragraph, beside your headshot", "Your research statement in your own voice.")
-slot("ABOUT-INTRO-2", G, F, B, "Second paragraph, beside your headshot", "The children's-privacy-as-throughline argument. Links to /ai-safety.")
+slot("ABOUT-INTRO-2", G, F, B, "Second paragraph, beside your headshot", "How children's privacy led to youth AI safety. Links to /ai-safety.")
 B = "About · Body"
 slot("ABOUT-CREDENTIALS", G, F, B, "Paragraph about the MLS and publication venues", "Credentials and affiliations.")
 slot("ABOUT-CLOSING", G, F, B, "Final paragraph, the availability and contact pitch", "Carries the 2027 timeline and the roles you want.")
@@ -67,7 +68,7 @@ slot("RESEARCH-INTRO-PRACTITIONERS", G, F, B, "Boxed intro on the 'For Practitio
 B = "Research · Pillar descriptions"
 slot("RESEARCH-PILLAR-1-DESC", G, F, B, "Body of the 'Who Controls...' pillar card", "Long.")
 slot("RESEARCH-PILLAR-2-DESC", G, F, B, "Body of the 'How Institutions Govern...' pillar card", "Long.")
-slot("RESEARCH-PILLAR-3-DESC", G, F, B, "Body of the 'When Young People Want...' pillar card", "Long. The pillar that exists nowhere else on the site.")
+slot("RESEARCH-PILLAR-3-DESC", G, F, B, "Body of the 'When Young People Want...' pillar card", "Long. Names the AI papers under review.")
 B = "Research · Practitioner accordion"
 slot("RESEARCH-Q-1", G, F, B, "Clickable question, Pillar 1 card", "Phrased as a question.")
 slot("RESEARCH-Q-3", G, F, B, "Clickable question, Pillar 3 card", "Phrased as a question.")
@@ -93,29 +94,29 @@ slot("CONFIG-DESCRIPTION", G, F, B, "The site-wide meta description, used on the
 G, F = "ai-safety", "ai-safety.md"
 B = "Band 1 · Hero"
 slot("AS-HERO-EYEBROW", G, F, B, "Small gold uppercase line above the headline", "2-5 words. Uppercased by CSS, so type it in normal case.")
-slot("AS-HERO-H1", G, F, B, "The big serif headline, largest text on the page", "Under ~10 words. <em>word</em> renders gold italic. This is the page's H1 and its main SEO signal.")
-slot("AS-HERO-P1", G, F, B, "First lede paragraph under the headline", "2-3 sentences. This is the claim; the rest of the page defends it.")
-slot("AS-HERO-P2", G, F, B, "Second lede paragraph", "Names the three pillars. <strong> renders bright white.")
+slot("AS-HERO-H1", G, F, B, "The big serif headline, largest text on the page", "Under ~10 words. <em>word</em> renders gold italic. This is the page's H1 and its main SEO signal. States the privacy-to-AI-safety path.")
+slot("AS-HERO-P1", G, F, B, "First lede paragraph under the headline", "2-3 sentences. The research statement; keep it word-for-word consistent with the CV and job materials.")
+slot("AS-HERO-P2", G, F, B, "Second lede paragraph", "Names the three methods. <strong> renders bright white.")
 slot("AS-HERO-BYLINE", G, F, B, "Credential card beside your headshot", "Keep to 2 lines. <br> is the line break. Contains a link to youthaisafety.com.")
 
-B = "Band 2 · The argument"
-slot("AS-ARG-LABEL", G, F, B, "Small uppercase section label", "2-5 words. Uppercased by CSS.")
-slot("AS-ARG-SUBLABEL", G, F, B, "Italic grey line under the label", "One sentence.")
-for i, n in ((1, "01"), (2, "02"), (3, "03")):
-    slot(f"AS-CLAIM-{i}-TITLE", G, F, B, f"Heading for numbered claim {n}", "Under ~7 words. Renders as an H2.")
-    slot(f"AS-CLAIM-{i}-BODY", G, F, B, f"Body for claim {n}", "2-3 sentences.")
-
-B = "Band 3 · Pillars"
+B = "Band 2 · Privacy to AI safety"
 slot("AS-PILLARS-LABEL", G, F, B, "Small uppercase section label", "2-5 words.")
-slot("AS-PILLARS-SUBLABEL", G, F, B, "Italic grey line under the label", "One sentence.")
+slot("AS-PILLARS-SUBLABEL", G, F, B, "Italic grey line under the label", "One or two sentences. Explains the privacy-to-AI-safety path.")
 _pnote = {1: "2-3 sentences. Summary only; the depth lives on /research.",
           2: "2-3 sentences.",
-          3: "2-3 sentences. This is the pillar that exists nowhere else on the site."}
+          3: "2-3 sentences. Names the AI papers under review; update when they are accepted."}
 for i in (1, 2, 3):
     slot(f"AS-PILLAR-{i}-KICKER", G, F, B, f"Gold kicker above pillar {i}", "Short. Uppercased by CSS.")
     slot(f"AS-PILLAR-{i}-TITLE", G, F, B, f"Pillar {i} heading", "Must match the pillar name on /research. Renders as an H2.")
     slot(f"AS-PILLAR-{i}-BODY", G, F, B, f"Pillar {i} summary", _pnote[i])
     slot(f"AS-PILLAR-{i}-LINK", G, F, B, f"Link text at the end of pillar {i}'s chip row", "Points to /research.")
+
+B = "Band 3 · Methods"
+slot("AS-ARG-LABEL", G, F, B, "Small uppercase section label", "2-5 words. Uppercased by CSS.")
+slot("AS-ARG-SUBLABEL", G, F, B, "Italic grey line under the label", "One sentence.")
+for i, n in ((1, "01"), (2, "02"), (3, "03")):
+    slot(f"AS-CLAIM-{i}-TITLE", G, F, B, f"Heading for numbered method {n}", "Under ~7 words. Renders as an H2.")
+    slot(f"AS-CLAIM-{i}-BODY", G, F, B, f"Body for method {n}", "2-3 sentences.")
 
 B = "Band 4 · Workshop series"
 slot("AS-WORKSHOP-KICKER", G, F, B, "Gold kicker at the top of the boxed block", "Short. Uppercased by CSS.")
@@ -128,7 +129,7 @@ slot("AS-WORKSHOP-HUB", G, F, B, "Small grey line under the buttons", "Contains 
 B = "Band 5 · Who this is for"
 slot("AS-AUDIENCE-LABEL", G, F, B, "Small uppercase section label", "Short.")
 slot("AS-AUDIENCE-SUBLABEL", G, F, B, "Italic grey line under the label", "One sentence.")
-_aud = {1: ("AI labs", "Links to your email."), 2: ("policymakers", "Links to /research."),
+_aud = {1: ("AI labs & EdTech", "Links to your email."), 2: ("policymakers", "Links to /research."),
         3: ("journalists", "Links to /press.")}
 for i in (1, 2, 3):
     who, link = _aud[i]

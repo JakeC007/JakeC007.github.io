@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Research — Youth AI Safety & Children's Privacy"
-share-description: "Research on AI safety for young people: who controls their information, how institutions govern AI use, and when young people want AI assistance. Publications at ACM CHI, FAccT, and PETS, plus FTC and EDPB policy comments."
+title: "Research · Children's Privacy & Youth AI Safety"
+share-description: "Research on protecting young people's privacy and safety, from K-12 EdTech to AI: who controls their information, how schools govern AI use, and when young people want AI assistance. ACM CHI, FAccT, and PETS, plus FTC and EDPB policy comments."
 ---
 
 <div class="page-content">
@@ -9,7 +9,7 @@ share-description: "Research on AI safety for young people: who controls their i
 
     <div class="page-header">
       <h1 class="page-title">Research</h1>
-      <p class="page-subtitle" data-copy="RESEARCH-SUBTITLE">I study how to make AI systems safer for young people. The work is organized around three questions. For full citations of each paper&mdash;including the names of my many wonderful collaborators&mdash;please see the CV tab.</p>
+      <p class="page-subtitle" data-copy="RESEARCH-SUBTITLE">I study how to protect young people's privacy and safety in the technology they are required to use and the technology they choose. The work began with children's privacy in schools and now extends to youth AI safety. For full citations of each paper, including the names of my many wonderful collaborators, please see the CV tab.</p>
     </div>
 
     <div class="tabs-bar">
@@ -25,13 +25,14 @@ share-description: "Research on AI safety for young people: who controls their i
     <div class="panel visible" id="researchers">
 
       <div class="p-intro" data-copy="RESEARCH-INTRO-RESEARCHERS">
-        My research examines how control over data and institutional decisions affect AI safety for young
-        people. I ask <strong>who controls their information</strong>, <strong>how the institutions around them
-        govern AI use</strong>, and <strong>what young people want from these systems</strong>. I study these
-        questions using empirical HCI, computational methods, and legal analysis. My work in children's privacy
-        provides a foundation for examining how legal protections translate into the systems young people use
-        and where those protections fall short. I discuss this approach to youth AI safety <a
-        href="/ai-safety">here</a>.
+        My research began with children's privacy in K&ndash;12 schools, where institutions choose technology on
+        students' behalf, and now examines the AI tools young people use for schoolwork and personal
+        support. Three questions organize it: <strong>who controls their information</strong>, <strong>how the
+        institutions around them govern AI use</strong>, and <strong>when young people want AI
+        assistance</strong>. Privacy connects all three, because many youth AI safety questions depend on what
+        young people share with AI systems and who is responsible for that information. I study these
+        questions using empirical HCI, computational methods, and legal analysis. I describe the path from
+        privacy to AI safety <a href="/ai-safety">here</a>.
       </div>
 
       <div class="r-projects">
@@ -41,8 +42,9 @@ share-description: "Research on AI safety for young people: who controls their i
           <div class="r-project-title">Who Controls Young People's Information</div>
           <div class="r-project-desc" data-copy="RESEARCH-PILLAR-1-DESC">
             This thread examines what data is collected about children in K&ndash;12 settings, who holds it, and
-            under what terms. I study how EdTech and AI vendors' practices compare with their stated policies and
-            what oversight is available to schools. Methods span interviews, surveys, privacy policy auditing, and
+            under what terms. I study how EdTech and AI vendors' practices compare with their stated policies, what
+            oversight is available to schools, and who in a district is responsible for security when so much of
+            it depends on outside vendors. Methods span interviews, surveys, privacy policy auditing, and
             LLM-assisted analysis at scale. Across these projects I have found that collection is extensive while
             oversight is limited, and that schools are rarely able to account for what student data leaves their
             systems or how the providers they depend on use it.
@@ -58,7 +60,8 @@ share-description: "Research on AI safety for young people: who controls their i
             <div class="r-pub"><span class="cv-badge badge-gold">CHI '23</span><span class="cv-badge badge-green">&#127941; Honorable Mention</span><span class="r-pub-title">Uncovering Privacy and Security Challenges In K&ndash;12 Schools</span><a href="https://doi.org/10.1145/3544548.3580777" class="r-pub-link">ACM DL</a></div>
             <div class="r-pub"><span class="cv-badge badge-blue">PETS '25</span><span class="r-pub-title">Automating GKC-CI Privacy Policy Annotations with Large Language Models</span><a href="https://doi.org/10.56553/popets-2025-0062" class="r-pub-link">DOI</a></div>
             <div class="r-pub"><span class="cv-badge badge-blue">Working Paper</span><span class="r-pub-title">Exploring Data Trusts as a Way to Safeguard K&ndash;12 Student Data</span><span class="r-pub-meta-note">PLSC 2024</span></div>
-            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">High school students' privacy perceptions of EdTech; K&ndash;12 cybersecurity concerns</span></div>
+            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">Running the School, Not Just the Classroom: K&ndash;12 Cybersecurity Responsibility and Supply-Chain Risk</span></div>
+            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">Exploring High School Students' Privacy Perceptions of Educational Technology</span></div>
           </div>
         </div>
 
@@ -90,11 +93,13 @@ share-description: "Research on AI safety for young people: who controls their i
           <div class="r-project-label">Pillar 3 &middot; Active</div>
           <div class="r-project-title">When Young People Want AI Assistance</div>
           <div class="r-project-desc" data-copy="RESEARCH-PILLAR-3-DESC">
-            This thread examines young people's views on AI use and how those views compare with the policies that
-            govern it. My FAccT 2026 work with high school students shows how they distinguish legitimate AI
-            assistance from cheating, and how school AI policies can conflict with those distinctions and encourage
-            students to conceal their use. I examine what students' reasoning can tell us about how schools should
-            write and explain AI rules.
+            This thread examines the AI tools young people choose to use for schoolwork and personal
+            support, often without any institution reviewing them. My FAccT 2026 work with high school students shows how
+            they distinguish legitimate AI assistance from cheating, and how school AI policies can conflict with
+            those distinctions and encourage students to conceal their use. Two papers under review extend this:
+            one examines high school students' privacy expectations and practices when they use the same AI tool
+            across different schoolwork contexts, and the other examines how young people weigh online safety
+            advice from AI agents against advice from the people they trust.
           </div>
           <div class="r-chips">
             <span class="r-chip">Youth Voice</span>
@@ -105,7 +110,8 @@ share-description: "Research on AI safety for young people: who controls their i
           </div>
           <div class="r-pubs">
             <div class="r-pub"><span class="cv-badge badge-gold">FAccT '26</span><span class="r-pub-title">Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice</span></div>
-            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">High school students' privacy perceptions of EdTech</span></div>
+            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">One Tool, Many Contexts: High School Students' Privacy Expectations and Practices for AI Used for Schoolwork</span></div>
+            <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">Under Review</span><span class="r-pub-title">&ldquo;AI Ain't Gonna Comfort or Protect Me Like My Momma&rdquo;: Youth Perspectives on Online Safety Advice from AI Safety Agents</span></div>
           </div>
         </div>
 
@@ -154,12 +160,13 @@ share-description: "Research on AI safety for young people: who controls their i
     <div class="panel" id="practitioners">
 
       <div class="p-intro" data-copy="RESEARCH-INTRO-PRACTITIONERS">
-        I work on AI safety for young people from the governance side. I go into schools, talk to students, and
-        audit systems, then examine the results in relation to legal requirements. Much of this work concerns
-        children's privacy and the protections that apply to technology use in schools. If you work on
-        children's online safety, EdTech procurement, AI governance for minors, or youth provisions in AI
-        rulemaking, the work below bears directly on those decisions. <a href="/ai-safety">This page</a>
-        describes my approach to youth AI safety and the questions I think need more research.
+        I work on children's privacy and youth AI safety from the governance side. I go into schools, talk to
+        students, and audit systems, then examine the results in relation to legal requirements. Much of this
+        work concerns the protections that apply to technology use in schools, and my newer work asks how those
+        protections hold up when students use AI on their own. If you work on children's online safety, EdTech
+        procurement, AI governance for minors, or youth provisions in AI rulemaking, the work below bears
+        directly on those decisions. <a href="/ai-safety">This page</a> describes how my privacy work led to
+        youth AI safety.
       </div>
 
       <div class="section-label">Public Policy Comments</div>
@@ -223,7 +230,7 @@ share-description: "Research on AI safety for young people: who controls their i
             <span class="p-accordion-chevron" aria-hidden="true">&#8964;</span>
           </button>
           <div class="p-accordion-body" hidden>
-            <div class="p-answer">Policy about youth and AI is made almost entirely without youth input. When you ask high school students directly, as we did for our FAccT 2026 paper, they turn out to hold detailed and defensible views about when AI help is legitimate and when it is cheating. Those views frequently contradict the policies written over them. Students are not asking for unrestricted access; they are asking for rules that track the distinctions they already make.</div>
+            <div class="p-answer">Policy about youth and AI is made almost entirely without youth input. When you ask high school students directly, as we did for our FAccT 2026 paper, they turn out to hold detailed and defensible views about when AI help is legitimate and when it is cheating. Those views frequently contradict the policies written over them. Students are not asking for unrestricted access; they are asking for rules that track the distinctions they already make. Work now under review extends this beyond school rules, to what students expect to happen to what they share with AI and when teens trust an AI agent for online safety advice.</div>
             <div class="p-sowhat">
               <div class="p-sowhat-label">Why it matters</div>
               <div class="p-sowhat-text" data-copy="RESEARCH-SOWHAT-3">
