@@ -212,7 +212,7 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
             <span class="cv-badge badge-blue">Working Paper</span>
           </div>
           <div class="cv-entry-sub">Presented at Privacy Law Scholars Conference (PLSC) &middot; Washington DC &middot; Spring 2024</div>
-          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span>, M. Chetty</div>
+          <div class="cv-entry-authors"><span class="cv-author-me">J. Chanenson</span></div>
         </div>
       </div>
     </div>
