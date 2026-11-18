@@ -91,6 +91,14 @@ share-description: "Curriculum vitae for Jake Chanenson: CS PhD (expected 2027) 
         </div>
         <div class="cv-entry">
           <div class="cv-entry-top">
+            <div class="cv-entry-title">External Research Collaborator</div>
+            <span class="cv-badge badge-gold">Industry</span>
+          </div>
+          <div class="cv-entry-sub">Apple &middot; Fall 2026 &ndash; Present</div>
+          <div class="cv-entry-desc">Research collaboration with Lauren Wilcox and Yu'an Yang on youth AI safety.</div>
+        </div>
+        <div class="cv-entry">
+          <div class="cv-entry-top">
             <div class="cv-entry-title">Google Research Intern</div>
             <span class="cv-badge badge-gold">Industry</span>
           </div>

@@ -131,6 +131,16 @@ share-description: "Research on protecting young people's privacy and safety, fr
         </div>
       </div>
 
+      <!-- ===== APPLE COLLABORATION ===== -->
+      <div class="r-project featured" style="margin-top: 2rem;">
+        <div class="r-project-label">Active &middot; Apple</div>
+        <div class="r-project-title">Youth AI Safety Research Collaboration</div>
+        <div class="r-project-desc">External research collaboration with Lauren Wilcox and Yu'an Yang at Apple on youth AI safety, begun in fall 2026.</div>
+        <div class="r-pubs">
+          <div class="r-pub r-pub-muted"><span class="cv-badge badge-blue">In Progress</span><span class="r-pub-title">Findings not yet public</span></div>
+        </div>
+      </div>
+
       <!-- ===== RELATED RESEARCH ===== -->
       <div class="section-label" style="margin-top: 3rem;">Related Research</div>
       <div class="r-projects">

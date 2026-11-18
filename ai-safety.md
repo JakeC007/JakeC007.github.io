@@ -202,7 +202,8 @@ share-description: "Jake Chanenson's path from children's privacy to youth AI sa
           <p data-copy="AS-AUD-1-BODY">
             If minors use your product or schools buy it, I can help with the privacy and safety side: what COPPA
             and FERPA require once you enter a classroom, what students expect to happen to what they tell your
-            tool, and when they trust it for help.
+            tool, and when they trust it for help. I am currently an external research collaborator with Apple on
+            youth AI safety.
           </p>
           <a href="mailto:jchanen1@uchicago.edu" class="as-aud-link" data-copy="AS-AUD-1-LINK">Start here &rarr;</a>
         </div>

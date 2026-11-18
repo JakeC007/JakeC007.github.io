@@ -76,7 +76,7 @@ share-description: "Jake Chanenson is a CS PhD researcher at the University of C
             for homework or for something personal. My current work asks what students
             expect to happen to that information, how schools write rules for AI, and when teens trust AI for
             safety advice at all. I also organize a <a href="/ai-safety">workshop series on youth AI safety</a> at
-            ACM CHI and ASSETS.
+            ACM CHI and ASSETS, and collaborate with Lauren Wilcox and Yu'an Yang at Apple.
           </p>
         </div>
 
