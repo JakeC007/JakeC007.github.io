@@ -70,13 +70,14 @@ share-description: "Jake Chanenson is a CS PhD researcher at the University of C
             governance of these systems.
           </p>
           <p data-copy="ABOUT-INTRO-2">
-            Children's privacy is where my work started and what connects it. In K&ndash;12 schools I studied who
-            collects data about students, under what terms, and what oversight exists. These questions become
-            harder to answer when students use AI tools that no adult at their school selected or reviewed, whether
-            for homework or for something personal. My current work asks what students
-            expect to happen to that information, how schools write rules for AI, and when teens trust AI for
-            safety advice at all. I also organize a <a href="/ai-safety">workshop series on youth AI safety</a> at
-            ACM CHI and ASSETS, and collaborate with Lauren Wilcox and Yu'an Yang at Apple.
+            Children's privacy has been the common thread throughout my research. I began by looking at how
+            K&ndash;12 schools collect student data, who has access, and what oversight exists. These questions
+            become more pressing when students use AI tools their schools have not reviewed, whether for schoolwork
+            or for personal, non-school-related purposes. My current research studies students' privacy
+            expectations, how schools govern AI use, and when teens turn to AI for safety advice. I also organize a
+            <a href="https://www.youthaisafety.com/">workshop series on youth AI safety</a> at ACM CHI and ASSETS. <strong>I have a
+            formal research collaboration with Apple on youth AI safety, working with Lauren Wilcox and Yu'an
+            Yang.</strong>
           </p>
         </div>
 
